@@ -11,3 +11,6 @@ A list of demo websites for automatic music generation research
 
 [given piano score, generate an orchestration]
 * [LOP](https://qsdfo.github.io/LOP/index.html) (RBM; crestel17smc): https://qsdfo.github.io/LOP/results.html
+
+[given score, generate musical auio]
+* [PerformanceNet](https://arxiv.org/abs/1811.04357) (CNN; wang19aaai): https://github.com/bwang514/PerformanceNet
