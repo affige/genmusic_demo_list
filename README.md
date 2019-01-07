@@ -13,10 +13,6 @@ A list of demo websites for automatic music generation research
 * [MuseGAN](https://arxiv.org/abs/1709.06298) (CNN+GAN; dong18aaai): https://salu133445.github.io/musegan/
 
 
-[given chords, generate melody]
-* 
-
-
 [given prime melody, generate melody+chords]
 * [local_conv_music_generation](http://ouyangzhihao.com/wp-content/uploads/2018/12/MUSIC-GENERATION-WITH-LOCAL-CONNECTED-CONVOLUTIONAL-NEURAL-NETWORK.pdf) (CNN; ouyang18arxiv): https://somedaywilldo.github.io/local_conv_music_generation/
 
