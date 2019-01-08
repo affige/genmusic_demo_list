@@ -1,5 +1,8 @@
 A list of demo websites for automatic music generation research
 
+[to-be-categorized]
+* [BachProp](https://arxiv.org/abs/1812.06669) (;): https://sites.google.com/view/bachprop
+
 [generate melody]
 * [MidiNet](https://arxiv.org/abs/1703.10847) (CNN+GAN; yang17ismir): https://richardyang40148.github.io/TheBlog/midinet_arxiv_demo.html
 
