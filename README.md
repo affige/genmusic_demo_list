@@ -23,9 +23,9 @@ A list of demo websites for automatic music generation research
 
 
 [generate melody, generate arrangement]
-* [LeadsheetGAN]
-* [LeadsheetVAE]
-* [XiaoIce Band]
+* LeadsheetGAN
+* LeadsheetVAE
+* XiaoIce Band (the "multi-instrument co-arrangement model")
 
 
 [generate melody+bass+drum]
