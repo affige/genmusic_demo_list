@@ -12,6 +12,10 @@ A list of demo websites for automatic music generation research
 * [JazzGAN](http://musicalmetacreation.org/mume2018/proceedings/Trieu.pdf) (GAN; trieu18mume): https://www.cs.hmc.edu/~keller/jazz/improvisor/
 
 
+[generate drum]
+* [DrumVAE](https://arxiv.org/abs/1902.03722) (GRU+VAE; thio19milc): http://vibertthio.com/drum-vae-client
+
+
 [generate melody+chords]
 * [LeadsheetGAN](https://arxiv.org/abs/1807.11161) (CRNN+GAN; liu18icmla): https://liuhaumin.github.io/LeadsheetArrangement/results
 * [LeadsheetVAE](https://drive.google.com/file/d/10uGRGEI9IOfu_LyzDSG393fGhwUrEOi4/view) (RNN+VAE; liu18ismir-lbd): https://liuhaumin.github.io/LeadsheetArrangement/results
@@ -23,6 +27,7 @@ A list of demo websites for automatic music generation research
 
 [generate multitrack music]
 * [MuseGAN](https://arxiv.org/abs/1709.06298) (CNN+GAN; dong18aaai): https://salu133445.github.io/musegan/
+* [MIDI-VAE](https://arxiv.org/abs/1809.07600) (GRU+VAE; brunner18ismir): https://www.youtube.com/channel/UCCkFzSvCae8ySmKCCWM5Mpg
 * [Multitrack MusicVAE](https://arxiv.org/abs/1806.00195) (LSTM+VAE; simon18ismir): https://magenta.tensorflow.org/multitrack
 
 
