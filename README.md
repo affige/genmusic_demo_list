@@ -7,13 +7,23 @@ A list of demo websites for automatic music generation research
 * [MidiNet](https://arxiv.org/abs/1703.10847) (CNN+GAN; yang17ismir): https://richardyang40148.github.io/TheBlog/midinet_arxiv_demo.html
 * [StructureNet](http://ismir2018.ircam.fr/doc/pdfs/126_Paper.pdf) (LSTM; medeot18ismir) https://www.dropbox.com/sh/yxkxlnzi913ba50/AAA_mDbhdmaGJC9qj0zSlqCea?dl=0
 
+
+[given chord, generate melody]
+* [JazzGAN](http://musicalmetacreation.org/mume2018/proceedings/Trieu.pdf) (GAN; trieu18mume): https://www.cs.hmc.edu/~keller/jazz/improvisor/
+
+
 [generate melody+chords]
 * [LeadsheetGAN](https://arxiv.org/abs/1807.11161) (CRNN+GAN; liu18icmla): https://liuhaumin.github.io/LeadsheetArrangement/results
 * [LeadsheetVAE](https://drive.google.com/file/d/10uGRGEI9IOfu_LyzDSG393fGhwUrEOi4/view) (RNN+VAE; liu18ismir-lbd): https://liuhaumin.github.io/LeadsheetArrangement/results
 
 
-[generate multitrack pianoroll]
+[generate melody+bass+drum]
+* [MusicVAE](https://arxiv.org/abs/1803.05428) (LSTM+VAE; roberts18icml): https://magenta.tensorflow.org/music-vae
+
+
+[generate multitrack music]
 * [MuseGAN](https://arxiv.org/abs/1709.06298) (CNN+GAN; dong18aaai): https://salu133445.github.io/musegan/
+* [Multitrack MusicVAE](https://arxiv.org/abs/1806.00195) (LSTM+VAE; simon18ismir): https://magenta.tensorflow.org/multitrack
 
 
 [given prime melody, generate melody+chords]
@@ -32,8 +42,9 @@ A list of demo websites for automatic music generation research
 * [PerformanceNet](https://arxiv.org/abs/1811.04357) (CNN+GAN; wang19aaai): https://github.com/bwang514/PerformanceNet
 * [GANSynth](https://arxiv.org/abs/1902.08710) (CNN+GAN; engel19iclr): https://magenta.tensorflow.org/gansynth
 
+
 [generate audio]
-* [NSynth](https://arxiv.org/pdf/1704.01279) (WaveNet; engel17arxiv): https://magenta.tensorflow.org/nsynth
+* [NSynth](https://arxiv.org/abs/1704.01279) (WaveNet; engel17arxiv): https://magenta.tensorflow.org/nsynth
 * [WaveGAN](https://arxiv.org/abs/1802.04208) (CNN+GAN; donahue19iclr): https://github.com/chrisdonahue/wavegan
 * [TFGAN](https://arxiv.org/abs/1902.04072) (CNN+GAN; marafioti19arxiv): https://tifgan.github.io/
 
