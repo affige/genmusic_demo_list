@@ -10,6 +10,7 @@ A list of demo websites for automatic music generation research
 
 [given chord, generate melody]
 * [JazzGAN](http://musicalmetacreation.org/mume2018/proceedings/Trieu.pdf) (GAN; trieu18mume): https://www.cs.hmc.edu/~keller/jazz/improvisor/
+* [XiaoIce Band](http://staff.ustc.edu.cn/~qiliuql/files/Publications/Hongyuan-Zhu-KDD2018.pdf) (GRU; zhu18kdd): http://tv.cctv.com/2017/11/24/VIDEo7JWp0u0oWRmPbM4uCBt171124.shtml
 
 
 [generate drum]
@@ -19,6 +20,12 @@ A list of demo websites for automatic music generation research
 [generate melody+chords]
 * [LeadsheetGAN](https://arxiv.org/abs/1807.11161) (CRNN+GAN; liu18icmla): https://liuhaumin.github.io/LeadsheetArrangement/results
 * [LeadsheetVAE](https://drive.google.com/file/d/10uGRGEI9IOfu_LyzDSG393fGhwUrEOi4/view) (RNN+VAE; liu18ismir-lbd): https://liuhaumin.github.io/LeadsheetArrangement/results
+
+
+[generate melody, generate arrangement]
+* [LeadsheetGAN]
+* [LeadsheetVAE]
+* [XiaoIce Band]
 
 
 [generate melody+bass+drum]
