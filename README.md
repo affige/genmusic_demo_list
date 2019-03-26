@@ -1,12 +1,14 @@
 A list of demo websites for automatic music generation research
 
-[to-be-categorized]
-* [BachProp](https://arxiv.org/abs/1812.06669) (;): https://sites.google.com/view/bachprop
-
 [generate melody]
 * [folkRNN](https://github.com/IraKorshunova/folk-rnn) (LSTM): https://folkrnn.org/
 * [MidiNet](https://arxiv.org/abs/1703.10847) (CNN+GAN; yang17ismir): https://richardyang40148.github.io/TheBlog/midinet_arxiv_demo.html
 * [StructureNet](http://ismir2018.ircam.fr/doc/pdfs/126_Paper.pdf) (LSTM; medeot18ismir) https://www.dropbox.com/sh/yxkxlnzi913ba50/AAA_mDbhdmaGJC9qj0zSlqCea?dl=0
+
+
+[generate single-track polyphonic music]
+* [BachProp](https://arxiv.org/abs/1812.06669) (GRU; colombo18arxiv): https://sites.google.com/view/bachprop
+* [Modularized VAE](https://arxiv.org/pdf/1811.00162.pdf) (GRU+VAE; wang19icassp): ?
 
 
 [given chord, generate melody]
@@ -18,7 +20,7 @@ A list of demo websites for automatic music generation research
 * [DrumVAE](https://arxiv.org/abs/1902.03722) (GRU+VAE; thio19milc): http://vibertthio.com/drum-vae-client
 
 
-[generate melody+chords]
+[generate melody+chords (two tracks)]
 * [LeadsheetGAN](https://arxiv.org/abs/1807.11161) (CRNN+GAN; liu18icmla): https://liuhaumin.github.io/LeadsheetArrangement/results
 * [LeadsheetVAE](https://drive.google.com/file/d/10uGRGEI9IOfu_LyzDSG393fGhwUrEOi4/view) (RNN+VAE; liu18ismir-lbd): https://liuhaumin.github.io/LeadsheetArrangement/results
 
