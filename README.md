@@ -53,6 +53,12 @@ A list of demo websites for automatic music generation research
 * [LOP](https://qsdfo.github.io/LOP/index.html) (RBM; crestel17smc): https://qsdfo.github.io/LOP/results.html
 
 
+[symbolic-domain genre style transfer]
+* [RaGAN](https://www.aaai.org/Papers/AAAI/2019/AAAI-LuC.2259.pdf) (GAN; lu19aaai): https://github.com/ChienYuLu/Play-As-You-Like-Timbre-Enhanced-Multi-modal-Music-Style-Transfer
+* [CycleGAN](https://arxiv.org/pdf/1809.07575.pdf) (CNN+GAN; brunner18ictai): https://github.com/sumuzhao/CycleGAN-Music-Style-Transfer
+* [FusionGAN](https://dac.cs.vt.edu/wp-content/uploads/2017/11/learning-to-fuse.pdf) (GAN; chen17icdm): http://people.cs.vt.edu/czq/publication/fusiongan/
+
+
 [given score, generate musical audio (performance): Piano only]
 * [PerformanceRNN](https://magenta.tensorflow.org/performance-rnn) (RNN): https://magenta.tensorflow.org/performance-rnn
 * [VirtuosoNet](https://nips2018creativity.github.io/doc/virtuosonet.pdf) (LSTM+hierarchical attention network; jeong18nipsw): https://www.youtube.com/playlist?list=PLkIVXCxCZ08rD1PXbrb0KNOSYVh5Pvg-c
@@ -61,15 +67,14 @@ A list of demo websites for automatic music generation research
 
 [given score, generate musical audio (performance): Not limited to Piano]
 * [PerformanceNet](https://arxiv.org/abs/1811.04357) (CNN+GAN; wang19aaai): https://github.com/bwang514/PerformanceNet
+
+
+[audio synthesis]
 * [GANSynth](https://arxiv.org/abs/1902.08710) (CNN+GAN; engel19iclr): https://magenta.tensorflow.org/gansynth
-
-
-[generate audio]
 * [NSynth](https://arxiv.org/abs/1704.01279) (WaveNet; engel17arxiv): https://magenta.tensorflow.org/nsynth
 * [WaveGAN](https://arxiv.org/abs/1802.04208) (CNN+GAN; donahue19iclr): https://github.com/chrisdonahue/wavegan
 * [TFGAN](https://arxiv.org/abs/1902.04072) (CNN+GAN; marafioti19arxiv): https://tifgan.github.io/
 
-[genre style transfer]
-* [RaGAN](https://www.aaai.org/Papers/AAAI/2019/AAAI-LuC.2259.pdf) (GAN; lu19aaai): https://github.com/ChienYuLu/Play-As-You-Like-Timbre-Enhanced-Multi-modal-Music-Style-Transfer
-* [CycleGAN](https://arxiv.org/pdf/1809.07575.pdf) (CNN+GAN; brunner18ictai): https://github.com/sumuzhao/CycleGAN-Music-Style-Transfer
-* [FusionGAN](https://dac.cs.vt.edu/wp-content/uploads/2017/11/learning-to-fuse.pdf) (GAN; chen17icdm): http://people.cs.vt.edu/czq/publication/fusiongan/
+
+[audio-domain singing style transfer]
+* [cybegan](https://arxiv.org/pdf/1807.02254.pdf) (CNN+GAN; wu18faim): http://mirlab.org/users/haley.wu/cybegan/
