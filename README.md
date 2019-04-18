@@ -71,10 +71,10 @@ A list of demo websites for automatic music generation research
 
 [audio synthesis]
 * [GANSynth](https://arxiv.org/abs/1902.08710) (CNN+GAN; engel19iclr): https://magenta.tensorflow.org/gansynth
-* [NSynth](https://arxiv.org/abs/1704.01279) (WaveNet; engel17arxiv): https://magenta.tensorflow.org/nsynth
-* [WaveGAN](https://arxiv.org/abs/1802.04208) (CNN+GAN; donahue19iclr): https://github.com/chrisdonahue/wavegan
 * [TFGAN](https://arxiv.org/abs/1902.04072) (CNN+GAN; marafioti19arxiv): https://tifgan.github.io/
-
+* [WaveGAN](https://arxiv.org/abs/1802.04208) (CNN+GAN; donahue19iclr): https://github.com/chrisdonahue/wavegan
+* [NSynth](https://arxiv.org/abs/1704.01279) (WaveNet; engel17arxiv): https://magenta.tensorflow.org/nsynth
+* [AdVoc](https://arxiv.org/abs/1904.07944) (; neekhara19arxiv): http://chrisdonahue.com/advoc_examples/
 
 [audio-domain singing style transfer]
 * [cybegan](https://arxiv.org/pdf/1807.02254.pdf) (CNN+GAN; wu18faim): http://mirlab.org/users/haley.wu/cybegan/
