@@ -85,7 +85,7 @@ A list of demo websites for automatic music generation research
 
 
 [audio-domain singing synthesis]
-http://home.ustc.edu.cn/~yiyh/interspeech2019/
+* http://home.ustc.edu.cn/~yiyh/interspeech2019/
 
 
 [audio-domain singing style transfer]
