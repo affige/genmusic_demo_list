@@ -1,8 +1,8 @@
 A list of demo websites for automatic music generation research
 
 [interactive piano generation]
-* [Piano Genie] https://piano-genie.glitch.me/
-* [AI duet] https://experiments.withgoogle.com/ai/ai-duet/view/
+* Piano Genie— https://piano-genie.glitch.me/
+* AI duet— https://experiments.withgoogle.com/ai/ai-duet/view/
 
 
 [generate melody]
