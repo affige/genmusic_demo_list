@@ -9,6 +9,7 @@ A list of demo websites for automatic music generation research
 
 
 [generate single-track polyphonic music]
+* [VGMIDI](http://www.lucasnferreira.com/papers/2019/ismir-learning.pdf) (LSTM; ferreira19ismir): N/A
 * [BachProp](https://arxiv.org/abs/1812.06669) (GRU; colombo18arxiv): https://sites.google.com/view/bachprop
 * [Modularized VAE](https://arxiv.org/pdf/1811.00162.pdf) (GRU+VAE; wang19icassp): https://github.com/MiuLab/MVAE_Music
 
@@ -19,6 +20,7 @@ A list of demo websites for automatic music generation research
 
 
 [generate drum]
+* Generating structured drum pattern using variational autoencoder and self-similarity matrix (wei19ismir): N/A
 * [DrumVAE](https://arxiv.org/abs/1902.03722) (GRU+VAE; thio19milc): http://vibertthio.com/drum-vae-client
 
 
@@ -28,9 +30,9 @@ A list of demo websites for automatic music generation research
 
 
 [generate melody, generate arrangement]
-* LeadsheetGAN
-* LeadsheetVAE
-* XiaoIce Band (the "multi-instrument co-arrangement model")
+* LeadsheetGAN: see above
+* LeadsheetVAE: see above
+* XiaoIce Band (the "multi-instrument co-arrangement model"): N/A
 
 
 [generate melody+bass+drum]
