@@ -83,3 +83,8 @@ A list of demo websites for automatic music generation research
 
 [audio-domain singing style transfer]
 * [cybegan](https://arxiv.org/pdf/1807.02254.pdf) (CNN+GAN; wu18faim): http://mirlab.org/users/haley.wu/cybegan/
+
+[singing synthesis (style transfer)]
+* https://mtg.github.io/singing-synthesis-demos/voice-cloning/
+* https://enk100.github.io/Unsupervised_Singing_Voice_Conversion/
+* http://mirlab.org/users/haley.wu/cybegan/
