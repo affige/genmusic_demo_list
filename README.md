@@ -1,10 +1,12 @@
 A list of demo websites for automatic music generation research
 
+
 [generate melody]
-* [folkRNN](https://github.com/IraKorshunova/folk-rnn) (LSTM): https://folkrnn.org/
-* [MidiNet](https://arxiv.org/abs/1703.10847) (CNN+GAN; yang17ismir): https://richardyang40148.github.io/TheBlog/midinet_arxiv_demo.html
-* [StructureNet](http://ismir2018.ircam.fr/doc/pdfs/126_Paper.pdf) (LSTM; medeot18ismir) https://www.dropbox.com/sh/yxkxlnzi913ba50/AAA_mDbhdmaGJC9qj0zSlqCea?dl=0
 * [SSMGAN](https://drive.google.com/file/d/1Ol4Ym3KqUkjcfL_Yeu0It3BP7NFS2mor/view) (VAE+LSTM+GAN; jhamtani19ml4md): https://drive.google.com/drive/folders/1TlOrbYAm7vGUvRrxa-uiH17bP-4N4e9z
+* [StructureNet](http://ismir2018.ircam.fr/doc/pdfs/126_Paper.pdf) (LSTM; medeot18ismir) https://www.dropbox.com/sh/yxkxlnzi913ba50/AAA_mDbhdmaGJC9qj0zSlqCea?dl=0
+* [MidiNet](https://arxiv.org/abs/1703.10847) (CNN+GAN; yang17ismir): https://richardyang40148.github.io/TheBlog/midinet_arxiv_demo.html
+* [folkRNN](https://github.com/IraKorshunova/folk-rnn) (LSTM): https://folkrnn.org/
+
 
 [generate single-track polyphonic music]
 * [BachProp](https://arxiv.org/abs/1812.06669) (GRU; colombo18arxiv): https://sites.google.com/view/bachprop
@@ -38,9 +40,9 @@ A list of demo websites for automatic music generation research
 [generate multitrack music]
 * [LakhNES](https://arxiv.org/abs/1907.04868) (Transformer; donahue19ismir): https://chrisdonahue.com/LakhNES/
 * [MuseNet](https://openai.com/blog/musenet/) (Transformer): https://openai.com/blog/musenet/
-* [MuseGAN](https://arxiv.org/abs/1709.06298) (CNN+GAN; dong18aaai): https://salu133445.github.io/musegan/
 * [MIDI-VAE](https://arxiv.org/abs/1809.07600) (GRU+VAE; brunner18ismir): https://www.youtube.com/channel/UCCkFzSvCae8ySmKCCWM5Mpg
 * [Multitrack MusicVAE](https://arxiv.org/abs/1806.00195) (LSTM+VAE; simon18ismir): https://magenta.tensorflow.org/multitrack
+* [MuseGAN](https://arxiv.org/abs/1709.06298) (CNN+GAN; dong18aaai): https://salu133445.github.io/musegan/
 
 
 [given prime melody, generate melody+chords]
@@ -56,38 +58,37 @@ A list of demo websites for automatic music generation research
 
 
 [symbolic-domain genre style transfer]
-* [FusionGAN](https://dac.cs.vt.edu/wp-content/uploads/2017/11/learning-to-fuse.pdf) (GAN; chen17icdm): http://people.cs.vt.edu/czq/publication/fusiongan/
-* [CycleGAN](https://arxiv.org/pdf/1809.07575.pdf) (CNN+GAN; brunner18ictai): https://github.com/sumuzhao/CycleGAN-Music-Style-Transfer
-* [RaGAN](https://www.aaai.org/Papers/AAAI/2019/AAAI-LuC.2259.pdf) (GAN; lu19aaai): https://github.com/ChienYuLu/Play-As-You-Like-Timbre-Enhanced-Multi-modal-Music-Style-Transfer
 * [supervised](https://arxiv.org/abs/1907.02265) (RNN; cífka19ismir): https://github.com/cifkao/ismir2019-music-style-translation
+* [RaGAN](https://www.aaai.org/Papers/AAAI/2019/AAAI-LuC.2259.pdf) (GAN; lu19aaai): https://github.com/ChienYuLu/Play-As-You-Like-Timbre-Enhanced-Multi-modal-Music-Style-Transfer
+* [CycleGAN](https://arxiv.org/pdf/1809.07575.pdf) (CNN+GAN; brunner18ictai): https://github.com/sumuzhao/CycleGAN-Music-Style-Transfer
+* [FusionGAN](https://dac.cs.vt.edu/wp-content/uploads/2017/11/learning-to-fuse.pdf) (GAN; chen17icdm): http://people.cs.vt.edu/czq/publication/fusiongan/
 
 
 [given score, generate musical audio (performance): Piano only]
-* [PerformanceRNN](https://magenta.tensorflow.org/performance-rnn) (RNN): https://magenta.tensorflow.org/performance-rnn
+* [GGNN](http://proceedings.mlr.press/v97/jeong19a/jeong19a.pdf) (graph NN + hierarchical attention RNN; jeong19icml): https://slideslive.com/38917395/applications
 * [VirtuosoNet](https://nips2018creativity.github.io/doc/virtuosonet.pdf) (LSTM+hierarchical attention network; jeong18nipsw): https://www.youtube.com/playlist?list=PLkIVXCxCZ08rD1PXbrb0KNOSYVh5Pvg-c
 * [Wave2Midi2Wave](https://arxiv.org/abs/1810.12247) (transformer+wavenet; hawthorne19iclr): https://magenta.tensorflow.org/maestro-wave2midi2wave
-* [GGNN](http://proceedings.mlr.press/v97/jeong19a/jeong19a.pdf) (graph NN + hierarchical attention RNN; jeong19icml): https://slideslive.com/38917395/applications
+* [PerformanceRNN](https://magenta.tensorflow.org/performance-rnn) (RNN): https://magenta.tensorflow.org/performance-rnn
 
 
 [given score, generate musical audio (performance): Not limited to Piano]
-* [PerformanceNet](https://arxiv.org/abs/1811.04357) (CNN+GAN; wang19aaai): https://github.com/bwang514/PerformanceNet
 * [GrooVAE](https://magenta.tensorflow.org/groovae) (seq2seq+VAE; gillick19icml): https://magenta.tensorflow.org/groovae
+* [PerformanceNet](https://arxiv.org/abs/1811.04357) (CNN+GAN; wang19aaai): https://github.com/bwang514/PerformanceNet
 
 
 [audio synthesis]
+* [AdVoc](https://arxiv.org/abs/1904.07944) (; neekhara19arxiv): http://chrisdonahue.com/advoc_examples/
 * [GANSynth](https://arxiv.org/abs/1902.08710) (CNN+GAN; engel19iclr): https://magenta.tensorflow.org/gansynth
 * [TFGAN](https://arxiv.org/abs/1902.04072) (CNN+GAN; marafioti19arxiv): https://tifgan.github.io/
 * [WaveGAN](https://arxiv.org/abs/1802.04208) (CNN+GAN; donahue19iclr): https://github.com/chrisdonahue/wavegan
 * [NSynth](https://arxiv.org/abs/1704.01279) (WaveNet; engel17arxiv): https://magenta.tensorflow.org/nsynth
-* [AdVoc](https://arxiv.org/abs/1904.07944) (; neekhara19arxiv): http://chrisdonahue.com/advoc_examples/
 
-[audio-domain singing style transfer]
-* [cybegan](https://arxiv.org/pdf/1807.02254.pdf) (CNN+GAN; wu18faim): http://mirlab.org/users/haley.wu/cybegan/
 
-[singing synthesis]
+[audio-domain singing synthesis]
 http://home.ustc.edu.cn/~yiyh/interspeech2019/
 
-[singing style transfer]
+
+[audio-domain singing style transfer]
 * https://mtg.github.io/singing-synthesis-demos/voice-cloning/
 * https://enk100.github.io/Unsupervised_Singing_Voice_Conversion/
-* http://mirlab.org/users/haley.wu/cybegan/
+* [cybegan](https://arxiv.org/pdf/1807.02254.pdf) (CNN+GAN; wu18faim): http://mirlab.org/users/haley.wu/cybegan/
