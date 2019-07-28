@@ -91,7 +91,7 @@ A list of demo websites for automatic music generation research
 
 
 [audio-domain music generation]
-* [dadabots](https://arxiv.org/abs/1811.06633) (sampleRNN; carr18arxiv): http://dadabots.com/music.php
+* [dadabots](https://arxiv.org/abs/1811.06633) (sampleRNN; carr18mume): http://dadabots.com/music.php
 
 
 [audio-domain singing synthesis]
