@@ -23,6 +23,10 @@ A list of demo websites for automatic music generation research
 * [XiaoIce Band](http://staff.ustc.edu.cn/~qiliuql/files/Publications/Hongyuan-Zhu-KDD2018.pdf) (GRU; zhu18kdd): http://tv.cctv.com/2017/11/24/VIDEo7JWp0u0oWRmPbM4uCBt171124.shtml
 
 
+[given lyrics, compose melody]
+* [Conditional LSTM-GAN](https://arxiv.org/pdf/1908.05551.pdf) (LSTM+GAN; yu19arxiv): N/A
+* [SongWriter](https://arxiv.org/pdf/1809.04318.pdf) (GRU; bao18arxiv): N/A
+
 [compose drum loops]
 * Generating structured drum pattern using variational autoencoder and self-similarity matrix (wei19ismir): N/A
 * [DrumVAE](https://arxiv.org/abs/1902.03722) (GRU+VAE; thio19milc): http://vibertthio.com/drum-vae-client
