@@ -30,6 +30,7 @@ A list of demo websites for automatic music generation research
 
 
 [compose drum loops]
+* [DrumNet](https://arxiv.org/pdf/1908.00948.pdf) (GAE; lattner19waspaa): https://sites.google.com/view/drum-generation
 * Generating structured drum pattern using variational autoencoder and self-similarity matrix (wei19ismir): N/A
 * [DrumVAE](https://arxiv.org/abs/1902.03722) (GRU+VAE; thio19milc): http://vibertthio.com/drum-vae-client
 
