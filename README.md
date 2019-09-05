@@ -4,8 +4,8 @@ A list of demo websites for automatic music generation research
 * [Jamming with Yating](http://mac.citi.sinica.edu.tw/~yang/pub/ailabs19ismirlbd_2.pdf) (RNN; hsiao19ismir-lbd): https://www.youtube.com/watch?v=9ZIJrr6lmHg
 
 [interactive piano composition]
-* [Piano Genie](https://nips2018creativity.github.io/doc/pianogenie.pdf): https://piano-genie.glitch.me/
-* [AI duet](https://nips.cc/Conferences/2016/Schedule?showEvent=6307): https://experiments.withgoogle.com/ai/ai-duet/view/
+* [Piano Genie](https://nips2018creativity.github.io/doc/pianogenie.pdf) (RNN; donahue18nips-creativity): https://piano-genie.glitch.me/
+* [AI duet](https://nips.cc/Conferences/2016/Schedule?showEvent=6307) (RNN; roberts16nips-demo): https://experiments.withgoogle.com/ai/ai-duet/view/
 
 [compose melody]
 * [SSMGAN](https://drive.google.com/file/d/1Ol4Ym3KqUkjcfL_Yeu0It3BP7NFS2mor/view) (VAE+LSTM+GAN; jhamtani19ml4md): https://drive.google.com/drive/folders/1TlOrbYAm7vGUvRrxa-uiH17bP-4N4e9z
