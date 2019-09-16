@@ -74,7 +74,6 @@ A list of demo websites for automatic music generation research
 [symbolic-domain genre style transfer]
 * [Pop2Jazz](http://mac.citi.sinica.edu.tw/~yang/pub/ailabs19ismirlbd_1.pdf) (RNN; yeh19ismir-lbd): https://soundcloud.com/yating_ai/sets/ismir-2019-submission/
 * [supervised](https://arxiv.org/abs/1907.02265) (RNN; cífka19ismir): https://github.com/cifkao/ismir2019-music-style-translation
-* [RaGAN](https://www.aaai.org/Papers/AAAI/2019/AAAI-LuC.2259.pdf) (GAN; lu19aaai): https://github.com/ChienYuLu/Play-As-You-Like-Timbre-Enhanced-Multi-modal-Music-Style-Transfer
 * [CycleGAN](https://arxiv.org/pdf/1809.07575.pdf) (CNN+GAN; brunner18ictai): https://github.com/sumuzhao/CycleGAN-Music-Style-Transfer
 * [FusionGAN](https://dac.cs.vt.edu/wp-content/uploads/2017/11/learning-to-fuse.pdf) (GAN; chen17icdm): http://people.cs.vt.edu/czq/publication/fusiongan/
 
@@ -111,3 +110,6 @@ A list of demo websites for automatic music generation research
 * https://mtg.github.io/singing-synthesis-demos/voice-cloning/
 * https://enk100.github.io/Unsupervised_Singing_Voice_Conversion/
 * [cybegan](https://arxiv.org/pdf/1807.02254.pdf) (CNN+GAN; wu18faim): http://mirlab.org/users/haley.wu/cybegan/
+
+[audio-domain style transfer (general)]
+* [RaGAN](https://www.aaai.org/Papers/AAAI/2019/AAAI-LuC.2259.pdf) (GAN; lu19aaai): https://github.com/ChienYuLu/Play-As-You-Like-Timbre-Enhanced-Multi-modal-Music-Style-Transfer
