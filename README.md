@@ -103,7 +103,7 @@ A list of demo websites for automatic music generation research
 
 
 [audio-domain singing synthesis]
-* [lee's model](https://arxiv.org/pdf/1908.01919.pdf): http://ksinging.mystrikingly.com/
+* [lee's model](https://arxiv.org/pdf/1908.01919.pdf) (lee19arxiv): http://ksinging.mystrikingly.com/
 * http://home.ustc.edu.cn/~yiyh/interspeech2019/
 
 
