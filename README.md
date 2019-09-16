@@ -24,6 +24,7 @@ A list of demo websites for automatic music generation research
 
 [compose multitrack music]
 * [JazzRNN](http://mac.citi.sinica.edu.tw/~yang/pub/ailabs19ismirlbd_1.pdf) (RNN; yeh19ismir-lbd): https://soundcloud.com/yating_ai/sets/ismir-2019-submission/
+* [MIDI-Sandwich2](https://arxiv.org/pdf/1909.03522.pdf) (RNN+VAE; liang19arxiv): https://github.com/LiangHsia/MIDI-S2
 * [LakhNES](https://arxiv.org/abs/1907.04868) (Transformer; donahue19ismir): https://chrisdonahue.com/LakhNES/
 * [MuseNet](https://openai.com/blog/musenet/) (Transformer): https://openai.com/blog/musenet/
 * [MIDI-VAE](https://arxiv.org/abs/1809.07600) (GRU+VAE; brunner18ismir): https://www.youtube.com/channel/UCCkFzSvCae8ySmKCCWM5Mpg
