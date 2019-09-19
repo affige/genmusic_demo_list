@@ -79,6 +79,9 @@ A list of demo websites for automatic music generation research
 * [FusionGAN](https://dac.cs.vt.edu/wp-content/uploads/2017/11/learning-to-fuse.pdf) (GAN; chen17icdm): http://people.cs.vt.edu/czq/publication/fusiongan/
 
 
+[symbolic-domain arrangement style transfer]
+* [UnetED](https://arxiv.org/abs/1905.13567) (CNN+Unet; hung19ijcai): https://biboamy.github.io/disentangle_demo/result/index.html
+
 [given score, generate musical audio (performance): Piano only]
 * [GGNN](http://proceedings.mlr.press/v97/jeong19a/jeong19a.pdf) (graph NN + hierarchical attention RNN; jeong19icml): https://slideslive.com/38917395/applications
 * [VirtuosoNet](https://nips2018creativity.github.io/doc/virtuosonet.pdf) (LSTM+hierarchical attention network; jeong18nipsw): https://www.youtube.com/playlist?list=PLkIVXCxCZ08rD1PXbrb0KNOSYVh5Pvg-c
