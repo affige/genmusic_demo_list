@@ -97,6 +97,7 @@ A list of demo websites for automatic music generation research
 [audio synthesis]
 * [AdVoc](https://arxiv.org/abs/1904.07944) (; neekhara19arxiv): http://chrisdonahue.com/advoc_examples/
 * [GANSynth](https://arxiv.org/abs/1902.08710) (CNN+GAN; engel19iclr): https://magenta.tensorflow.org/gansynth
+* [SynthNet](https://www.ijcai.org/proceedings/2019/467) (schimbinschi19ijcai): https://www.dropbox.com/sh/hkp3o5xjyexp2x0/AADvrfXTbHBXs9W7GN6Yeorua?dl=0
 * [TFGAN](https://arxiv.org/abs/1902.04072) (CNN+GAN; marafioti19arxiv): https://tifgan.github.io/
 * [SING](https://arxiv.org/abs/1810.09785) (defossez18nips): https://research.fb.com/wp-content/themes/fb-research/research/sing-paper/
 * [WaveGAN](https://arxiv.org/abs/1802.04208) (CNN+GAN; donahue19iclr): https://github.com/chrisdonahue/wavegan
