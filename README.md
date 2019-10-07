@@ -23,6 +23,7 @@ A list of demo websites for automatic music generation research
 
 
 [compose multitrack music]
+* [measure-by-measure](https://openreview.net/forum?id=Hklk6xrYPB) (RNN): https://sites.google.com/view/pjgbjzom
 * [JazzRNN](http://mac.citi.sinica.edu.tw/~yang/pub/ailabs19ismirlbd_1.pdf) (RNN; yeh19ismir-lbd): https://soundcloud.com/yating_ai/sets/ismir-2019-submission/
 * [MIDI-Sandwich2](https://arxiv.org/pdf/1909.03522.pdf) (RNN+VAE; liang19arxiv): https://github.com/LiangHsia/MIDI-S2
 * [LakhNES](https://arxiv.org/abs/1907.04868) (Transformer; donahue19ismir): https://chrisdonahue.com/LakhNES/
@@ -44,6 +45,7 @@ A list of demo websites for automatic music generation research
 
 
 [compose drum loops]
+* [Wei's model](https://drive.google.com/file/d/1149HnGliYtl45Cjp9XwJadL_YHRLvq5F/view) (VAE+GAN; wei19ismir): https://github.com/Sma1033/drum_generation_with_ssm
 * [DrumNet](https://arxiv.org/pdf/1908.00948.pdf) (GAE; lattner19waspaa): https://sites.google.com/view/drum-generation
 * Generating structured drum pattern using variational autoencoder and self-similarity matrix (wei19ismir): N/A
 * [DrumVAE](https://arxiv.org/abs/1902.03722) (GRU+VAE; thio19milc): http://vibertthio.com/drum-vae-client
