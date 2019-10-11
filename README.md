@@ -77,6 +77,7 @@ A list of demo websites for automatic music generation research
 [symbolic-domain genre style transfer]
 * [Pop2Jazz](http://mac.citi.sinica.edu.tw/~yang/pub/ailabs19ismirlbd_1.pdf) (RNN; yeh19ismir-lbd): https://soundcloud.com/yating_ai/sets/ismir-2019-submission/
 * [supervised](https://arxiv.org/abs/1907.02265) (RNN; cífka19ismir): https://github.com/cifkao/ismir2019-music-style-translation
+* [CycleGAN2](https://tik-old.ee.ethz.ch/file/0d41d7d657f1a65f65373c4797caaeac/Music_Genre_Transfer___ECML_MML_Workshop_CR.pdf) (CNN+GAN; brunner19mml): https://drive.google.com/drive/folders/1Jr_p6pnKvhA2YW9sp-ABChiFgV3gY1aT
 * [CycleGAN](https://arxiv.org/pdf/1809.07575.pdf) (CNN+GAN; brunner18ictai): https://github.com/sumuzhao/CycleGAN-Music-Style-Transfer
 * [FusionGAN](https://dac.cs.vt.edu/wp-content/uploads/2017/11/learning-to-fuse.pdf) (GAN; chen17icdm): http://people.cs.vt.edu/czq/publication/fusiongan/
 
@@ -122,3 +123,4 @@ A list of demo websites for automatic music generation research
 
 [audio-domain style transfer (general)]
 * [RaGAN](https://www.aaai.org/Papers/AAAI/2019/AAAI-LuC.2259.pdf) (GAN; lu19aaai): https://github.com/ChienYuLu/Play-As-You-Like-Timbre-Enhanced-Multi-modal-Music-Style-Transfer
+* [TimbreTron](http://www.cs.toronto.edu/~huang/TimbreTron/pdf/TImbreTron_arxiv.pdf) (GAN; huang19iclr): https://www.cs.toronto.edu/~huang/TimbreTron/samples_page.html
