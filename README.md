@@ -85,6 +85,11 @@ A list of demo websites for automatic music generation research
 [symbolic-domain arrangement style transfer]
 * [UnetED](https://arxiv.org/abs/1905.13567) (CNN+Unet; hung19ijcai): https://biboamy.github.io/disentangle_demo/result/index.html
 
+
+[symbolic-domain rhythm style transfer]
+* [deep-music-analogy](https://arxiv.org/pdf/1906.03626.pdf) (yang19ismir): https://github.com/cdyrhjohn/Deep-Music-Analogy-Demos
+
+
 [given score, generate musical audio (performance): Piano only]
 * [GGNN](http://proceedings.mlr.press/v97/jeong19a/jeong19a.pdf) (graph NN + hierarchical attention RNN; jeong19icml): https://slideslive.com/38917395/applications
 * [VirtuosoNet](https://nips2018creativity.github.io/doc/virtuosonet.pdf) (LSTM+hierarchical attention network; jeong18nipsw): https://www.youtube.com/playlist?list=PLkIVXCxCZ08rD1PXbrb0KNOSYVh5Pvg-c
