@@ -12,7 +12,7 @@ A list of demo websites for automatic music generation research
 * [StructureNet](http://ismir2018.ircam.fr/doc/pdfs/126_Paper.pdf) (LSTM; medeot18ismir) https://www.dropbox.com/sh/yxkxlnzi913ba50/AAA_mDbhdmaGJC9qj0zSlqCea?dl=0
 * [MusicVAE](https://arxiv.org/abs/1803.05428) (LSTM+VAE; roberts18icml): https://magenta.tensorflow.org/music-vae
 * [MidiNet](https://arxiv.org/abs/1703.10847) (CNN+GAN; yang17ismir): https://richardyang40148.github.io/TheBlog/midinet_arxiv_demo.html
-* [C-RNN-GAN](https://mogren.one/publications/2016/c-rnn-gan/mogren2016crnngan.pdf) (RNN+GAN; mogren16cml): http://mogren.one/publications/2016/c-rnn-gan/
+* [C-RNN-GAN](https://mogren.one/publications/2016/c-rnn-gan/mogren2016crnngan.pdf) (LSTM+GAN; mogren16cml): http://mogren.one/publications/2016/c-rnn-gan/
 * [folkRNN](https://github.com/IraKorshunova/folk-rnn) (LSTM): https://folkrnn.org/
 
 [compose single-track polyphonic music]
