@@ -128,6 +128,9 @@ A list of demo websites for automatic music generation research
 * [cybegan](https://arxiv.org/pdf/1807.02254.pdf) (CNN+GAN; wu18faim): http://mirlab.org/users/haley.wu/cybegan/
 
 
+[audio-domain singing correction]
+* [deep-autotuner](https://arxiv.org/abs/1902.00956) (CGRU; wagner19icassp): http://homes.sice.indiana.edu/scwager/deepautotuner.html
+
 [audio-domain style transfer (general)]
 * [RaGAN](https://www.aaai.org/Papers/AAAI/2019/AAAI-LuC.2259.pdf) (GAN; lu19aaai): https://github.com/ChienYuLu/Play-As-You-Like-Timbre-Enhanced-Multi-modal-Music-Style-Transfer
 * [TimbreTron](http://www.cs.toronto.edu/~huang/TimbreTron/pdf/TImbreTron_arxiv.pdf) (GAN; huang19iclr): https://www.cs.toronto.edu/~huang/TimbreTron/samples_page.html
