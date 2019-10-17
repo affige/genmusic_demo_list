@@ -122,6 +122,8 @@ A list of demo websites for automatic music generation research
 
 
 [audio-domain singing style transfer]
+* [SINGAN](https://www.researchgate.net/publication/336058156_SINGAN_Singing_Voice_Conversion_with_Generative_Adversarial_Networks) (GAN; sisman19apsipa): N/A
+* [MSVC-GAN] (GAN): https://hujinsen.github.io/
 * https://mtg.github.io/singing-synthesis-demos/voice-cloning/
 * https://enk100.github.io/Unsupervised_Singing_Voice_Conversion/
 * [Yong&Nam](https://seyong92.github.io/publications/yong_ICASSP_2018.pdf) (DSP; yong18icassp): https://seyong92.github.io/singing-expression-transfer/
