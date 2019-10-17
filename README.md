@@ -124,7 +124,9 @@ A list of demo websites for automatic music generation research
 [audio-domain singing style transfer]
 * https://mtg.github.io/singing-synthesis-demos/voice-cloning/
 * https://enk100.github.io/Unsupervised_Singing_Voice_Conversion/
+* [Yong&Nam](https://seyong92.github.io/publications/yong_ICASSP_2018.pdf) (DSP; yong18icassp): https://seyong92.github.io/singing-expression-transfer/
 * [cybegan](https://arxiv.org/pdf/1807.02254.pdf) (CNN+GAN; wu18faim): http://mirlab.org/users/haley.wu/cybegan/
+
 
 [audio-domain style transfer (general)]
 * [RaGAN](https://www.aaai.org/Papers/AAAI/2019/AAAI-LuC.2259.pdf) (GAN; lu19aaai): https://github.com/ChienYuLu/Play-As-You-Like-Timbre-Enhanced-Multi-modal-Music-Style-Transfer
