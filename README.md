@@ -103,7 +103,6 @@ A list of demo websites for automatic music generation research
 
 
 [audio synthesis]
-* [Parallel WaveGAN](https://arxiv.org/pdf/1910.11480.pdf) (GAN; yamamoto19arxiv): https://r9y9.github.io/demos/projects/icassp2020/
 * [AdVoc](https://arxiv.org/abs/1904.07944) (; neekhara19arxiv): http://chrisdonahue.com/advoc_examples/
 * [GANSynth](https://arxiv.org/abs/1902.08710) (CNN+GAN; engel19iclr): https://magenta.tensorflow.org/gansynth
 * [SynthNet](https://www.ijcai.org/proceedings/2019/467) (schimbinschi19ijcai): https://www.dropbox.com/sh/hkp3o5xjyexp2x0/AADvrfXTbHBXs9W7GN6Yeorua?dl=0
