@@ -103,6 +103,8 @@ A list of demo websites for automatic music generation research
 
 
 [audio synthesis]
+* [DDSP](https://openreview.net/forum?id=B1x1ma4tDr) (; lamtharn20iclr): https://storage.googleapis.com/ddsp/index.html
+* [MelNet](https://arxiv.org/pdf/1906.01083.pdf) (auto-regressive; vasquez19arxiv): https://audio-samples.github.io/
 * [AdVoc](https://arxiv.org/abs/1904.07944) (; neekhara19arxiv): http://chrisdonahue.com/advoc_examples/
 * [GANSynth](https://arxiv.org/abs/1902.08710) (CNN+GAN; engel19iclr): https://magenta.tensorflow.org/gansynth
 * [SynthNet](https://www.ijcai.org/proceedings/2019/467) (schimbinschi19ijcai): https://www.dropbox.com/sh/hkp3o5xjyexp2x0/AADvrfXTbHBXs9W7GN6Yeorua?dl=0
