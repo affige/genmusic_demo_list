@@ -119,6 +119,7 @@ A list of demo websites for automatic music generation research
 
 
 [audio-domain singing synthesis]
+* [mellotron](https://arxiv.org/abs/1910.11997): https://nv-adlr.github.io/Mellotron
 * [lee's model](https://arxiv.org/pdf/1908.01919.pdf) (lee19arxiv): http://ksinging.mystrikingly.com/
 * http://home.ustc.edu.cn/~yiyh/interspeech2019/
 
