@@ -100,6 +100,7 @@ A list of demo websites for automatic music generation research
 [given score, generate musical audio (performance): Not limited to Piano]
 * [GrooVAE](https://magenta.tensorflow.org/groovae) (seq2seq+VAE; gillick19icml): https://magenta.tensorflow.org/groovae
 * [PerformanceNet](https://arxiv.org/abs/1811.04357) (CNN+GAN; wang19aaai): https://github.com/bwang514/PerformanceNet
+* [Conditioned Wavenet](https://archives.ismir.net/ismir2018/paper/000192.pdf) (Wavenet; manzelli18ismir): http://people.bu.edu/bkulis/projects/music/index.html
 
 
 [audio synthesis]
