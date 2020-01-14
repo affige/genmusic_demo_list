@@ -1,4 +1,4 @@
-A list of demo websites for automatic music generation research
+```A list of demo websites for automatic music generation research```
 
 ###interactive multi-track music composition
 * [Jamming with Yating](http://mac.citi.sinica.edu.tw/~yang/pub/ailabs19ismirlbd_2.pdf) (RNN; hsiao19ismir-lbd): https://www.youtube.com/watch?v=9ZIJrr6lmHg
