@@ -94,12 +94,16 @@
 ###given MIDI, generate human-like MIDI: Piano only
 * [GGNN](http://proceedings.mlr.press/v97/jeong19a/jeong19a.pdf) (graph NN + hierarchical attention RNN; jeong19icml)
 * [VirtuosoNet](https://nips2018creativity.github.io/doc/virtuosonet.pdf) (LSTM+hierarchical attention network; jeong18nipsw): https://www.youtube.com/playlist?list=PLkIVXCxCZ08rD1PXbrb0KNOSYVh5Pvg-c
-* [Wave2Midi2Wave](https://arxiv.org/abs/1810.12247) (transformer+wavenet; hawthorne19iclr): https://magenta.tensorflow.org/maestro-wave2midi2wave
 * [PerformanceRNN](https://magenta.tensorflow.org/performance-rnn) (RNN): https://magenta.tensorflow.org/performance-rnn
 
 
 ###given MIDI, generate human-like MIDI: Drum only
 * [GrooVAE](https://magenta.tensorflow.org/groovae) (seq2seq+VAE; gillick19icml): https://magenta.tensorflow.org/groovae
+
+
+
+###given score, generate musical audio (performance): Piano only
+* [Wave2Midi2Wave](https://arxiv.org/abs/1810.12247) (transformer+wavenet; hawthorne19iclr): https://magenta.tensorflow.org/maestro-wave2midi2wave
 
 
 ###given score, generate musical audio (performance): Not limited to Piano
