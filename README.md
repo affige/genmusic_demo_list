@@ -17,10 +17,12 @@
 
 
 ###compose single-track polyphonic music
+* [Pop Music Transformer]() (Transformer; huang20arxiv): https://github.com/YatingMusic/remi
 * [PopRNN](http://mac.citi.sinica.edu.tw/~yang/pub/ailabs19ismirlbd_1.pdf) (RNN; yeh19ismir-lbd): https://soundcloud.com/yating_ai/sets/ismir-2019-submission/
 * [VGMIDI](http://www.lucasnferreira.com/papers/2019/ismir-learning.pdf) (LSTM; ferreira19ismir): N/A
 * [Modularized VAE](https://arxiv.org/pdf/1811.00162.pdf) (GRU+VAE; wang19icassp): https://github.com/MiuLab/MVAE_Music
 * [BachProp](https://arxiv.org/abs/1812.06669) (GRU; colombo18arxiv): https://sites.google.com/view/bachprop
+* [Music Transformer](https://arxiv.org/abs/1809.04281) (Transformer; huang19iclr): https://magenta.tensorflow.org/music-transformer
 
 
 ###compose multitrack music
@@ -134,6 +136,7 @@
 
 
 ###audio-domain singing style transfer
+* [speech2sing]() (GAN; parekh20icassp): https://jayneelparekh.github.io/icassp20/
 * [SINGAN](https://www.researchgate.net/publication/336058156_SINGAN_Singing_Voice_Conversion_with_Generative_Adversarial_Networks) (GAN; sisman19apsipa): N/A
 * [MSVC-GAN] (GAN): https://hujinsen.github.io/
 * https://mtg.github.io/singing-synthesis-demos/voice-cloning/
