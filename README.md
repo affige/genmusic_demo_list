@@ -17,7 +17,7 @@
 
 
 ###compose single-track polyphonic music
-* [Pop Music Transformer]() (Transformer; huang20arxiv): https://github.com/YatingMusic/remi
+* [Pop Music Transformer](https://arxiv.org/abs/2002.00212) (Transformer; huang20arxiv): https://github.com/YatingMusic/remi
 * [PopRNN](http://mac.citi.sinica.edu.tw/~yang/pub/ailabs19ismirlbd_1.pdf) (RNN; yeh19ismir-lbd): https://soundcloud.com/yating_ai/sets/ismir-2019-submission/
 * [VGMIDI](http://www.lucasnferreira.com/papers/2019/ismir-learning.pdf) (LSTM; ferreira19ismir): N/A
 * [Modularized VAE](https://arxiv.org/pdf/1811.00162.pdf) (GRU+VAE; wang19icassp): https://github.com/MiuLab/MVAE_Music
