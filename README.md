@@ -55,6 +55,7 @@
 
 
 ###compose melody+chords (two tracks)
+* [Two-stage RNN](https://arxiv.org/abs/2002.10266) (RNN; deboom20arxiv): https://users.ugent.be/~cdboom/music/
 * [LeadsheetGAN](https://arxiv.org/abs/1807.11161) (CRNN+GAN; liu18icmla): https://liuhaumin.github.io/LeadsheetArrangement/results
 * [LeadsheetVAE](https://drive.google.com/file/d/10uGRGEI9IOfu_LyzDSG393fGhwUrEOi4/view) (RNN+VAE; liu18ismir-lbd): https://liuhaumin.github.io/LeadsheetArrangement/results
 
