@@ -114,7 +114,8 @@
 * [Conditioned Wavenet](https://archives.ismir.net/ismir2018/paper/000192.pdf) (Wavenet; manzelli18ismir): http://people.bu.edu/bkulis/projects/music/index.html
 
 
-###audio synthesis
+###audio/timbre synthesis
+* [MANNe](https://arxiv.org/abs/2001.11296) (): https://github.com/JTColonel/manne
 * [DDSP](https://openreview.net/forum?id=B1x1ma4tDr) (; lamtharn20iclr): https://storage.googleapis.com/ddsp/index.html
 * [MelNet](https://arxiv.org/pdf/1906.01083.pdf) (auto-regressive; vasquez19arxiv): https://audio-samples.github.io/
 * [AdVoc](https://arxiv.org/abs/1904.07944) (; neekhara19arxiv): http://chrisdonahue.com/advoc_examples/
