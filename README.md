@@ -117,7 +117,7 @@
 
 ###audio/timbre synthesis
 * [MANNe](https://arxiv.org/abs/2001.11296) (): https://github.com/JTColonel/manne
-* [DDSP](https://openreview.net/forum?id=B1x1ma4tDr) (; lamtharn20iclr): https://storage.googleapis.com/ddsp/index.html
+* [DDSP](https://openreview.net/forum?id=B1x1ma4tDr) (dsp-inspired; lamtharn20iclr): https://storage.googleapis.com/ddsp/index.html
 * [MelNet](https://arxiv.org/pdf/1906.01083.pdf) (auto-regressive; vasquez19arxiv): https://audio-samples.github.io/
 * [AdVoc](https://arxiv.org/abs/1904.07944) (; neekhara19arxiv): http://chrisdonahue.com/advoc_examples/
 * [GANSynth](https://arxiv.org/abs/1902.08710) (CNN+GAN; engel19iclr): https://magenta.tensorflow.org/gansynth
