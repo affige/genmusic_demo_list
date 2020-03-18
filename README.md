@@ -96,6 +96,7 @@
 
 
 ###given MIDI, generate human-like MIDI: Piano only
+* [CVRNN](http://archives.ismir.net/ismir2019/paper/000105.pdf) (CVRNN; maezawa19ismir): https://sites.google.com/view/cvrnn-performance-render
 * [GGNN](http://proceedings.mlr.press/v97/jeong19a/jeong19a.pdf) (graph NN + hierarchical attention RNN; jeong19icml)
 * [VirtuosoNet](https://nips2018creativity.github.io/doc/virtuosonet.pdf) (LSTM+hierarchical attention network; jeong18nipsw): https://www.youtube.com/playlist?list=PLkIVXCxCZ08rD1PXbrb0KNOSYVh5Pvg-c
 * [PerformanceRNN](https://magenta.tensorflow.org/performance-rnn) (RNN): https://magenta.tensorflow.org/performance-rnn
