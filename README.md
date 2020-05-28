@@ -117,6 +117,7 @@
 
 
 ###audio/timbre synthesis
+* [unagan](https://arxiv.org/abs/2005.08526): https://github.com/ciaua/unagan
 * [MANNe](https://arxiv.org/abs/2001.11296) (): https://github.com/JTColonel/manne
 * [DDSP](https://openreview.net/forum?id=B1x1ma4tDr) (dsp-inspired; lamtharn20iclr): https://storage.googleapis.com/ddsp/index.html
 * [MelNet](https://arxiv.org/pdf/1906.01083.pdf) (auto-regressive; vasquez19arxiv): https://audio-samples.github.io/
