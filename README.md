@@ -1,5 +1,8 @@
 ```A list of demo websites for automatic music generation research```
 
+###generate whole song
+* [jukebox](https://arxiv.org/abs/2005.00341) (VQVAE+Transformer; dhariwal20arxiv): https://openai.com/blog/jukebox/
+
 ###interactive multi-track music composition
 * [Jamming with Yating](http://mac.citi.sinica.edu.tw/~yang/pub/ailabs19ismirlbd_2.pdf) (RNN; hsiao19ismir-lbd): https://www.youtube.com/watch?v=9ZIJrr6lmHg
 
