@@ -120,6 +120,7 @@
 
 
 ###audio/timbre synthesis
+* [GAAE](https://arxiv.org/abs/2006.00877) (GAN+AAE; haque20arxiv): https://drive.google.com/drive/folders/1et_BuZ_XDMrdsYzZDprLvEpmmuZrJ7jk
 * [unagan](https://arxiv.org/abs/2005.08526): https://github.com/ciaua/unagan
 * [MANNe](https://arxiv.org/abs/2001.11296) (): https://github.com/JTColonel/manne
 * [DDSP](https://openreview.net/forum?id=B1x1ma4tDr) (dsp-inspired; lamtharn20iclr): https://storage.googleapis.com/ddsp/index.html
