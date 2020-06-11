@@ -53,7 +53,6 @@
 ###compose drum loops
 * [Wei's model](https://drive.google.com/file/d/1149HnGliYtl45Cjp9XwJadL_YHRLvq5F/view) (VAE+GAN; wei19ismir): https://github.com/Sma1033/drum_generation_with_ssm
 * [DrumNet](https://arxiv.org/pdf/1908.00948.pdf) (GAE; lattner19waspaa): https://sites.google.com/view/drum-generation
-* Generating structured drum pattern using variational autoencoder and self-similarity matrix (wei19ismir): N/A
 * [DrumVAE](https://arxiv.org/abs/1902.03722) (GRU+VAE; thio19milc): http://vibertthio.com/drum-vae-client
 
 
