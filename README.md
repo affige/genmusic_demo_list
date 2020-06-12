@@ -138,6 +138,7 @@
 
 
 ###audio-domain singing synthesis
+* [xiaoicesing](https://arxiv.org/pdf/2006.06261.pdf): https://xiaoicesing.github.io/
 * [bytesing](https://arxiv.org/pdf/2004.11012.pdf): https://bytesings.github.io/ 
 * [mellotron](https://arxiv.org/abs/1910.11997): https://nv-adlr.github.io/Mellotron
 * [lee's model](https://arxiv.org/pdf/1908.01919.pdf) (lee19arxiv): http://ksinging.mystrikingly.com/
