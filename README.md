@@ -138,6 +138,7 @@
 
 
 ###audio-domain singing synthesis
+* [xiaoice-multi-singer](https://arxiv.org/pdf/2006.10317.pdf): https://jiewu-demo.github.io/INTERSPEECH2020/
 * [xiaoicesing](https://arxiv.org/pdf/2006.06261.pdf): https://xiaoicesing.github.io/
 * [bytesing](https://arxiv.org/pdf/2004.11012.pdf): https://bytesings.github.io/ 
 * [mellotron](https://arxiv.org/abs/1910.11997): https://nv-adlr.github.io/Mellotron
