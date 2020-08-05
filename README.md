@@ -17,7 +17,8 @@
 
 
 ###compose single-track polyphonic music
-* [Pop Music Transformer](https://arxiv.org/abs/2002.00212) (Transformer; huang20arxiv): https://github.com/YatingMusic/remi
+* [Guitar Transformer](https://arxiv.org/abs/2008.01431) (Transformer; chen20ismir): https://ss12f32v.github.io/Guitar-Transformer-Demo/
+* [Pop Music Transformer](https://arxiv.org/abs/2002.00212) (Transformer; huang20mm): https://github.com/YatingMusic/remi
 * [Conditional Music Transformer](https://arxiv.org/abs/1912.05537) (Transformer; choi19arxiv): https://storage.googleapis.com/magentadata/papers/music-transformer-autoencoder/index.html; and https://magenta.tensorflow.org/transformer-autoencoder
 * [PopRNN](http://mac.citi.sinica.edu.tw/~yang/pub/ailabs19ismirlbd_1.pdf) (RNN; yeh19ismir-lbd): https://soundcloud.com/yating_ai/sets/ismir-2019-submission/
 * [VGMIDI](http://www.lucasnferreira.com/papers/2019/ismir-learning.pdf) (LSTM; ferreira19ismir): https://github.com/lucasnfe/music-sentneuron
@@ -57,6 +58,8 @@
 
 
 ###compose melody+chords (two tracks)
+* [Jazz Transformer](https://arxiv.org/abs/2008.01307) (Transformer; wu20ismir): https://drive.google.com/drive/folders/1-09SoxumYPdYetsUWHIHSugK99E2tNYD
+* [Transformer VAE](https://ieeexplore.ieee.org/document/9054554) (Transformer+VAE; jiang20icassp): https://drive.google.com/drive/folders/1Su-8qrK__28mAesSCJdjo6QZf9zEgIx6
 * [Two-stage RNN](https://arxiv.org/abs/2002.10266) (RNN; deboom20arxiv): https://users.ugent.be/~cdboom/music/
 * [LeadsheetGAN](https://arxiv.org/abs/1807.11161) (CRNN+GAN; liu18icmla): https://liuhaumin.github.io/LeadsheetArrangement/results
 * [LeadsheetVAE](https://drive.google.com/file/d/10uGRGEI9IOfu_LyzDSG393fGhwUrEOi4/view) (RNN+VAE; liu18ismir-lbd): https://liuhaumin.github.io/LeadsheetArrangement/results
