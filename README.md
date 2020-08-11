@@ -150,7 +150,10 @@
 
 
 ###audio-domain singing style transfer
-* [speech2sing]() (GAN; parekh20icassp): https://jayneelparekh.github.io/icassp20/
+* [VAW-GAN](https://arxiv.org/pdf/2008.03992.pdf) (GAN; lu20arxiv): https://kunzhou9646.github.io/singvaw-gan/
+* [polyak20interspeech](https://arxiv.org/pdf/2008.02830.pdf) (GAN; polyak20interspeech): https://singing-conversion.github.io/
+* [speech2sing2](https://arxiv.org/pdf/2005.13835.pdf) (GAN; wu20interspeech): https://ericwudayi.github.io/Speech2Singing-DEMO/
+* [speech2sing](https://arxiv.org/pdf/2002.06595.pdf) (encoder/decoder; parekh20icassp): https://jayneelparekh.github.io/icassp20/
 * [SINGAN](https://www.researchgate.net/publication/336058156_SINGAN_Singing_Voice_Conversion_with_Generative_Adversarial_Networks) (GAN; sisman19apsipa): N/A
 * [MSVC-GAN] (GAN): https://hujinsen.github.io/
 * https://mtg.github.io/singing-synthesis-demos/voice-cloning/
