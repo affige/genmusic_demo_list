@@ -29,6 +29,7 @@
 
 
 ###compose multitrack music
+* [MMM](https://arxiv.org/pdf/2008.06048.pdf) (Transformer; ens20arxiv): https://jeffreyjohnens.github.io/MMM/
 * [MahlerNet](http://www.mahlernet.se/files/SMC2019.pdf) (RNN+VAE; lousseief19smc): https://github.com/fast-reflexes/MahlerNet
 * [measure-by-measure](https://openreview.net/forum?id=Hklk6xrYPB) (RNN): https://sites.google.com/view/pjgbjzom
 * [JazzRNN](http://mac.citi.sinica.edu.tw/~yang/pub/ailabs19ismirlbd_1.pdf) (RNN; yeh19ismir-lbd): https://soundcloud.com/yating_ai/sets/ismir-2019-submission/
