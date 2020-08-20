@@ -17,6 +17,7 @@
 
 
 ###compose single-track polyphonic music
+* [PIANOTREE VAE](https://arxiv.org/abs/2008.07118) (VAE+GRU; wang20ismir): https://github.com/ZZWaang/PianoTree-VAE
 * [Guitar Transformer](https://arxiv.org/abs/2008.01431) (Transformer; chen20ismir): https://ss12f32v.github.io/Guitar-Transformer-Demo/
 * [Pop Music Transformer](https://arxiv.org/abs/2002.00212) (Transformer; huang20mm): https://github.com/YatingMusic/remi
 * [Conditional Music Transformer](https://arxiv.org/abs/1912.05537) (Transformer; choi19arxiv): https://storage.googleapis.com/magentadata/papers/music-transformer-autoencoder/index.html; and https://magenta.tensorflow.org/transformer-autoencoder
@@ -67,6 +68,7 @@
 
 
 ###given melody, compose arrangement
+* [PopMAG](https://arxiv.org/abs/2008.07703) (transformer; ren20mm): https://music-popmag.github.io/popmag/
 * LeadsheetGAN: see above
 * LeadsheetVAE: see above
 * XiaoIce Band (the "multi-instrument co-arrangement model"): N/A
