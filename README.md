@@ -144,6 +144,7 @@
 
 
 ###audio-domain singing synthesis
+* [HiFiSinger](https://arxiv.org/abs/2009.01776) (Transformer; chen20arxiv): https://speechresearch.github.io/hifisinger/
 * [DeepSinger](https://arxiv.org/abs/2007.04590) (Transformer; ren20kdd): https://speechresearch.github.io/deepsinger/
 * [xiaoice-multi-singer](https://arxiv.org/pdf/2006.10317.pdf): https://jiewu-demo.github.io/INTERSPEECH2020/
 * [xiaoicesing](https://arxiv.org/pdf/2006.06261.pdf): https://xiaoicesing.github.io/
