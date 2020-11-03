@@ -8,6 +8,7 @@
 * [AI duet](https://nips.cc/Conferences/2016/Schedule?showEvent=6307) (RNN; roberts16nips-demo): https://experiments.withgoogle.com/ai/ai-duet/view/
 
 ###compose melody
+* [Sketchnet](https://program.ismir2020.net/poster_1-09.html) (VAE+GRU; chen20ismir): https://github.com/RetroCirce/Music-SketchNet
 * [SSMGAN](https://drive.google.com/file/d/1Ol4Ym3KqUkjcfL_Yeu0It3BP7NFS2mor/view) (VAE+LSTM+GAN; jhamtani19ml4md): https://drive.google.com/drive/folders/1TlOrbYAm7vGUvRrxa-uiH17bP-4N4e9z
 * [StructureNet](http://ismir2018.ircam.fr/doc/pdfs/126_Paper.pdf) (LSTM; medeot18ismir) https://www.dropbox.com/sh/yxkxlnzi913ba50/AAA_mDbhdmaGJC9qj0zSlqCea?dl=0
 * [MusicVAE](https://arxiv.org/abs/1803.05428) (LSTM+VAE; roberts18icml): https://magenta.tensorflow.org/music-vae
@@ -98,7 +99,8 @@
 * [UnetED](https://arxiv.org/abs/1905.13567) (CNN+Unet; hung19ijcai): https://biboamy.github.io/disentangle_demo/result/index.html
 
 
-###symbolic-domain rhythm style transfer
+###symbolic-domain emotion/rhythm/pitch style transfer
+* [Music FaderNets](https://program.ismir2020.net/poster_1-13.html) (VAE; tan20ismir): https://music-fadernets.github.io/
 * [deep-music-analogy](https://arxiv.org/pdf/1906.03626.pdf) (yang19ismir): https://github.com/cdyrhjohn/Deep-Music-Analogy-Demos
 
 
@@ -155,6 +157,7 @@
 
 
 ###audio-domain singing style transfer
+* [iZotope-SVC](https://program.ismir2020.net/poster_1-08.html) (conv-encoder/decoder; nercessian20ismir): https://sites.google.com/izotope.com/ismir2020-audio-demo
 * [VAW-GAN](https://arxiv.org/pdf/2008.03992.pdf) (GAN; lu20arxiv): https://kunzhou9646.github.io/singvaw-gan/
 * [polyak20interspeech](https://arxiv.org/pdf/2008.02830.pdf) (GAN; polyak20interspeech): https://singing-conversion.github.io/
 * [speech2sing2](https://arxiv.org/pdf/2005.13835.pdf) (GAN; wu20interspeech): https://ericwudayi.github.io/Speech2Singing-DEMO/
