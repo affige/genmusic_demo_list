@@ -31,6 +31,7 @@
 
 
 ###compose multitrack music
+* [CONLON](https://program.ismir2020.net/poster_6-14.html) (GAN; angioloni20ismir): https://paolo-f.github.io/CONLON/
 * [MMM](https://arxiv.org/pdf/2008.06048.pdf) (Transformer; ens20arxiv): https://jeffreyjohnens.github.io/MMM/
 * [MahlerNet](http://www.mahlernet.se/files/SMC2019.pdf) (RNN+VAE; lousseief19smc): https://github.com/fast-reflexes/MahlerNet
 * [measure-by-measure](https://openreview.net/forum?id=Hklk6xrYPB) (RNN): https://sites.google.com/view/pjgbjzom
