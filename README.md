@@ -130,6 +130,7 @@
 
 
 ###audio/timbre synthesis
+* [Michelashvili](https://program.ismir2020.net/poster_6-19.html) (dsp-inspired; michelashvili20iclr): https://github.com/mosheman5/timbre_painting
 * [GAAE](https://arxiv.org/abs/2006.00877) (GAN+AAE; haque20arxiv): https://drive.google.com/drive/folders/1et_BuZ_XDMrdsYzZDprLvEpmmuZrJ7jk
 * [UNAGAN](https://arxiv.org/abs/2005.08526) (GAN; liu20arxiv): https://github.com/ciaua/unagan
 * [MANNe](https://arxiv.org/abs/2001.11296) (): https://github.com/JTColonel/manne
