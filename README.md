@@ -77,6 +77,10 @@
 * XiaoIce Band (the "multi-instrument co-arrangement model"): N/A
 
 
+###given mix (audio), compose bass
+* [BassNet](https://www.mdpi.com/2076-3417/10/18/6627) (GAE+CNN; ren20mm): https://sonycslparis.github.io/bassnet/
+
+
 ###given prime melody, compose melody+chords
 * [local_conv_music_generation](http://ouyangzhihao.com/wp-content/uploads/2018/12/MUSIC-GENERATION-WITH-LOCAL-CONNECTED-CONVOLUTIONAL-NEURAL-NETWORK.pdf) (CNN; ouyang18arxiv): https://somedaywilldo.github.io/local_conv_music_generation/
 
