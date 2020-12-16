@@ -7,6 +7,9 @@
 * [Piano Genie](https://nips2018creativity.github.io/doc/pianogenie.pdf) (RNN; donahue18nips-creativity): https://piano-genie.glitch.me/
 * [AI duet](https://nips.cc/Conferences/2016/Schedule?showEvent=6307) (RNN; roberts16nips-demo): https://experiments.withgoogle.com/ai/ai-duet/view/
 
+###interactive monoaural music composition
+* [musicalspeech] (Transformer; d'Eon20nips-demo): https://jasondeon.github.io/musicalSpeech/
+
 ###compose melody
 * [Sketchnet](https://program.ismir2020.net/poster_1-09.html) (VAE+GRU; chen20ismir): https://github.com/RetroCirce/Music-SketchNet
 * [SSMGAN](https://drive.google.com/file/d/1Ol4Ym3KqUkjcfL_Yeu0It3BP7NFS2mor/view) (VAE+LSTM+GAN; jhamtani19ml4md): https://drive.google.com/drive/folders/1TlOrbYAm7vGUvRrxa-uiH17bP-4N4e9z
