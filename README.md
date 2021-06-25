@@ -110,6 +110,7 @@
 
 
 ###symbolic-domain emotion/rhythm/pitch style transfer
+* [MuseMorphose](https://arxiv.org/abs/2105.04090) (Transformer+VAE; wu21arxiv): https://slseanwu.github.io/site-musemorphose/
 * [Kawai](https://program.ismir2020.net/poster_5-06.html) (VAE+GRU+adversarial; kawai20ismir): https://lisakawai.github.io/music_transformation/
 * [Wang](https://program.ismir2020.net/poster_5-05.html) (VAE+GRU; wang20ismir): https://github.com/ZZWaang/polyphonic-chord-texture-disentanglement
 * [Music FaderNets](https://program.ismir2020.net/poster_1-13.html) (VAE; tan20ismir): https://music-fadernets.github.io/
