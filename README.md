@@ -97,6 +97,9 @@
 * [LOP](https://qsdfo.github.io/LOP/index.html) (RBM; crestel17smc): https://qsdfo.github.io/LOP/results.html
 
 
+###piano inpainting
+* [The Piano Inpainting Application](https://arxiv.org/pdf/2107.05944.pdf) (): https://ghadjeres.github.io/piano-inpainting-application/
+
 ###symbolic-domain genre style transfer
 * [Pop2Jazz](http://mac.citi.sinica.edu.tw/~yang/pub/ailabs19ismirlbd_1.pdf) (RNN; yeh19ismir-lbd): https://soundcloud.com/yating_ai/sets/ismir-2019-submission/
 * [Groove2Groove](https://hal.archives-ouvertes.fr/hal-02923548/document) (RNN; cífka19ismir, cífka20taslp): https://groove2groove.telecom-paris.fr/
