@@ -7,6 +7,9 @@
 * [Piano Genie](https://nips2018creativity.github.io/doc/pianogenie.pdf) (RNN; donahue18nips-creativity): https://piano-genie.glitch.me/
 * [AI duet](https://nips.cc/Conferences/2016/Schedule?showEvent=6307) (RNN; roberts16nips-demo): https://experiments.withgoogle.com/ai/ai-duet/view/
 
+###piano infilling
+* [VLI](https://arxiv.org/pdf/2108.05064.pdf) (Transformer; chang21ismir): https://jackyhsiung.github.io/piano-infilling-demo/
+
 ###interactive monoaural music composition
 * [musicalspeech] (Transformer; d'Eon20nips-demo): https://jasondeon.github.io/musicalSpeech/
 
@@ -51,6 +54,9 @@
 * [BebopNet](https://program.ismir2020.net/poster_6-08.html) (LSTM): https://shunithaviv.github.io/bebopnet/
 * [JazzGAN](http://musicalmetacreation.org/mume2018/proceedings/Trieu.pdf) (GAN; trieu18mume): https://www.cs.hmc.edu/~keller/jazz/improvisor/
 * [XiaoIce Band](http://staff.ustc.edu.cn/~qiliuql/files/Publications/Hongyuan-Zhu-KDD2018.pdf) (GRU; zhu18kdd): http://tv.cctv.com/2017/11/24/VIDEo7JWp0u0oWRmPbM4uCBt171124.shtml
+
+###given melody, compose chord (harmonization)
+* [SurpriseNet](https://arxiv.org/pdf/2108.00378.pdf) (VAE; chen21ismir): https://github.com/scmvp301135/SurpriseNet
 
 
 ###given lyrics, compose melody
