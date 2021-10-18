@@ -14,6 +14,7 @@
 * [musicalspeech] (Transformer; d'Eon20nips-demo): https://jasondeon.github.io/musicalSpeech/
 
 ###compose melody
+* [MELONS](https://arxiv.org/pdf/2110.05020.pdf) (transformer; zhou21arxiv): https://yiathena.github.io/MELONS/
 * [Sketchnet](https://program.ismir2020.net/poster_1-09.html) (VAE+GRU; chen20ismir): https://github.com/RetroCirce/Music-SketchNet
 * [SSMGAN](https://drive.google.com/file/d/1Ol4Ym3KqUkjcfL_Yeu0It3BP7NFS2mor/view) (VAE+LSTM+GAN; jhamtani19ml4md): https://drive.google.com/drive/folders/1TlOrbYAm7vGUvRrxa-uiH17bP-4N4e9z
 * [StructureNet](http://ismir2018.ircam.fr/doc/pdfs/126_Paper.pdf) (LSTM; medeot18ismir) https://www.dropbox.com/sh/yxkxlnzi913ba50/AAA_mDbhdmaGJC9qj0zSlqCea?dl=0
