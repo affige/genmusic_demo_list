@@ -55,6 +55,7 @@
 
 
 ###given chord, compose melody
+* [MINGUS](https://archives.ismir.net/ismir2021/paper/000051.pdf) (Transformer; madaghiele21ismir): https://github.com/vincenzomadaghiele/MINGUS
 * [BebopNet](https://program.ismir2020.net/poster_6-08.html) (LSTM): https://shunithaviv.github.io/bebopnet/
 * [JazzGAN](http://musicalmetacreation.org/mume2018/proceedings/Trieu.pdf) (GAN; trieu18mume): https://www.cs.hmc.edu/~keller/jazz/improvisor/
 * [XiaoIce Band](http://staff.ustc.edu.cn/~qiliuql/files/Publications/Hongyuan-Zhu-KDD2018.pdf) (GRU; zhu18kdd): http://tv.cctv.com/2017/11/24/VIDEo7JWp0u0oWRmPbM4uCBt171124.shtml
