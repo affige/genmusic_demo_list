@@ -87,6 +87,8 @@
 
 
 ###given melody, compose arrangement
+* [AccoMontage](https://archives.ismir.net/ismir2021/paper/000104.pdf) (template-based; zhao21ismir): https://github.com/zhaojw1998/AccoMontage
+* [CP Transformer](https://arxiv.org/abs/2101.02402) (Transformer; hsiao21aaai): https://ailabs.tw/human-interaction/compound-word-transformer-generate-pop-piano-music-of-full-song-length/
 * [PopMAG](https://arxiv.org/abs/2008.07703) (transformer; ren20mm): https://music-popmag.github.io/popmag/
 * LeadsheetGAN: see above
 * LeadsheetVAE: see above
