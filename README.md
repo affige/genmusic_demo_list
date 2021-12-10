@@ -151,6 +151,7 @@
 
 
 ###audio/timbre synthesis
+* [NEWT](https://archives.ismir.net/ismir2021/paper/000031.pdf) (DDSP; hayes21ismir): https://benhayes.net/projects/nws/
 * [MP3net](https://arxiv.org/abs/2101.04785) (GAN; broek21arxiv): https://korneelvdbroek.github.io/mp3net/
 * [Michelashvili](https://program.ismir2020.net/poster_6-19.html) (dsp-inspired; michelashvili20iclr): https://github.com/mosheman5/timbre_painting
 * [GAAE](https://arxiv.org/abs/2006.00877) (GAN+AAE; haque20arxiv): https://drive.google.com/drive/folders/1et_BuZ_XDMrdsYzZDprLvEpmmuZrJ7jk
