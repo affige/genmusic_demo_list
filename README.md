@@ -56,6 +56,7 @@
 
 
 ###given chord, compose melody
+* [H-EC2-VAE](https://archives.ismir.net/ismir2021/paper/000092.pdf) (GRU+VAE; wei21ismir): N/A...
 * [MINGUS](https://archives.ismir.net/ismir2021/paper/000051.pdf) (Transformer; madaghiele21ismir): https://github.com/vincenzomadaghiele/MINGUS
 * [BebopNet](https://program.ismir2020.net/poster_6-08.html) (LSTM): https://shunithaviv.github.io/bebopnet/
 * [JazzGAN](http://musicalmetacreation.org/mume2018/proceedings/Trieu.pdf) (GAN; trieu18mume): https://www.cs.hmc.edu/~keller/jazz/improvisor/
