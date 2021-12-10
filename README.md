@@ -40,6 +40,8 @@
 * [BachProp](https://arxiv.org/abs/1812.06669) (GRU; colombo18arxiv): https://sites.google.com/view/bachprop
 * [Music Transformer](https://arxiv.org/abs/1809.04281) (Transformer; huang19iclr): https://magenta.tensorflow.org/music-transformer
 
+###compose single-track polyphonic music by combinging existing ones
+* [CollageNet](https://archives.ismir.net/ismir2021/paper/000098.pdf) (VAE; wuerkaixi21ismir): https://github.com/urkax/CollageNet
 
 ###compose multitrack music
 * [CONLON](https://program.ismir2020.net/poster_6-14.html) (GAN; angioloni20ismir): https://paolo-f.github.io/CONLON/
