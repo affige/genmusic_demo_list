@@ -7,8 +7,6 @@
 * [Piano Genie](https://nips2018creativity.github.io/doc/pianogenie.pdf) (RNN; donahue18nips-creativity): https://piano-genie.glitch.me/
 * [AI duet](https://nips.cc/Conferences/2016/Schedule?showEvent=6307) (RNN; roberts16nips-demo): https://experiments.withgoogle.com/ai/ai-duet/view/
 
-###piano infilling
-* [VLI](https://arxiv.org/pdf/2108.05064.pdf) (Transformer; chang21ismir): https://jackyhsiung.github.io/piano-infilling-demo/
 
 ###interactive monoaural music composition
 * [musicalspeech] (Transformer; d'Eon20nips-demo): https://jasondeon.github.io/musicalSpeech/
@@ -103,9 +101,12 @@
 ###given piano score, compose an orchestration
 * [LOP](https://qsdfo.github.io/LOP/index.html) (RBM; crestel17smc): https://qsdfo.github.io/LOP/results.html
 
-
-###piano inpainting
+###piano infilling
+* [VLI](https://arxiv.org/pdf/2108.05064.pdf) (Transformer; chang21ismir): https://jackyhsiung.github.io/piano-infilling-demo/
 * [The Piano Inpainting Application](https://arxiv.org/pdf/2107.05944.pdf) (): https://ghadjeres.github.io/piano-inpainting-application/
+
+###melody infilling
+* [CLSM](https://archives.ismir.net/ismir2021/paper/000002.pdf) (Transformer+LSTM; akama21ismir): https://contextual-latent-space-model.github.io/demo/
 
 ###symbolic-domain genre style transfer
 * [Pop2Jazz](http://mac.citi.sinica.edu.tw/~yang/pub/ailabs19ismirlbd_1.pdf) (RNN; yeh19ismir-lbd): https://soundcloud.com/yating_ai/sets/ismir-2019-submission/
