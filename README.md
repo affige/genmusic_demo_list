@@ -24,6 +24,9 @@
 
 
 ###compose single-track polyphonic music
+* [Theme Transformer](https://arxiv.org/abs/2111.04093) (Transformer; shih21arxiv): https://atosystem.github.io/ThemeTransformer/
+* [EMOPIA](https://archives.ismir.net/ismir2021/paper/000039.pdf) (Transformer; hung21ismir): https://annahung31.github.io/EMOPIA/
+* [CP Transformer](https://arxiv.org/abs/2101.02402) (Transformer; hsiao21aaai): https://ailabs.tw/human-interaction/compound-word-transformer-generate-pop-piano-music-of-full-song-length/
 * [PIANOTREE VAE](https://arxiv.org/abs/2008.07118) (VAE+GRU; wang20ismir): https://github.com/ZZWaang/PianoTree-VAE
 * [Guitar Transformer](https://arxiv.org/abs/2008.01431) (Transformer; chen20ismir): https://ss12f32v.github.io/Guitar-Transformer-Demo/
 * [Pop Music Transformer](https://arxiv.org/abs/2002.00212) (Transformer; huang20mm): https://github.com/YatingMusic/remi
