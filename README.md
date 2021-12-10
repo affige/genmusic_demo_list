@@ -173,7 +173,7 @@
 ###audio-domain singing synthesis
 * [KaraSinger](https://arxiv.org/abs/2110.04005) (GRU/Transformer; liao21arxiv): https://jerrygood0703.github.io/KaraSinger/
 * [MLP singer](https://arxiv.org/abs/2106.07886) (mixer blocks; tae21arxiv): https://github.com/neosapience/mlp-singer
-* [DiffSinger](https://arxiv.org/abs/2105.02446) (diffusion; liu21arxiv)[no duration modeling]: https://diffsinger.github.io/
+* [DiffSinger](https://arxiv.org/abs/2105.02446) (diffusion; liu22aaai)[no duration modeling]: https://diffsinger.github.io/
 * [HiFiSinger](https://arxiv.org/abs/2009.01776) (Transformer; chen20arxiv): https://speechresearch.github.io/hifisinger/
 * [DeepSinger](https://arxiv.org/abs/2007.04590) (Transformer; ren20kdd): https://speechresearch.github.io/deepsinger/
 * [xiaoice-multi-singer](https://arxiv.org/pdf/2006.10317.pdf): https://jiewu-demo.github.io/INTERSPEECH2020/
