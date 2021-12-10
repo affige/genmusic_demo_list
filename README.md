@@ -13,6 +13,7 @@
 
 ###compose melody
 * [Trans-LSTM](https://archives.ismir.net/ismir2021/paper/000017.pdf) (Transformer+LSTM; dai21ismir): N/A...
+* [diffusion](https://archives.ismir.net/ismir2021/paper/000058.pdf) (diffusion+musicVAE; mittal21ismir): https://storage.googleapis.com/magentadata/papers/symbolic-music-diffusion/index.html
 * [MELONS](https://arxiv.org/pdf/2110.05020.pdf) (Transformer; zhou21arxiv): https://yiathena.github.io/MELONS/
 * [Sketchnet](https://program.ismir2020.net/poster_1-09.html) (VAE+GRU; chen20ismir): https://github.com/RetroCirce/Music-SketchNet
 * [SSMGAN](https://drive.google.com/file/d/1Ol4Ym3KqUkjcfL_Yeu0It3BP7NFS2mor/view) (VAE+LSTM+GAN; jhamtani19ml4md): https://drive.google.com/drive/folders/1TlOrbYAm7vGUvRrxa-uiH17bP-4N4e9z
@@ -157,6 +158,8 @@
 
 ###audio/timbre synthesis
 * [NEWT](https://archives.ismir.net/ismir2021/paper/000031.pdf) (DDSP; hayes21ismir): https://benhayes.net/projects/nws/
+* [CRASH](https://archives.ismir.net/ismir2021/paper/000072.pdf) (diffusion; rouard21ismir): https://crash-diffusion.github.io/crash/
+* [DarkGAN](https://archives.ismir.net/ismir2021/paper/000060.pdf) (GAN; nistal21ismir): https://an-1673.github.io/DarkGAN.io/
 * [MP3net](https://arxiv.org/abs/2101.04785) (GAN; broek21arxiv): https://korneelvdbroek.github.io/mp3net/
 * [Michelashvili](https://program.ismir2020.net/poster_6-19.html) (dsp-inspired; michelashvili20iclr): https://github.com/mosheman5/timbre_painting
 * [GAAE](https://arxiv.org/abs/2006.00877) (GAN+AAE; haque20arxiv): https://drive.google.com/drive/folders/1et_BuZ_XDMrdsYzZDprLvEpmmuZrJ7jk
@@ -225,10 +228,6 @@
 * [SingGAN](https://arxiv.org/pdf/2110.07468.pdf) (GAN; chen21arxiv): https://singgan.github.io/
 * [DiffWave](https://arxiv.org/abs/2009.09761) (diffusion; kong21iclr): https://diffwave-demo.github.io/
 * [MelGAN](https://arxiv.org/abs/1910.06711) (GAN; kumar19neurips): https://melgan-neurips.github.io/
-
-###symbolic-domain loop generation
-
-
 
 ###audio-domain loop generation
 * [loopgen](https://archives.ismir.net/ismir2021/paper/000038.pdf) (GAN; hung21ismir): https://loopgen.github.io/
