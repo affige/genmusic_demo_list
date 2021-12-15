@@ -12,6 +12,7 @@
 * [musicalspeech] (Transformer; d'Eon20nips-demo): https://jasondeon.github.io/musicalSpeech/
 
 ###compose melody
+* [xai-lsr](https://xai4debugging.github.io/files/papers/exploring_xai_for_the_arts_exp.pdf) (VAE; bryankinns21nipsw): https://xai-lsr-ui.vercel.app/
 * [Trans-LSTM](https://archives.ismir.net/ismir2021/paper/000017.pdf) (Transformer+LSTM; dai21ismir): N/A...
 * [diffusion](https://archives.ismir.net/ismir2021/paper/000058.pdf) (diffusion+musicVAE; mittal21ismir): https://storage.googleapis.com/magentadata/papers/symbolic-music-diffusion/index.html
 * [MELONS](https://arxiv.org/pdf/2110.05020.pdf) (Transformer; zhou21arxiv): https://yiathena.github.io/MELONS/
@@ -202,6 +203,7 @@
 
 
 ###audio-domain singing style transfer
+* [Assem-VC](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_58.pdf) (; kim21nipsw): https://github.com/mindslab-ai/assem-vc
 * [iZotope-SVC](https://program.ismir2020.net/poster_1-08.html) (conv-encoder/decoder; nercessian20ismir): https://sites.google.com/izotope.com/ismir2020-audio-demo
 * [VAW-GAN](https://arxiv.org/pdf/2008.03992.pdf) (GAN; lu20arxiv): https://kunzhou9646.github.io/singvaw-gan/
 * [polyak20interspeech](https://arxiv.org/pdf/2008.02830.pdf) (GAN; polyak20interspeech): https://singing-conversion.github.io/
