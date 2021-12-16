@@ -203,7 +203,7 @@
 
 
 ###audio-domain singing style transfer
-* [Assem-VC](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_58.pdf) (; kim21nipsw): https://github.com/mindslab-ai/assem-vc
+* [Assem-VC](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_58.pdf) (; kim21nipsw): https://mindslab-ai.github.io/assem-vc/singer/
 * [iZotope-SVC](https://program.ismir2020.net/poster_1-08.html) (conv-encoder/decoder; nercessian20ismir): https://sites.google.com/izotope.com/ismir2020-audio-demo
 * [VAW-GAN](https://arxiv.org/pdf/2008.03992.pdf) (GAN; lu20arxiv): https://kunzhou9646.github.io/singvaw-gan/
 * [polyak20interspeech](https://arxiv.org/pdf/2008.02830.pdf) (GAN; polyak20interspeech): https://singing-conversion.github.io/
