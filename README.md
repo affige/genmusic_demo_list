@@ -190,6 +190,7 @@
 
 ###audio-domain singing synthesis
 * [KaraSinger](https://arxiv.org/abs/2110.04005) (GRU/Transformer; liao21arxiv): https://jerrygood0703.github.io/KaraSinger/
+* [VISinger](https://arxiv.org/pdf/2110.08813.pdf) (flow; zhang21arxiv): https://zhangyongmao.github.io/VISinger/
 * [MLP singer](https://arxiv.org/abs/2106.07886) (mixer blocks; tae21arxiv): https://github.com/neosapience/mlp-singer
 * [LiteSing](https://ieeexplore.ieee.org/document/9414043) (wavenet; zhuang21icassp): https://auzxb.github.io/LiteSing/
 * [DiffSinger](https://arxiv.org/abs/2105.02446) (diffusion; liu22aaai)[no duration modeling]: https://diffsinger.github.io/
