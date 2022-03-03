@@ -189,6 +189,7 @@
 
 
 ###audio-domain singing synthesis
+* [U-Singer](https://arxiv.org/pdf/2203.00931.pdf) (Transformer; kim22arxiv): https://u-singer.github.io/
 * [KaraSinger](https://arxiv.org/abs/2110.04005) (GRU/Transformer; liao21arxiv): https://jerrygood0703.github.io/KaraSinger/
 * [VISinger](https://arxiv.org/pdf/2110.08813.pdf) (flow; zhang21arxiv): https://zhangyongmao.github.io/VISinger/
 * [MLP singer](https://arxiv.org/abs/2106.07886) (mixer blocks; tae21arxiv): https://github.com/neosapience/mlp-singer
