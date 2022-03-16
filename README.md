@@ -58,6 +58,8 @@
 * [Multitrack MusicVAE](https://arxiv.org/abs/1806.00195) (LSTM+VAE; simon18ismir): https://magenta.tensorflow.org/multitrack
 * [MuseGAN](https://arxiv.org/abs/1709.06298) (CNN+GAN; dong18aaai): https://salu133445.github.io/musegan/
 
+###compose multitrack music (cover generation; need reference MIDI)
+* [FIGARO](https://arxiv.org/abs/2201.10936) (Transformer; rütte22arxiv): https://github.com/dvruette/figaro
 
 ###given chord, compose melody
 * [H-EC2-VAE](https://archives.ismir.net/ismir2021/paper/000092.pdf) (GRU+VAE; wei21ismir): N/A...
