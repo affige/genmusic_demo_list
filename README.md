@@ -12,6 +12,7 @@
 * [musicalspeech] (Transformer; d'Eon20nips-demo): https://jasondeon.github.io/musicalSpeech/
 
 ###compose melody
+* [parkR](https://transactions.ismir.net/articles/10.5334/tismir.87/) (markov; frieler22tismir): https://github.com/klausfrieler/parkR
 * [xai-lsr](https://xai4debugging.github.io/files/papers/exploring_xai_for_the_arts_exp.pdf) (VAE; bryankinns21nipsw): https://xai-lsr-ui.vercel.app/
 * [Trans-LSTM](https://archives.ismir.net/ismir2021/paper/000017.pdf) (Transformer+LSTM; dai21ismir): N/A...
 * [diffusion](https://archives.ismir.net/ismir2021/paper/000058.pdf) (diffusion+musicVAE; mittal21ismir): https://storage.googleapis.com/magentadata/papers/symbolic-music-diffusion/index.html
