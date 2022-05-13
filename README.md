@@ -45,7 +45,8 @@
 ###compose single-track polyphonic music by combinging existing ones
 * [CollageNet](https://archives.ismir.net/ismir2021/paper/000098.pdf) (VAE; wuerkaixi21ismir): https://github.com/urkax/CollageNet
 
-###compose multitrack music
+###compose multi-track music
+* [SymphonyNet](https://arxiv.org/pdf/2205.05448.pdf) (Transformer; 22arxiv): https://symphonynet.github.io/
 * [CMT](https://arxiv.org/abs/2111.08380) (Transformer; di21mm): https://wzk1015.github.io/cmt/
 * [CONLON](https://program.ismir2020.net/poster_6-14.html) (GAN; angioloni20ismir): https://paolo-f.github.io/CONLON/
 * [MMM](https://arxiv.org/pdf/2008.06048.pdf) (Transformer; ens20arxiv): https://jeffreyjohnens.github.io/MMM/
