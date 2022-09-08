@@ -12,6 +12,7 @@
 * [musicalspeech] (Transformer; d'Eon20nips-demo): https://jasondeon.github.io/musicalSpeech/
 
 ###compose melody
+* [meloform](https://arxiv.org/pdf/2208.14345.pdf) : https://ai-muzic.github.io/meloform/
 * [parkR](https://transactions.ismir.net/articles/10.5334/tismir.87/) (markov; frieler22tismir): https://github.com/klausfrieler/parkR
 * [xai-lsr](https://xai4debugging.github.io/files/papers/exploring_xai_for_the_arts_exp.pdf) (VAE; bryankinns21nipsw): https://xai-lsr-ui.vercel.app/
 * [Trans-LSTM](https://archives.ismir.net/ismir2021/paper/000017.pdf) (Transformer+LSTM; dai21ismir): N/A...
@@ -75,6 +76,7 @@
 
 
 ###given lyrics, compose melody
+* [ROC](https://arxiv.org/pdf/2208.05697.pdf) 
 * [Conditional LSTM-GAN](https://arxiv.org/pdf/1908.05551.pdf) (LSTM+GAN; yu19arxiv): https://github.com/yy1lab/Lyrics-Conditioned-Neural-Melody-Generation
 * [iComposer](https://www.aclweb.org/anthology/N19-4015) (LSTM; lee19acl): https://www.youtube.com/watch?v=Gstzqls2f4A
 * [SongWriter](https://arxiv.org/pdf/1809.04318.pdf) (GRU; bao18arxiv): N/A
@@ -96,6 +98,7 @@
 
 
 ###given melody, compose arrangement
+* [AccoMontage2](https://arxiv.org/pdf/2209.00353.pdf) : https://billyyi.top/accomontage2/
 * [AccoMontage](https://archives.ismir.net/ismir2021/paper/000104.pdf) (template-based; zhao21ismir): https://github.com/zhaojw1998/AccoMontage
 * [CP Transformer](https://arxiv.org/abs/2101.02402) (Transformer; hsiao21aaai): https://ailabs.tw/human-interaction/compound-word-transformer-generate-pop-piano-music-of-full-song-length/
 * [PopMAG](https://arxiv.org/abs/2008.07703) (transformer; ren20mm): https://music-popmag.github.io/popmag/
@@ -120,6 +123,7 @@
 * [LOP](https://qsdfo.github.io/LOP/index.html) (RBM; crestel17smc): https://qsdfo.github.io/LOP/results.html
 
 ###piano infilling
+* [structure-aware infilling]() : https://tanchihpin0517.github.io/structure-aware_infilling
 * [VLI](https://arxiv.org/pdf/2108.05064.pdf) (Transformer; chang21ismir): https://jackyhsiung.github.io/piano-infilling-demo/
 * [The Piano Inpainting Application](https://arxiv.org/pdf/2107.05944.pdf) (): https://ghadjeres.github.io/piano-inpainting-application/
 
@@ -175,7 +179,6 @@
 * [MP3net](https://arxiv.org/abs/2101.04785) (GAN; broek21arxiv): https://korneelvdbroek.github.io/mp3net/
 * [Michelashvili](https://program.ismir2020.net/poster_6-19.html) (dsp-inspired; michelashvili20iclr): https://github.com/mosheman5/timbre_painting
 * [GAAE](https://arxiv.org/abs/2006.00877) (GAN+AAE; haque20arxiv): https://drive.google.com/drive/folders/1et_BuZ_XDMrdsYzZDprLvEpmmuZrJ7jk
-* [UNAGAN](https://arxiv.org/abs/2005.08526) (GAN; liu20arxiv): https://github.com/ciaua/unagan
 * [MANNe](https://arxiv.org/abs/2001.11296) (): https://github.com/JTColonel/manne
 * [DDSP](https://openreview.net/forum?id=B1x1ma4tDr) (dsp-inspired; lamtharn20iclr): https://storage.googleapis.com/ddsp/index.html
 * [MelNet](https://arxiv.org/pdf/1906.01083.pdf) (auto-regressive; vasquez19arxiv): https://audio-samples.github.io/
@@ -189,7 +192,10 @@
 
 
 ###audio-domain music generation
+* [jukedrummer]() (VQVAE+Transofmrer; wu22ismir): https://legoodmanner.github.io/jukedrummer-demo/
+* [musika!](https://arxiv.org/pdf/2208.08706.pdf) (GAN; pasini22ismir): https://huggingface.co/spaces/marcop/musika
 * [jukebox](https://arxiv.org/abs/2005.00341) (VQVAE+Transformer; dhariwal20arxiv): https://openai.com/blog/jukebox/
+* [UNAGAN](https://arxiv.org/abs/2005.08526) (GAN; liu20arxiv): https://github.com/ciaua/unagan
 * [dadabots](https://arxiv.org/abs/1811.06633) (sampleRNN; carr18mume): http://dadabots.com/music.php
 
 
@@ -241,10 +247,12 @@
 * [VITS](https://arxiv.org/abs/2106.06103) (transformer+flow+GAN; kim21icml): https://github.com/jaywalnut310/vits
 
 ###vocoder
+* [sawsing](https://arxiv.org/pdf/2208.04756.pdf) (DDSP; wu22ismir): https://ddspvocoder.github.io/ismir-demo/
 * [Multi-Singer](https://dl.acm.org/doi/abs/10.1145/3474085.3475437) (wavenet; huang21mm): https://multi-singer.github.io/
 * [SingGAN](https://arxiv.org/pdf/2110.07468.pdf) (GAN; chen21arxiv): https://singgan.github.io/
 * [DiffWave](https://arxiv.org/abs/2009.09761) (diffusion; kong21iclr): https://diffwave-demo.github.io/
 * [MelGAN](https://arxiv.org/abs/1910.06711) (GAN; kumar19neurips): https://melgan-neurips.github.io/
 
 ###audio-domain loop generation
+* [pjloopgan](https://arxiv.org/pdf/2209.01751.pdf) (GAN; yeh22ismir): https://arthurddd.github.io/PjLoopGAN/
 * [loopgen](https://archives.ismir.net/ismir2021/paper/000038.pdf) (GAN; hung21ismir): https://loopgen.github.io/
