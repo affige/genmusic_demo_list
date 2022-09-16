@@ -72,7 +72,9 @@
 * [XiaoIce Band](http://staff.ustc.edu.cn/~qiliuql/files/Publications/Hongyuan-Zhu-KDD2018.pdf) (GRU; zhu18kdd): http://tv.cctv.com/2017/11/24/VIDEo7JWp0u0oWRmPbM4uCBt171124.shtml
 
 ###given melody, compose chord (harmonization)
+* [DAT-CVAE](https://arxiv.org/pdf/2209.07144.pdf) (transformer-vae; zhao22ismir): https://zhaojw1998.github.io/DAT_CVAE
 * [SurpriseNet](https://arxiv.org/pdf/2108.00378.pdf) (VAE; chen21ismir): https://github.com/scmvp301135/SurpriseNet
+* [MTHarmonizer](https://arxiv.org/pdf/2001.02360.pdf) (RNN; yeh21jnmr)
 
 
 ###given lyrics, compose melody
