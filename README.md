@@ -100,6 +100,7 @@
 
 
 ###given melody, compose arrangement
+* [SongDriver](https://arxiv.org/pdf/2209.06054.pdf) (Transformer-CRF; wang22mm): 
 * [AccoMontage2](https://arxiv.org/pdf/2209.00353.pdf) : https://billyyi.top/accomontage2/
 * [AccoMontage](https://archives.ismir.net/ismir2021/paper/000104.pdf) (template-based; zhao21ismir): https://github.com/zhaojw1998/AccoMontage
 * [CP Transformer](https://arxiv.org/abs/2101.02402) (Transformer; hsiao21aaai): https://ailabs.tw/human-interaction/compound-word-transformer-generate-pop-piano-music-of-full-song-length/
