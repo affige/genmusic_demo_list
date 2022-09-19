@@ -202,6 +202,7 @@
 
 
 ###audio-domain singing synthesis
+* [WeSinger 2](https://arxiv.org/pdf/2207.01886.pdf) (Transformer+GAN; zhang22arxiv): https://zzw922cn.github.io/wesinger2/
 * [U-Singer](https://arxiv.org/pdf/2203.00931.pdf) (Transformer; kim22arxiv): https://u-singer.github.io/
 * [Singing-Tacotron](https://arxiv.org/pdf/2202.07907.pdf) (Transformer; wang22arxiv): https://hairuo55.github.io/SingingTacotron/
 * [KaraSinger](https://arxiv.org/abs/2110.04005) (GRU/Transformer; liao22icassp): https://jerrygood0703.github.io/KaraSinger/
