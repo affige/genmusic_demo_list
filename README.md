@@ -28,6 +28,7 @@
 
 
 ###compose single-track polyphonic music
+* [Compose & Embellish]() (Transformer; wu22arxiv): https://drive.google.com/drive/folders/1Y7HfExAz3PpPbFl0OnccxYDNF1KZUP-3
 * [Theme Transformer](https://arxiv.org/abs/2111.04093) (Transformer; shih21arxiv): https://atosystem.github.io/ThemeTransformer/
 * [EMOPIA](https://archives.ismir.net/ismir2021/paper/000039.pdf) (Transformer; hung21ismir): https://annahung31.github.io/EMOPIA/
 * [dadagp](https://archives.ismir.net/ismir2021/paper/000076.pdf) (Transformer; sarmento21ismir): https://drive.google.com/drive/folders/1USNH8olG9uy6vodslM3iXInBT725zult
