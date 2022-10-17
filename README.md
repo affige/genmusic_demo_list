@@ -127,7 +127,7 @@
 * [LOP](https://qsdfo.github.io/LOP/index.html) (RBM; crestel17smc): https://qsdfo.github.io/LOP/results.html
 
 ###piano infilling
-* [structure-aware infilling]() : https://tanchihpin0517.github.io/structure-aware_infilling
+* [structure-aware infilling](https://arxiv.org/pdf/2210.02829.pdf) : https://tanchihpin0517.github.io/structure-aware_infilling
 * [VLI](https://arxiv.org/pdf/2108.05064.pdf) (Transformer; chang21ismir): https://jackyhsiung.github.io/piano-infilling-demo/
 * [The Piano Inpainting Application](https://arxiv.org/pdf/2107.05944.pdf) (): https://ghadjeres.github.io/piano-inpainting-application/
 
@@ -195,8 +195,8 @@
 * [NSynth](https://arxiv.org/abs/1704.01279) (WaveNet; engel17arxiv): https://magenta.tensorflow.org/nsynth
 
 
-###audio-domain music generation
-* [jukedrummer]() (VQVAE+Transofmrer; wu22ismir): https://legoodmanner.github.io/jukedrummer-demo/
+###audio-domain music generation 
+* [jukedrummer](https://arxiv.org/pdf/2210.06007.pdf) (VQVAE+Transofmrer; wu22ismir): https://legoodmanner.github.io/jukedrummer-demo/
 * [musika!](https://arxiv.org/pdf/2208.08706.pdf) (GAN; pasini22ismir): https://huggingface.co/spaces/marcop/musika
 * [jukebox](https://arxiv.org/abs/2005.00341) (VQVAE+Transformer; dhariwal20arxiv): https://openai.com/blog/jukebox/
 * [UNAGAN](https://arxiv.org/abs/2005.08526) (GAN; liu20arxiv): https://github.com/ciaua/unagan
