@@ -48,6 +48,7 @@
 * [CollageNet](https://archives.ismir.net/ismir2021/paper/000098.pdf) (VAE; wuerkaixi21ismir): https://github.com/urkax/CollageNet
 
 ###compose multi-track music
+* [Museformer](https://arxiv.org/abs/2210.10349) (Transformer; yu22neurips): https://ai-muzic.github.io/museformer/
 * [SymphonyNet](https://arxiv.org/pdf/2205.05448.pdf) (Transformer; 22arxiv): https://symphonynet.github.io/
 * [CMT](https://arxiv.org/abs/2111.08380) (Transformer; di21mm): https://wzk1015.github.io/cmt/
 * [CONLON](https://program.ismir2020.net/poster_6-14.html) (GAN; angioloni20ismir): https://paolo-f.github.io/CONLON/
