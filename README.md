@@ -205,12 +205,13 @@
 
 
 ###audio-domain singing synthesis
+* [VISinger 2](https://arxiv.org/abs/2211.02903) (zhang22arxiv): https://zhangyongmao.github.io/VISinger2/
 * [xiaoicesing 2](https://arxiv.org/abs/2210.14666) (Transformer+GAN; wang22arxiv): https://wavelandspeech.github.io/xiaoice2/
 * [WeSinger 2](https://arxiv.org/pdf/2207.01886.pdf) (Transformer+GAN; zhang22arxiv): https://zzw922cn.github.io/wesinger2/
 * [U-Singer](https://arxiv.org/pdf/2203.00931.pdf) (Transformer; kim22arxiv): https://u-singer.github.io/
 * [Singing-Tacotron](https://arxiv.org/pdf/2202.07907.pdf) (Transformer; wang22arxiv): https://hairuo55.github.io/SingingTacotron/
 * [KaraSinger](https://arxiv.org/abs/2110.04005) (GRU/Transformer; liao22icassp): https://jerrygood0703.github.io/KaraSinger/
-* [VISinger](https://arxiv.org/pdf/2110.08813.pdf) (flow; zhang21arxiv): https://zhangyongmao.github.io/VISinger/
+* [VISinger](https://arxiv.org/abs/2110.08813) (flow; zhang2): https://zhangyongmao.github.io/VISinger/
 * [MLP singer](https://arxiv.org/abs/2106.07886) (mixer blocks; tae21arxiv): https://github.com/neosapience/mlp-singer
 * [LiteSing](https://ieeexplore.ieee.org/document/9414043) (wavenet; zhuang21icassp): https://auzxb.github.io/LiteSing/
 * [DiffSinger](https://arxiv.org/abs/2105.02446) (diffusion; liu22aaai)[no duration modeling]: https://diffsinger.github.io/
