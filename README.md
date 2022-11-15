@@ -178,6 +178,7 @@
 
 
 ###audio/timbre synthesis
+* [GANStrument](https://arxiv.org/abs/2211.05385) (narita22arxiv): https://ganstrument.github.io/ganstrument-demo/
 * [NEWT](https://archives.ismir.net/ismir2021/paper/000031.pdf) (DDSP; hayes21ismir): https://benhayes.net/projects/nws/
 * [CRASH](https://archives.ismir.net/ismir2021/paper/000072.pdf) (diffusion; rouard21ismir): https://crash-diffusion.github.io/crash/
 * [DarkGAN](https://archives.ismir.net/ismir2021/paper/000060.pdf) (GAN; nistal21ismir): https://an-1673.github.io/DarkGAN.io/
