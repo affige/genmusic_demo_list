@@ -203,6 +203,10 @@
 * [UNAGAN](https://arxiv.org/abs/2005.08526) (GAN; liu20arxiv): https://github.com/ciaua/unagan
 * [dadabots](https://arxiv.org/abs/1811.06633) (sampleRNN; carr18mume): http://dadabots.com/music.php
 
+###text-to-music
+* [Noise2Music](https://arxiv.org/abs/2302.03917) (diffusion; huang23arxiv): https://noise2music.github.io/
+* [ERNIE-Music](https://arxiv.org/pdf/2302.04456.pdf) (diffusion; zhu23arxiv): N/A
+* [Make-An-Audio](https://text-to-audio.github.io/paper.pdf) (diffusion): https://text-to-audio.github.io/ (for general sounds)
 
 ###given singing, generate accompaniments
 * [singsong](https://arxiv.org/abs/2301.12662) (VQVAE+Transofmrer; donahue23arxiv): https://storage.googleapis.com/sing-song/index.html
