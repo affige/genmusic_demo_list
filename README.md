@@ -198,11 +198,18 @@
 
 
 ###audio-domain music generation 
-* [jukedrummer](https://arxiv.org/pdf/2210.06007.pdf) (VQVAE+Transofmrer; wu22ismir): https://legoodmanner.github.io/jukedrummer-demo/
 * [musika!](https://arxiv.org/pdf/2208.08706.pdf) (GAN; pasini22ismir): https://huggingface.co/spaces/marcop/musika
 * [jukebox](https://arxiv.org/abs/2005.00341) (VQVAE+Transformer; dhariwal20arxiv): https://openai.com/blog/jukebox/
 * [UNAGAN](https://arxiv.org/abs/2005.08526) (GAN; liu20arxiv): https://github.com/ciaua/unagan
 * [dadabots](https://arxiv.org/abs/1811.06633) (sampleRNN; carr18mume): http://dadabots.com/music.php
+
+
+###given singing, generate accompaniments
+* [singsong](https://arxiv.org/abs/2301.12662) (VQVAE+Transofmrer; donahue23arxiv): https://storage.googleapis.com/sing-song/index.html
+
+
+###given drumless audio, generate drum accompaniments
+* [jukedrummer](https://arxiv.org/pdf/2210.06007.pdf) (VQVAE+Transofmrer; wu22ismir): https://legoodmanner.github.io/jukedrummer-demo/
 
 
 ###audio-domain singing synthesis
