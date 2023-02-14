@@ -209,7 +209,10 @@
 * [Noise2Music](https://arxiv.org/abs/2302.03917) (diffusion; huang23arxiv): https://noise2music.github.io/
 * [ERNIE-Music](https://arxiv.org/pdf/2302.04456.pdf) (diffusion; zhu23arxiv): N/A
 * [riffusion]() (diffusion;): https://www.riffusion.com/
-* [Make-An-Audio](https://text-to-audio.github.io/paper.pdf) (diffusion): https://text-to-audio.github.io/ (for general sounds)
+* [Make-An-Audio](https://text-to-audio.github.io/paper.pdf) (diffusion; huang23arxiv): https://text-to-audio.github.io/ (for general sounds)
+* [AudioLDM](https://text-to-audio.github.io/paper.pdf) (diffusion; liu23arxiv): https://audioldm.github.io/ (for general sounds)
+* [AudioLM](https://arxiv.org/abs/2209.03143) (Transformer; borsos22arxiv): https://google-research.github.io/seanet/audiolm/examples/ (for general sounds)
+
 
 ###given singing, generate accompaniments
 * [singsong](https://arxiv.org/abs/2301.12662) (VQVAE+Transofmrer; donahue23arxiv): https://storage.googleapis.com/sing-song/index.html
