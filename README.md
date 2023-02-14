@@ -210,7 +210,7 @@
 * [ERNIE-Music](https://arxiv.org/pdf/2302.04456.pdf) (diffusion; zhu23arxiv): N/A
 * [riffusion]() (diffusion;): https://www.riffusion.com/
 * [Make-An-Audio](https://text-to-audio.github.io/paper.pdf) (diffusion; huang23arxiv): https://text-to-audio.github.io/ (for general sounds)
-* [AudioLDM](https://text-to-audio.github.io/paper.pdf) (diffusion; liu23arxiv): https://audioldm.github.io/ (for general sounds)
+* [AudioLDM](https://arxiv.org/pdf/2301.12503.pdf) (diffusion; liu23arxiv): https://audioldm.github.io/ (for general sounds)
 * [AudioLM](https://arxiv.org/abs/2209.03143) (Transformer; borsos22arxiv): https://google-research.github.io/seanet/audiolm/examples/ (for general sounds)
 
 
