@@ -223,6 +223,7 @@
 
 
 ###audio-domain singing synthesis
+* [NANSY++](https://arxiv.org/abs/2211.09407) (Transformer; choi23iclr): https://bald-lifeboat-9af.notion.site/Demo-Page-For-NANSY-67d92406f62b4630906282117c7f0c39
 * [VISinger 2](https://arxiv.org/abs/2211.02903) (zhang22arxiv): https://zhangyongmao.github.io/VISinger2/
 * [xiaoicesing 2](https://arxiv.org/abs/2210.14666) (Transformer+GAN; wang22arxiv): https://wavelandspeech.github.io/xiaoice2/
 * [WeSinger 2](https://arxiv.org/pdf/2207.01886.pdf) (Transformer+GAN; zhang22arxiv): https://zzw922cn.github.io/wesinger2/
