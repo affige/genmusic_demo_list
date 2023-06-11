@@ -13,6 +13,7 @@
 
 
 ### audio-domain music generation 
+* [fast jukebox](https://www.mdpi.com/2076-3417/13/9/5630) (jukebox+knowledge distilling; pezzat-morales23mdpi): https://soundcloud.com/michel-pezzat-615988723
 * [musika!](https://arxiv.org/pdf/2208.08706.pdf) (GAN; pasini22ismir): https://huggingface.co/spaces/marcop/musika
 * [jukebox](https://arxiv.org/abs/2005.00341) (VQVAE+Transformer; dhariwal20arxiv): https://openai.com/blog/jukebox/
 * [UNAGAN](https://arxiv.org/abs/2005.08526) (GAN; liu20arxiv): https://github.com/ciaua/unagan
