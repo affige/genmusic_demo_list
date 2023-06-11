@@ -54,8 +54,6 @@
 * [iZotope-SVC](https://program.ismir2020.net/poster_1-08.html) (conv-encoder/decoder; nercessian20ismir): https://sites.google.com/izotope.com/ismir2020-audio-demo
 * [VAW-GAN](https://arxiv.org/pdf/2008.03992.pdf) (GAN; lu20arxiv): https://kunzhou9646.github.io/singvaw-gan/
 * [polyak20interspeech](https://arxiv.org/pdf/2008.02830.pdf) (GAN; polyak20interspeech): https://singing-conversion.github.io/
-* [speech2sing2](https://arxiv.org/pdf/2005.13835.pdf) (GAN; wu20interspeech): https://ericwudayi.github.io/Speech2Singing-DEMO/
-* [speech2sing](https://arxiv.org/pdf/2002.06595.pdf) (encoder/decoder; parekh20icassp): https://jayneelparekh.github.io/icassp20/
 * [SINGAN](https://www.researchgate.net/publication/336058156_SINGAN_Singing_Voice_Conversion_with_Generative_Adversarial_Networks) (GAN; sisman19apsipa): N/A
 * [MSVC-GAN] (GAN): https://hujinsen.github.io/
 * https://mtg.github.io/singing-synthesis-demos/voice-cloning/
@@ -63,6 +61,11 @@
 * [Yong&Nam](https://seyong92.github.io/publications/yong_ICASSP_2018.pdf) (DSP; yong18icassp): https://seyong92.github.io/singing-expression-transfer/
 * [cybegan](https://arxiv.org/pdf/1807.02254.pdf) (CNN+GAN; wu18faim): http://mirlab.org/users/haley.wu/cybegan/
 
+
+###audio-domain speech-to-singing conversion
+* [AlignSTS](https://arxiv.org/abs/2305.04476) (encoder/adaptor/aligner/diff-decoder; li23facl): https://alignsts.github.io/
+* [speech2sing2](https://arxiv.org/pdf/2005.13835.pdf) (GAN; wu20interspeech): https://ericwudayi.github.io/Speech2Singing-DEMO/
+* [speech2sing](https://arxiv.org/pdf/2002.06595.pdf) (encoder/decoder; parekh20icassp): https://jayneelparekh.github.io/icassp20/
 
 ###audio-domain singing correction
 * [deep-autotuner](https://arxiv.org/abs/1902.00956) (CGRU; wagner19icassp): http://homes.sice.indiana.edu/scwager/deepautotuner.html
@@ -167,6 +170,7 @@
 * [CollageNet](https://archives.ismir.net/ismir2021/paper/000098.pdf) (VAE; wuerkaixi21ismir): https://github.com/urkax/CollageNet
 
 ###compose multi-track music
+* [MuseCoco](https://arxiv.org/abs/2306.00110) (Transformer; lu23arxiv): https://github.com/microsoft/muzic/
 * [Museformer](https://arxiv.org/abs/2210.10349) (Transformer; yu22neurips): https://ai-muzic.github.io/museformer/
 * [SymphonyNet](https://arxiv.org/pdf/2205.05448.pdf) (Transformer; liu22ismir): https://symphonynet.github.io/
 * [CMT](https://arxiv.org/abs/2111.08380) (Transformer; di21mm): https://wzk1015.github.io/cmt/
