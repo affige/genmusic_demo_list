@@ -6,7 +6,7 @@
 * [multi-source-diffusion-models](https://arxiv.org/abs/2302.02257) (diffusion; 23arxiv): https://gladia-research-group.github.io/multi-source-diffusion-models/
 * [Noise2Music](https://arxiv.org/abs/2302.03917) (diffusion; huang23arxiv): https://noise2music.github.io/
 * [ERNIE-Music](https://arxiv.org/pdf/2302.04456.pdf) (diffusion; zhu23arxiv): N/A
-* [riffusion]() (diffusion;): https://www.riffusion.com/
+* [Riffusion]() (diffusion;): https://www.riffusion.com/
 * [Make-An-Audio](https://text-to-audio.github.io/paper.pdf) (diffusion; huang23arxiv): https://text-to-audio.github.io/ (for general sounds)
 * [AudioLDM](https://arxiv.org/pdf/2301.12503.pdf) (diffusion; liu23arxiv): https://audioldm.github.io/ (for general sounds)
 * [AudioLM](https://arxiv.org/abs/2209.03143) (Transformer; borsos22arxiv): https://google-research.github.io/seanet/audiolm/examples/ (for general sounds)
@@ -99,8 +99,8 @@
 * [SoundStream](https://arxiv.org/abs/2107.03312) (VQ; zeghidour21arxiv): https://google-research.github.io/seanet/soundstream/examples/
 
 ### audio-domain loop generation
-* [pjloopgan](https://arxiv.org/pdf/2209.01751.pdf) (GAN; yeh22ismir): https://arthurddd.github.io/PjLoopGAN/
-* [loopgen](https://archives.ismir.net/ismir2021/paper/000038.pdf) (GAN; hung21ismir): https://loopgen.github.io/
+* [PJLoopGAN](https://arxiv.org/pdf/2209.01751.pdf) (GAN; yeh22ismir): https://arthurddd.github.io/PjLoopGAN/
+* [LoopGen](https://archives.ismir.net/ismir2021/paper/000038.pdf) (GAN; hung21ismir): https://loopgen.github.io/
 
 ### given score, generate musical audio (performance): Piano only
 * [Wave2Midi2Wave](https://arxiv.org/abs/1810.12247) (transformer+wavenet; hawthorne19iclr): https://magenta.tensorflow.org/maestro-wave2midi2wave
@@ -144,7 +144,8 @@
 * [musicalspeech] (Transformer; d'Eon20nips-demo): https://jasondeon.github.io/musicalSpeech/
 
 ### compose melody
-* [meloform](https://arxiv.org/pdf/2208.14345.pdf) : https://ai-muzic.github.io/meloform/
+* [TunesFormer](https://arxiv.org/abs/2301.02884) (transformer; wu23arxiv): https://github.com/sander-wood/tunesformer
+* [MeloForm](https://arxiv.org/pdf/2208.14345.pdf) (transformer; lu22arxiv): https://ai-muzic.github.io/meloform/
 * [parkR](https://transactions.ismir.net/articles/10.5334/tismir.87/) (markov; frieler22tismir): https://github.com/klausfrieler/parkR
 * [xai-lsr](https://xai4debugging.github.io/files/papers/exploring_xai_for_the_arts_exp.pdf) (VAE; bryankinns21nipsw): https://xai-lsr-ui.vercel.app/
 * [Trans-LSTM](https://archives.ismir.net/ismir2021/paper/000017.pdf) (Transformer+LSTM; dai21ismir): N/A...
@@ -160,7 +161,7 @@
 
 
 ### compose single-track polyphonic music
-* [Compose & Embellish]() (Transformer; wu22arxiv): https://drive.google.com/drive/folders/1Y7HfExAz3PpPbFl0OnccxYDNF1KZUP-3
+* [Compose & Embellish](https://arxiv.org/abs/2209.08212) (Transformer; wu22arxiv): https://drive.google.com/drive/folders/1Y7HfExAz3PpPbFl0OnccxYDNF1KZUP-3
 * [Theme Transformer](https://arxiv.org/abs/2111.04093) (Transformer; shih21arxiv): https://atosystem.github.io/ThemeTransformer/
 * [EMOPIA](https://archives.ismir.net/ismir2021/paper/000039.pdf) (Transformer; hung21ismir): https://annahung31.github.io/EMOPIA/
 * [dadagp](https://archives.ismir.net/ismir2021/paper/000076.pdf) (Transformer; sarmento21ismir): https://drive.google.com/drive/folders/1USNH8olG9uy6vodslM3iXInBT725zult
@@ -187,7 +188,7 @@
 * [CONLON](https://program.ismir2020.net/poster_6-14.html) (GAN; angioloni20ismir): https://paolo-f.github.io/CONLON/
 * [MMM](https://arxiv.org/pdf/2008.06048.pdf) (Transformer; ens20arxiv): https://jeffreyjohnens.github.io/MMM/
 * [MahlerNet](http://www.mahlernet.se/files/SMC2019.pdf) (RNN+VAE; lousseief19smc): https://github.com/fast-reflexes/MahlerNet
-* [measure-by-measure](https://openreview.net/forum?id=Hklk6xrYPB) (RNN): https://sites.google.com/view/pjgbjzom
+* [Measure-by-Measure](https://openreview.net/forum?id=Hklk6xrYPB) (RNN): https://sites.google.com/view/pjgbjzom
 * [JazzRNN](http://mac.citi.sinica.edu.tw/~yang/pub/ailabs19ismirlbd_1.pdf) (RNN; yeh19ismir-lbd): https://soundcloud.com/yating_ai/sets/ismir-2019-submission/
 * [MIDI-Sandwich2](https://arxiv.org/pdf/1909.03522.pdf) (RNN+VAE; liang19arxiv): https://github.com/LiangHsia/MIDI-S2
 * [LakhNES](https://arxiv.org/abs/1907.04868) (Transformer; donahue19ismir): https://chrisdonahue.com/LakhNES/
@@ -207,6 +208,8 @@
 * [XiaoIce Band](http://staff.ustc.edu.cn/~qiliuql/files/Publications/Hongyuan-Zhu-KDD2018.pdf) (GRU; zhu18kdd): http://tv.cctv.com/2017/11/24/VIDEo7JWp0u0oWRmPbM4uCBt171124.shtml
 
 ### given melody, compose chord (harmonization)
+* [LHVAE](https://arxiv.org/pdf/2306.03718.pdf) (VAE+LSTM; ji23arxiv): n/a
+* [DeepChoir](https://arxiv.org/abs/2202.08423) (transformer; wu23icassp): https://github.com/sander-wood/deepchoir
 * [DAT-CVAE](https://arxiv.org/pdf/2209.07144.pdf) (transformer-vae; zhao22ismir): https://zhaojw1998.github.io/DAT_CVAE
 * [SurpriseNet](https://arxiv.org/pdf/2108.00378.pdf) (VAE; chen21ismir): https://github.com/scmvp301135/SurpriseNet
 * [MTHarmonizer](https://arxiv.org/pdf/2001.02360.pdf) (RNN; yeh21jnmr)
@@ -227,7 +230,6 @@
 
 
 ### compose melody+chords (two tracks)
-* [LHVAE](https://arxiv.org/pdf/2306.03718.pdf) (VAE+LSTM; ji23arxiv): n/a
 * [EmoMusicTV](https://ieeexplore.ieee.org/document/10124351) (Transformer; ji23tmm): https://github.com/Tayjsl97/EmoMusicTV
 * [Jazz Transformer](https://arxiv.org/abs/2008.01307) (Transformer; wu20ismir): https://drive.google.com/drive/folders/1-09SoxumYPdYetsUWHIHSugK99E2tNYD
 * [Transformer VAE](https://ieeexplore.ieee.org/document/9054554) (Transformer+VAE; jiang20icassp): https://drive.google.com/drive/folders/1Su-8qrK__28mAesSCJdjo6QZf9zEgIx6
