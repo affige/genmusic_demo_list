@@ -28,6 +28,7 @@
 
 
 ### audio-domain singing synthesis
+* [RMSSinger](https://arxiv.org/abs/2305.10686) (diffusion; he23aclf): https://rmssinger.github.io/
 * [NANSY++](https://arxiv.org/abs/2211.09407) (Transformer; choi23iclr): https://bald-lifeboat-9af.notion.site/Demo-Page-For-NANSY-67d92406f62b4630906282117c7f0c39
 * [VISinger 2](https://arxiv.org/abs/2211.02903) (zhang22arxiv): https://zhangyongmao.github.io/VISinger2/
 * [xiaoicesing 2](https://arxiv.org/abs/2210.14666) (Transformer+GAN; wang22arxiv): https://wavelandspeech.github.io/xiaoice2/
@@ -218,6 +219,8 @@
 
 
 ### compose melody+chords (two tracks)
+* [LHVAE](https://arxiv.org/pdf/2306.03718.pdf) (VAE+LSTM; ji23arxiv): n/a
+* [EmoMusicTV](https://ieeexplore.ieee.org/document/10124351) (Transformer; ji23tmm): https://github.com/Tayjsl97/EmoMusicTV
 * [Jazz Transformer](https://arxiv.org/abs/2008.01307) (Transformer; wu20ismir): https://drive.google.com/drive/folders/1-09SoxumYPdYetsUWHIHSugK99E2tNYD
 * [Transformer VAE](https://ieeexplore.ieee.org/document/9054554) (Transformer+VAE; jiang20icassp): https://drive.google.com/drive/folders/1Su-8qrK__28mAesSCJdjo6QZf9zEgIx6
 * [Two-stage RNN](https://arxiv.org/abs/2002.10266) (RNN; deboom20arxiv): https://users.ugent.be/~cdboom/music/
