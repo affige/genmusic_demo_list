@@ -84,7 +84,7 @@
 * [VITS](https://arxiv.org/abs/2106.06103) (transformer+flow+GAN; kim21icml): https://github.com/jaywalnut310/vits
 
 ### vocoder
-* [bigvgan](https://arxiv.org/abs/2206.04658) (GAN; lee23iclr): https://bigvgan-demo.github.io/
+* [BigVGAN](https://arxiv.org/abs/2206.04658) (GAN; lee23iclr): https://bigvgan-demo.github.io/
 * [sawsing](https://arxiv.org/pdf/2208.04756.pdf) (DDSP; wu22ismir): https://ddspvocoder.github.io/ismir-demo/
 * [Multi-Singer](https://dl.acm.org/doi/abs/10.1145/3474085.3475437) (wavenet; huang21mm): https://multi-singer.github.io/
 * [SingGAN](https://arxiv.org/pdf/2110.07468.pdf) (GAN; chen21arxiv): https://singgan.github.io/
@@ -92,9 +92,9 @@
 * [MelGAN](https://arxiv.org/abs/1910.06711) (GAN; kumar19neurips): https://melgan-neurips.github.io/
 
 ### audio tokenzier
-* [HiFi-Codec]()
-* [encodec]()
-* [SoundStream]()
+* [HiFi-Codec](https://arxiv.org/abs/2305.02765) (VQ; yang23arxiv): https://github.com/yangdongchao/AcademiCodec
+* [encodec](https://arxiv.org/abs/2210.13438) (VQ; défossez22arxiv): https://github.com/facebookresearch/encodec 
+* [SoundStream](https://arxiv.org/abs/2107.03312) (VQ; zeghidour21arxiv): https://google-research.github.io/seanet/soundstream/examples/
 
 ### audio-domain loop generation
 * [pjloopgan](https://arxiv.org/pdf/2209.01751.pdf) (GAN; yeh22ismir): https://arthurddd.github.io/PjLoopGAN/
