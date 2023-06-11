@@ -90,6 +90,11 @@
 * [DiffWave](https://arxiv.org/abs/2009.09761) (diffusion; kong21iclr): https://diffwave-demo.github.io/
 * [MelGAN](https://arxiv.org/abs/1910.06711) (GAN; kumar19neurips): https://melgan-neurips.github.io/
 
+### audio tokenzier
+* [HiFi-Codec]()
+* [encodec]()
+* [SoundStream]()
+
 ### audio-domain loop generation
 * [pjloopgan](https://arxiv.org/pdf/2209.01751.pdf) (GAN; yeh22ismir): https://arthurddd.github.io/PjLoopGAN/
 * [loopgen](https://archives.ismir.net/ismir2021/paper/000038.pdf) (GAN; hung21ismir): https://loopgen.github.io/
