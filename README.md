@@ -13,23 +13,24 @@
 
 
 ### audio-domain music generation 
-* [fast jukebox](https://www.mdpi.com/2076-3417/13/9/5630) (jukebox+knowledge distilling; pezzat-morales23mdpi): https://soundcloud.com/michel-pezzat-615988723
+* [fast JukeBox](https://www.mdpi.com/2076-3417/13/9/5630) (jukebox+knowledge distilling; pezzat-morales23mdpi): https://soundcloud.com/michel-pezzat-615988723
 * [musika!](https://arxiv.org/pdf/2208.08706.pdf) (GAN; pasini22ismir): https://huggingface.co/spaces/marcop/musika
-* [jukebox](https://arxiv.org/abs/2005.00341) (VQVAE+Transformer; dhariwal20arxiv): https://openai.com/blog/jukebox/
+* [JukeNox](https://arxiv.org/abs/2005.00341) (VQVAE+Transformer; dhariwal20arxiv): https://openai.com/blog/jukebox/
 * [UNAGAN](https://arxiv.org/abs/2005.08526) (GAN; liu20arxiv): https://github.com/ciaua/unagan
 * [dadabots](https://arxiv.org/abs/1811.06633) (sampleRNN; carr18mume): http://dadabots.com/music.php
 
 
 ### given singing, generate accompaniments
-* [singsong](https://arxiv.org/abs/2301.12662) (VQVAE+Transofmrer; donahue23arxiv): https://storage.googleapis.com/sing-song/index.html
+* [SingSong](https://arxiv.org/abs/2301.12662) (VQVAE+Transofmrer; donahue23arxiv): https://storage.googleapis.com/sing-song/index.html
 
 
 ### given drumless audio, generate drum accompaniments
-* [jukedrummer](https://arxiv.org/pdf/2210.06007.pdf) (VQVAE+Transofmrer; wu22ismir): https://legoodmanner.github.io/jukedrummer-demo/
+* [JukeDrummer](https://arxiv.org/pdf/2210.06007.pdf) (VQVAE+Transofmrer; wu22ismir): https://legoodmanner.github.io/jukedrummer-demo/
 
 
 ### audio-domain singing synthesis
 * [RMSSinger](https://arxiv.org/abs/2305.10686) (diffusion; he23aclf): https://rmssinger.github.io/
+* [NaturalSpeech 2](https://arxiv.org/abs/2304.09116) (diffusion; shen23arxiv): https://speechresearch.github.io/naturalspeech2/
 * [NANSY++](https://arxiv.org/abs/2211.09407) (Transformer; choi23iclr): https://bald-lifeboat-9af.notion.site/Demo-Page-For-NANSY-67d92406f62b4630906282117c7f0c39
 * [VISinger 2](https://arxiv.org/abs/2211.02903) (zhang22arxiv): https://zhangyongmao.github.io/VISinger2/
 * [xiaoicesing 2](https://arxiv.org/abs/2210.14666) (Transformer+GAN; wang22arxiv): https://wavelandspeech.github.io/xiaoice2/
@@ -51,7 +52,8 @@
 * http://home.ustc.edu.cn/~yiyh/interspeech2019/
 
 
-### audio-domain singing style transfer
+### audio-domain singing style transfer / singing voice conversion
+* [SoftVC VITS]() (): https://github.com/svc-develop-team/so-vits-svc
 * [Assem-VC](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_58.pdf) (; kim21nipsw): https://mindslab-ai.github.io/assem-vc/singer/
 * [iZotope-SVC](https://program.ismir2020.net/poster_1-08.html) (conv-encoder/decoder; nercessian20ismir): https://sites.google.com/izotope.com/ismir2020-audio-demo
 * [VAW-GAN](https://arxiv.org/pdf/2008.03992.pdf) (GAN; lu20arxiv): https://kunzhou9646.github.io/singvaw-gan/
@@ -93,7 +95,7 @@
 
 ### audio tokenzier
 * [HiFi-Codec](https://arxiv.org/abs/2305.02765) (VQ; yang23arxiv): https://github.com/yangdongchao/AcademiCodec
-* [encodec](https://arxiv.org/abs/2210.13438) (VQ; défossez22arxiv): https://github.com/facebookresearch/encodec 
+* [EnCodec](https://arxiv.org/abs/2210.13438) (VQ; défossez22arxiv): https://github.com/facebookresearch/encodec 
 * [SoundStream](https://arxiv.org/abs/2107.03312) (VQ; zeghidour21arxiv): https://google-research.github.io/seanet/soundstream/examples/
 
 ### audio-domain loop generation
