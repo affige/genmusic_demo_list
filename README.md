@@ -136,7 +136,8 @@
 
 
 ### image-to-music
-* [Vis2Mus](https://arxiv.org/abs/2211.05543) (encoder/decoder; 22arxiv): https://github.com/ldzhangyx/vis2mus
+* [Vis2Mus](https://arxiv.org/abs/2211.05543) (encoder/decoder; zhang22arxiv): https://github.com/ldzhangyx/vis2mus
+* [ConchShell](https://arxiv.org/abs/2210.05076) (encoder/decoder; fan22arxiv): n/a
 
 
 ### interactive multi-track music composition
