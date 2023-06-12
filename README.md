@@ -133,6 +133,10 @@
 * [NSynth](https://arxiv.org/abs/1704.01279) (WaveNet; engel17arxiv): https://magenta.tensorflow.org/nsynth
 
 
+### image-to-music
+* [Vis2Mus](https://arxiv.org/abs/2211.05543) (encoder/decoder; 22arxiv): https://github.com/ldzhangyx/vis2mus
+
+
 ### interactive multi-track music composition
 * [Jamming with Yating](http://mac.citi.sinica.edu.tw/~yang/pub/ailabs19ismirlbd_2.pdf) (RNN; hsiao19ismir-lbd): https://www.youtube.com/watch?v=9ZIJrr6lmHg
 
