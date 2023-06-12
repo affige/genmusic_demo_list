@@ -182,6 +182,7 @@
 
 ### compose multi-track music
 * [MuseCoco](https://arxiv.org/abs/2306.00110) (Transformer; lu23arxiv): https://github.com/microsoft/muzic/
+* [DiffuseRoll](https://arxiv.org/abs/2303.07794) (diffusion; wang23arxiv): n/a
 * [Museformer](https://arxiv.org/abs/2210.10349) (Transformer; yu22neurips): https://ai-muzic.github.io/museformer/
 * [SymphonyNet](https://arxiv.org/pdf/2205.05448.pdf) (Transformer; liu22ismir): https://symphonynet.github.io/
 * [CMT](https://arxiv.org/abs/2111.08380) (Transformer; di21mm): https://wzk1015.github.io/cmt/
@@ -201,6 +202,7 @@
 * [FIGARO](https://arxiv.org/abs/2201.10936) (Transformer; rütte22arxiv): https://github.com/dvruette/figaro
 
 ### given chord, compose melody
+* [MelodyDiffusion](https://www.mdpi.com/2227-7390/11/8/1915) (diffusion; li23mathematics): https://www.mdpi.com/article/10.3390/math11081915/s1
 * [H-EC2-VAE](https://archives.ismir.net/ismir2021/paper/000092.pdf) (GRU+VAE; wei21ismir): N/A...
 * [MINGUS](https://archives.ismir.net/ismir2021/paper/000051.pdf) (Transformer; madaghiele21ismir): https://github.com/vincenzomadaghiele/MINGUS
 * [BebopNet](https://program.ismir2020.net/poster_6-08.html) (LSTM): https://shunithaviv.github.io/bebopnet/
