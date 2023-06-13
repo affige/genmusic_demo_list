@@ -98,6 +98,7 @@
 * [MelGAN](https://arxiv.org/abs/1910.06711) (GAN; kumar19neurips): https://melgan-neurips.github.io/
 
 ### audio tokenzier
+* [Improved RVQGAN](https://arxiv.org/abs/2306.06546) (VQ; kumar23arxiv): https://descript.notion.site/Descript-Audio-Codec-11389fce0ce2419891d6591a68f814d5
 * [HiFi-Codec](https://arxiv.org/abs/2305.02765) (VQ; yang23arxiv): https://github.com/yangdongchao/AcademiCodec
 * [EnCodec](https://arxiv.org/abs/2210.13438) (VQ; défossez22arxiv): https://github.com/facebookresearch/encodec 
 * [SoundStream](https://arxiv.org/abs/2107.03312) (VQ; zeghidour21arxiv): https://google-research.github.io/seanet/soundstream/examples/
