@@ -187,6 +187,11 @@
 * [BachProp](https://arxiv.org/abs/1812.06669) (GRU; colombo18arxiv): https://sites.google.com/view/bachprop
 * [Music Transformer](https://arxiv.org/abs/1809.04281) (Transformer; huang19iclr): https://magenta.tensorflow.org/music-transformer
 
+### Rearrangement (e.g., pop2piano)
+* [Pop2Piano](https://arxiv.org/abs/2211.00895) (; choi22arxiv): https://sweetcocoa.github.io/pop2piano_samples/
+* [audio2midi](https://arxiv.org/abs/2112.15110) (GRU; wang21arxiv): https://github.com/ZZWaang/audio2midi
+* [InverseMV](https://arxiv.org/abs/2112.15320) (GRU; lin21arxiv): https://github.com/linchintung/VMT
+
 ### compose single-track polyphonic music by combinging existing ones
 * [CollageNet](https://archives.ismir.net/ismir2021/paper/000098.pdf) (VAE; wuerkaixi21ismir): https://github.com/urkax/CollageNet
 
