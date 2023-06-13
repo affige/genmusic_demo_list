@@ -5,7 +5,7 @@
 * [MeLoDy](https://arxiv.org/abs/2305.15719) (Transformer+diffusion; lam23arxiv): https://efficient-melody.github.io/
 * [SoundStorm](https://arxiv.org/abs/2305.09636) (Transformer; borsos23arxiv): https://google-research.github.io/seanet/soundstorm/examples/ (for general sounds)
 * [MusicLM](https://arxiv.org/abs/2301.11325) (Transformer; agostinelli23arxiv): https://google-research.github.io/seanet/musiclm/examples/
-* [VALL-E](https://arxiv.org/abs/2301.02111) (Transformer; wang21arxiv): https://www.microsoft.com/en-us/research/project/vall-e/ (for speech)
+* [VALL-E](https://arxiv.org/abs/2301.02111) (Transformer; wang23arxiv): https://www.microsoft.com/en-us/research/project/vall-e/ (for speech)
 * [multi-source-diffusion-models](https://arxiv.org/abs/2302.02257) (diffusion; 23arxiv): https://gladia-research-group.github.io/multi-source-diffusion-models/
 * [Noise2Music](https://arxiv.org/abs/2302.03917) (diffusion; huang23arxiv): https://noise2music.github.io/
 * [ERNIE-Music](https://arxiv.org/pdf/2302.04456.pdf) (diffusion; zhu23arxiv): N/A
@@ -17,6 +17,7 @@
 
 ### audio-domain music generation 
 * [fast JukeBox](https://www.mdpi.com/2076-3417/13/9/5630) (jukebox+knowledge distilling; pezzat-morales23mdpi): https://soundcloud.com/michel-pezzat-615988723
+* [DAG](https://arxiv.org/abs/2210.14661) (diffusion; pascual23icassp): https://diffusionaudiosynthesis.github.io/
 * [musika!](https://arxiv.org/pdf/2208.08706.pdf) (GAN; pasini22ismir): https://huggingface.co/spaces/marcop/musika
 * [JukeNox](https://arxiv.org/abs/2005.00341) (VQVAE+Transformer; dhariwal20arxiv): https://openai.com/blog/jukebox/
 * [UNAGAN](https://arxiv.org/abs/2005.08526) (GAN; liu20arxiv): https://github.com/ciaua/unagan
