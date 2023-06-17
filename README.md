@@ -196,6 +196,7 @@
 * [CollageNet](https://archives.ismir.net/ismir2021/paper/000098.pdf) (VAE; wuerkaixi21ismir): https://github.com/urkax/CollageNet
 
 ### compose multi-track music
+* [Anticipatory Music Transformer](https://arxiv.org/abs/2306.08620) (; thickstun23arxiv): https://crfm.stanford.edu/2023/06/16/anticipatory-music-transformer.html
 * [MuseCoco](https://arxiv.org/abs/2306.00110) (Transformer; lu23arxiv): https://github.com/microsoft/muzic/
 * [DiffuseRoll](https://arxiv.org/abs/2303.07794) (diffusion; wang23arxiv): n/a
 * [Museformer](https://arxiv.org/abs/2210.10349) (Transformer; yu22neurips): https://ai-muzic.github.io/museformer/
@@ -213,7 +214,7 @@
 * [Multitrack MusicVAE](https://arxiv.org/abs/1806.00195) (LSTM+VAE; simon18ismir): https://magenta.tensorflow.org/multitrack
 * [MuseGAN](https://arxiv.org/abs/1709.06298) (CNN+GAN; dong18aaai): https://salu133445.github.io/musegan/
 
-### compose multitrack music (cover generation; need reference MIDI)
+### compose multitrack covers (cover generation; need reference MIDI)
 * [FIGARO](https://arxiv.org/abs/2201.10936) (Transformer; rütte22arxiv): https://github.com/dvruette/figaro
 
 ### given chord, compose melody
