@@ -1,8 +1,8 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
-* [MuseCoco](https://arxiv.org/abs/2306.00110) (Transformer; lu23arxiv): https://github.com/microsoft/muzic/
 * [MusicGen](https://arxiv.org/abs/2306.05284) (Transformer; copet23arxiv): https://ai.honu.io/papers/musicgen/
+* [MuseCoco](https://arxiv.org/abs/2306.00110) (Transformer; lu23arxiv): https://github.com/microsoft/muzic/ (for symbolic music)
 * [MeLoDy](https://arxiv.org/abs/2305.15719) (Transformer+diffusion; lam23arxiv): https://efficient-melody.github.io/
 * [SoundStorm](https://arxiv.org/abs/2305.09636) (Transformer; borsos23arxiv): https://google-research.github.io/seanet/soundstorm/examples/ (for general sounds)
 * [MusicLM](https://arxiv.org/abs/2301.11325) (Transformer; agostinelli23arxiv): https://google-research.github.io/seanet/musiclm/examples/
