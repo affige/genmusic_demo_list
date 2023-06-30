@@ -35,6 +35,7 @@
 
 ### audio-domain singing synthesis
 * [HiddenSinger](https://arxiv.org/abs/2306.06814) (diffusion; hwang23arxiv): https://jisang93.github.io/hiddensinger-demo/
+* [Make-A-Voice](https://arxiv.org/abs/2305.19269) (transformer; huang23arxiv): https://make-a-voice.github.io/
 * [RMSSinger](https://arxiv.org/abs/2305.10686) (diffusion; he23aclf): https://rmssinger.github.io/
 * [NaturalSpeech 2](https://arxiv.org/abs/2304.09116) (diffusion; shen23arxiv): https://speechresearch.github.io/naturalspeech2/
 * [NANSY++](https://arxiv.org/abs/2211.09407) (Transformer; choi23iclr): https://bald-lifeboat-9af.notion.site/Demo-Page-For-NANSY-67d92406f62b4630906282117c7f0c39
