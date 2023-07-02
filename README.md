@@ -39,6 +39,7 @@
 * [RMSSinger](https://arxiv.org/abs/2305.10686) (diffusion; he23aclf): https://rmssinger.github.io/
 * [NaturalSpeech 2](https://arxiv.org/abs/2304.09116) (diffusion; shen23arxiv): https://speechresearch.github.io/naturalspeech2/
 * [NANSY++](https://arxiv.org/abs/2211.09407) (Transformer; choi23iclr): https://bald-lifeboat-9af.notion.site/Demo-Page-For-NANSY-67d92406f62b4630906282117c7f0c39
+* [UniSyn](https://arxiv.org/abs/2212.01546) (; lei23aaai): https://leiyi420.github.io/UniSyn/
 * [VISinger 2](https://arxiv.org/abs/2211.02903) (zhang22arxiv): https://zhangyongmao.github.io/VISinger2/
 * [xiaoicesing 2](https://arxiv.org/abs/2210.14666) (Transformer+GAN; wang22arxiv): https://wavelandspeech.github.io/xiaoice2/
 * [WeSinger 2](https://arxiv.org/pdf/2207.01886.pdf) (Transformer+GAN; zhang22arxiv): https://zzw922cn.github.io/wesinger2/
