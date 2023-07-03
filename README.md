@@ -94,8 +94,9 @@
 * [VITS](https://arxiv.org/abs/2106.06103) (transformer+flow+GAN; kim21icml): https://github.com/jaywalnut310/vits
 
 ### vocoder
+* [GOLF](https://arxiv.org/abs/2306.17252) (DDSP; yu23ismir): https://yoyololicon.github.io/golf-demo/
 * [BigVGAN](https://arxiv.org/abs/2206.04658) (GAN; lee23iclr): https://bigvgan-demo.github.io/
-* [sawsing](https://arxiv.org/pdf/2208.04756.pdf) (DDSP; wu22ismir): https://ddspvocoder.github.io/ismir-demo/
+* [SawSing](https://arxiv.org/pdf/2208.04756.pdf) (DDSP; wu22ismir): https://ddspvocoder.github.io/ismir-demo/
 * [Multi-Singer](https://dl.acm.org/doi/abs/10.1145/3474085.3475437) (wavenet; huang21mm): https://multi-singer.github.io/
 * [SingGAN](https://arxiv.org/pdf/2110.07468.pdf) (GAN; chen21arxiv): https://singgan.github.io/
 * [DiffWave](https://arxiv.org/abs/2009.09761) (diffusion; kong21iclr): https://diffwave-demo.github.io/
