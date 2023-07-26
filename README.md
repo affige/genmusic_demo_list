@@ -177,6 +177,7 @@
 
 
 ### compose single-track polyphonic music
+* [Polyffusion](https://arxiv.org/abs/2307.10304) (diffusion; min23ismir): https://polyffusion.github.io/
 * [EmoGen](https://arxiv.org/abs/2307.01229) (Transformer; kang23arxiv): https://ai-muzic.github.io/emogen/
 * [Compose & Embellish](https://arxiv.org/abs/2209.08212) (Transformer; wu22arxiv): https://drive.google.com/drive/folders/1Y7HfExAz3PpPbFl0OnccxYDNF1KZUP-3
 * [Theme Transformer](https://arxiv.org/abs/2111.04093) (Transformer; shih21arxiv): https://atosystem.github.io/ThemeTransformer/
