@@ -1,6 +1,8 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
+* [CLIPSynth](https://sightsound.org/papers/2023/Dong_CLIPSynth_Learning_Text-to-audio_Synthesis_from_Videos.pdf) (diffusion; dong23cvprw): https://salu133445.github.io/clipsynth/
+* [CLIPSonic](https://arxiv.org/abs/2306.09635) (diffusion; dong23waspaa): https://salu133445.github.io/clipsonic/
 * [MusicGen](https://arxiv.org/abs/2306.05284) (Transformer; copet23arxiv): https://ai.honu.io/papers/musicgen/
 * [MuseCoco](https://arxiv.org/abs/2306.00110) (Transformer; lu23arxiv): https://github.com/microsoft/muzic/ (for symbolic music)
 * [MeLoDy](https://arxiv.org/abs/2305.15719) (Transformer+diffusion; lam23arxiv): https://efficient-melody.github.io/
