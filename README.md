@@ -119,7 +119,7 @@
 * [Wave2Midi2Wave](https://arxiv.org/abs/1810.12247) (transformer+wavenet; hawthorne19iclr): https://magenta.tensorflow.org/maestro-wave2midi2wave
 
 
-### given score, generate musical audio (performance): Not limited to Piano
+### given score, generate musical audio (performance): Not limited to Piano [a.k.a. MIDI-to-audio]
 * [Deep Performer](https://arxiv.org/pdf/2202.06034.pdf) (Transformer; dong22icassp): https://salu133445.github.io/deepperformer/
 * [PerformanceNet](https://arxiv.org/abs/1811.04357) (CNN+GAN; wang19aaai): https://github.com/bwang514/PerformanceNet
 * [Conditioned Wavenet](https://archives.ismir.net/ismir2018/paper/000192.pdf) (Wavenet; manzelli18ismir): http://people.bu.edu/bkulis/projects/music/index.html
