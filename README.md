@@ -96,14 +96,22 @@
 ### TTS
 * [VITS](https://arxiv.org/abs/2106.06103) (transformer+flow+GAN; kim21icml): https://github.com/jaywalnut310/vits
 
-### vocoder
-* [GOLF](https://arxiv.org/abs/2306.17252) (DDSP; yu23ismir): https://yoyololicon.github.io/golf-demo/
+### vocoder (general)
 * [BigVGAN](https://arxiv.org/abs/2206.04658) (GAN; lee23iclr): https://bigvgan-demo.github.io/
+* [HifiGAN](https://arxiv.org/abs/2010.05646) (GAN; kong20neurips): https://jik876.github.io/hifi-gan-demo/
+* [DiffWave](https://arxiv.org/abs/2009.09761) (diffusion; kong21iclr): https://diffwave-demo.github.io/
+* [Parallel WaveGAN](https://arxiv.org/abs/1910.11480) (GAN; yamamoto20icassp): https://r9y9.github.io/projects/pwg/
+* [MelGAN](https://arxiv.org/abs/1910.06711) (GAN; kumar19neurips): https://melgan-neurips.github.io/
+
+
+### vocoder (singing)
+* [GOLF](https://arxiv.org/abs/2306.17252) (DDSP; yu23ismir): https://yoyololicon.github.io/golf-demo/
+* [DSPGAN](https://arxiv.org/abs/2211.01087) (GAN; song23icassp): https://kunsung.github.io/DSPGAN/
+* [Sifi-GAN](https://arxiv.org/abs/2210.15533) (GAN; yoneyama23icassp): https://chomeyama.github.io/SiFiGAN-Demo/
 * [SawSing](https://arxiv.org/pdf/2208.04756.pdf) (DDSP; wu22ismir): https://ddspvocoder.github.io/ismir-demo/
 * [Multi-Singer](https://dl.acm.org/doi/abs/10.1145/3474085.3475437) (wavenet; huang21mm): https://multi-singer.github.io/
 * [SingGAN](https://arxiv.org/pdf/2110.07468.pdf) (GAN; chen21arxiv): https://singgan.github.io/
-* [DiffWave](https://arxiv.org/abs/2009.09761) (diffusion; kong21iclr): https://diffwave-demo.github.io/
-* [MelGAN](https://arxiv.org/abs/1910.06711) (GAN; kumar19neurips): https://melgan-neurips.github.io/
+
 
 ### audio tokenzier
 * [Improved RVQGAN](https://arxiv.org/abs/2306.06546) (VQ; kumar23arxiv): https://descript.notion.site/Descript-Audio-Codec-11389fce0ce2419891d6591a68f814d5
