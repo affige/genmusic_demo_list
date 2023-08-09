@@ -64,6 +64,9 @@
 
 
 ### audio-domain singing style transfer / singing voice conversion
+* [ROSVC](https://arxiv.org/abs/2210.11096) (; takahashi22arxiv): https://t-naoya.github.io/rosvc/
+* [DiffSVC](https://arxiv.org/abs/2105.13871) (diffusion; liu21asru): https://liusongxiang.github.io/diffsvc/
+* [FastSVC](https://arxiv.org/abs/2011.05731) (CNN; liu21icme): https://nobody996.github.io/FastSVC/
 * [SoftVC VITS]() (): https://github.com/svc-develop-team/so-vits-svc
 * [Assem-VC](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_58.pdf) (; kim21nipsw): https://mindslab-ai.github.io/assem-vc/singer/
 * [iZotope-SVC](https://program.ismir2020.net/poster_1-08.html) (conv-encoder/decoder; nercessian20ismir): https://sites.google.com/izotope.com/ismir2020-audio-demo
