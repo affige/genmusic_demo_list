@@ -1,18 +1,22 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
-* [CLIPSynth](https://sightsound.org/papers/2023/Dong_CLIPSynth_Learning_Text-to-audio_Synthesis_from_Videos.pdf) (diffusion; dong23cvprw): https://salu133445.github.io/clipsynth/
-* [CLIPSonic](https://arxiv.org/abs/2306.09635) (diffusion; dong23waspaa): https://salu133445.github.io/clipsonic/
+* [JEN-1](https://arxiv.org/abs/2308.04729) (diffusion; li23arxiv): https://www.futureverse.com/research/jen/demos/jen1
 * [MusicGen](https://arxiv.org/abs/2306.05284) (Transformer; copet23arxiv): https://ai.honu.io/papers/musicgen/
 * [MuseCoco](https://arxiv.org/abs/2306.00110) (Transformer; lu23arxiv): https://ai-muzic.github.io/musecoco/ (for symbolic music)
 * [MeLoDy](https://arxiv.org/abs/2305.15719) (Transformer+diffusion; lam23arxiv): https://efficient-melody.github.io/
-* [SoundStorm](https://arxiv.org/abs/2305.09636) (Transformer; borsos23arxiv): https://google-research.github.io/seanet/soundstorm/examples/ (for general sounds)
 * [MusicLM](https://arxiv.org/abs/2301.11325) (Transformer; agostinelli23arxiv): https://google-research.github.io/seanet/musiclm/examples/
-* [VALL-E](https://arxiv.org/abs/2301.02111) (Transformer; wang23arxiv): https://www.microsoft.com/en-us/research/project/vall-e/ (for speech)
-* [multi-source-diffusion-models](https://arxiv.org/abs/2302.02257) (diffusion; 23arxiv): https://gladia-research-group.github.io/multi-source-diffusion-models/
 * [Noise2Music](https://arxiv.org/abs/2302.03917) (diffusion; huang23arxiv): https://noise2music.github.io/
 * [ERNIE-Music](https://arxiv.org/pdf/2302.04456.pdf) (diffusion; zhu23arxiv): N/A
 * [Riffusion]() (diffusion;): https://www.riffusion.com/
+
+
+### text-to-audio
+* [CLIPSynth](https://sightsound.org/papers/2023/Dong_CLIPSynth_Learning_Text-to-audio_Synthesis_from_Videos.pdf) (diffusion; dong23cvprw): https://salu133445.github.io/clipsynth/
+* [CLIPSonic](https://arxiv.org/abs/2306.09635) (diffusion; dong23waspaa): https://salu133445.github.io/clipsonic/
+* [SoundStorm](https://arxiv.org/abs/2305.09636) (Transformer; borsos23arxiv): https://google-research.github.io/seanet/soundstorm/examples/ 
+* [VALL-E](https://arxiv.org/abs/2301.02111) (Transformer; wang23arxiv): https://www.microsoft.com/en-us/research/project/vall-e/ (for speech)
+* [multi-source-diffusion-models](https://arxiv.org/abs/2302.02257) (diffusion; 23arxiv): https://gladia-research-group.github.io/multi-source-diffusion-models/
 * [Make-An-Audio](https://text-to-audio.github.io/paper.pdf) (diffusion; huang23arxiv): https://text-to-audio.github.io/ (for general sounds)
 * [AudioLDM](https://arxiv.org/pdf/2301.12503.pdf) (diffusion; liu23arxiv): https://audioldm.github.io/ (for general sounds)
 * [AudioLM](https://arxiv.org/abs/2209.03143) (Transformer; borsos22arxiv): https://google-research.github.io/seanet/audiolm/examples/ (for general sounds)
