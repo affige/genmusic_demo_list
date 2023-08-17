@@ -144,7 +144,7 @@
 ### audio/timbre synthesis
 * [RAVE-Latent Diffusion]() (diffusion;): https://github.com/moiseshorta/RAVE-Latent-Diffusion
 * [GANStrument](https://arxiv.org/abs/2211.05385) (narita22arxiv): https://ganstrument.github.io/ganstrument-demo/
-* [RAVE](https://arxiv.org/abs/2111.05011) (VAE;caillon21arxiv): https://github.com/acids-ircam/RAVE
+* [RAVE](https://arxiv.org/abs/2111.05011) (VAE;caillon21arxiv): https://anonymous84654.github.io/RAVE_anonymous/; https://github.com/acids-ircam/RAVE
 * [NEWT](https://archives.ismir.net/ismir2021/paper/000031.pdf) (DDSP; hayes21ismir): https://benhayes.net/projects/nws/
 * [CRASH](https://archives.ismir.net/ismir2021/paper/000072.pdf) (diffusion; rouard21ismir): https://crash-diffusion.github.io/crash/
 * [DarkGAN](https://archives.ismir.net/ismir2021/paper/000060.pdf) (GAN; nistal21ismir): https://an-1673.github.io/DarkGAN.io/
