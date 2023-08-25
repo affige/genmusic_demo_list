@@ -13,6 +13,7 @@
 
 ### text-to-audio
 * [AudioLDM 2](https://arxiv.org/abs/2308.05734) (diffusion; liu23arxiv): https://audioldm.github.io/audioldm2/
+* [WavJourney](https://arxiv.org/abs/2307.14335) (; liu23arxiv): https://audio-agi.github.io/WavJourney_demopage/
 * [CLIPSynth](https://sightsound.org/papers/2023/Dong_CLIPSynth_Learning_Text-to-audio_Synthesis_from_Videos.pdf) (diffusion; dong23cvprw): https://salu133445.github.io/clipsynth/
 * [CLIPSonic](https://arxiv.org/abs/2306.09635) (diffusion; dong23waspaa): https://salu133445.github.io/clipsonic/
 * [SoundStorm](https://arxiv.org/abs/2305.09636) (Transformer; borsos23arxiv): https://google-research.github.io/seanet/soundstorm/examples/ 
