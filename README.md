@@ -129,9 +129,17 @@
 * [EnCodec](https://arxiv.org/abs/2210.13438) (VQ; défossez22arxiv): https://github.com/facebookresearch/encodec 
 * [SoundStream](https://arxiv.org/abs/2107.03312) (VQ; zeghidour21arxiv): https://google-research.github.io/seanet/soundstream/examples/
 
+
+
+### audio super-resolution
+* [AudioSR](https://arxiv.org/abs/2309.07314) (diffusion; liu23arxiv): https://audioldm.github.io/audiosr/
+
+
+
 ### audio-domain loop generation
 * [PJLoopGAN](https://arxiv.org/pdf/2209.01751.pdf) (GAN; yeh22ismir): https://arthurddd.github.io/PjLoopGAN/
 * [LoopGen](https://archives.ismir.net/ismir2021/paper/000038.pdf) (GAN; hung21ismir): https://loopgen.github.io/
+
 
 ### given score, generate musical audio (performance): Piano only
 * [TTS-based MIDI-to-audio](https://arxiv.org/abs/2211.13868) (Transformer-TTS; shi23icassp): https://nii-yamagishilab.github.io/sample-midi-to-audio/
