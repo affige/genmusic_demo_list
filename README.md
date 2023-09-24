@@ -1,6 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
+* [MusicLDM](https://arxiv.org/pdf/2308.01546.pdf) (diffusion; chen23arxiv): https://musicldm.github.io/
 * [InstructME](https://arxiv.org/abs/2308.14360) (diffusion; han23arxiv): https://musicedit.github.io/
 * [JEN-1](https://arxiv.org/abs/2308.04729) (diffusion; li23arxiv): https://www.futureverse.com/research/jen/demos/jen1
 * [MusicGen](https://arxiv.org/abs/2306.05284) (Transformer; copet23arxiv): https://ai.honu.io/papers/musicgen/
