@@ -191,6 +191,7 @@
 * [musicalspeech] (Transformer; d'Eon20nips-demo): https://jasondeon.github.io/musicalSpeech/
 
 ### compose melody
+* [MelodyGLM](https://arxiv.org/pdf/2309.10738.pdf) (transformer; wu23arxiv): https://nextlab-zju.github.io/melodyglm/
 * [TunesFormer](https://arxiv.org/abs/2301.02884) (transformer; wu23arxiv): https://github.com/sander-wood/tunesformer
 * [MeloForm](https://arxiv.org/pdf/2208.14345.pdf) (transformer; lu22arxiv): https://ai-muzic.github.io/meloform/
 * [parkR](https://transactions.ismir.net/articles/10.5334/tismir.87/) (markov; frieler22tismir): https://github.com/klausfrieler/parkR
