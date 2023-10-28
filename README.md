@@ -301,7 +301,12 @@
 * [LeadsheetVAE](https://drive.google.com/file/d/10uGRGEI9IOfu_LyzDSG393fGhwUrEOi4/view) (RNN+VAE; liu18ismir-lbd): https://liuhaumin.github.io/LeadsheetArrangement/results
 
 
+### given any MIDI tracks, compose other MIDI tracks
+* [GETMusic](https://openreview.net/forum?id=z80CwkWXmq) (discrete diffusion): https://getmusicdemo.github.io/ 
+
+
 ### given melody, compose arrangement
+* [GETMusic](https://openreview.net/forum?id=z80CwkWXmq) (discrete diffusion): https://getmusicdemo.github.io/
 * [SongDriver](https://arxiv.org/pdf/2209.06054.pdf) (Transformer-CRF; wang22mm): 
 * [AccoMontage2](https://arxiv.org/pdf/2209.00353.pdf) : https://billyyi.top/accomontage2/
 * [AccoMontage](https://archives.ismir.net/ismir2021/paper/000104.pdf) (template-based; zhao21ismir): https://github.com/zhaojw1998/AccoMontage
