@@ -306,7 +306,8 @@
 * [GETMusic](https://openreview.net/forum?id=z80CwkWXmq) (discrete diffusion): https://getmusicdemo.github.io/ 
 
 
-### given melody, compose arrangement
+### given melody or lead sheet, compose arrangement
+* [AccoMontage3](https://arxiv.org/pdf/2310.16334.pdf) (; zhao23arxiv): https://zhaojw1998.github.io/AccoMontage-3
 * [GETMusic](https://openreview.net/forum?id=z80CwkWXmq) (discrete diffusion): https://getmusicdemo.github.io/
 * [SongDriver](https://arxiv.org/pdf/2209.06054.pdf) (Transformer-CRF; wang22mm): 
 * [AccoMontage2](https://arxiv.org/pdf/2209.00353.pdf) : https://billyyi.top/accomontage2/
