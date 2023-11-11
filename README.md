@@ -1,6 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
+* [InstrumentGen](https://arxiv.org/abs/2311.04339) (transformer; nercessian23ml4audio): https://instrumentgen.netlify.app/
 * [UniAudio](https://arxiv.org/abs/2310.00704) (transformer; yang23arxiv): http://dongchaoyang.top/UniAudio_demo/
 * [MusicLDM](https://arxiv.org/abs/2308.01546) (diffusion; chen23arxiv): https://musicldm.github.io/
 * [InstructME](https://arxiv.org/abs/2308.14360) (diffusion; han23arxiv): https://musicedit.github.io/
