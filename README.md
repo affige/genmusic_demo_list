@@ -1,6 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
+* [Mustango](https://arxiv.org/abs/2311.08355) (diffusion): https://github.com/AMAAI-Lab/mustango
 * [InstrumentGen](https://arxiv.org/abs/2311.04339) (transformer; nercessian23ml4audio): https://instrumentgen.netlify.app/
 * [UniAudio](https://arxiv.org/abs/2310.00704) (transformer; yang23arxiv): http://dongchaoyang.top/UniAudio_demo/
 * [MusicLDM](https://arxiv.org/abs/2308.01546) (diffusion; chen23arxiv): https://musicldm.github.io/
@@ -179,6 +180,9 @@
 * [WaveGAN](https://arxiv.org/abs/1802.04208) (CNN+GAN; donahue19iclr): https://github.com/chrisdonahue/wavegan
 * [WaveNet autoencoder](https://arxiv.org/abs/1704.01279) (WaveNet; engel17arxiv): https://magenta.tensorflow.org/nsynth
 
+### video-to-music
+* [Video2Music](https://arxiv.org/abs/2311.00968) (transformer): https://github.com/AMAAI-Lab/Video2Music
+
 
 ### image-to-music
 * [Vis2Mus](https://arxiv.org/abs/2211.05543) (encoder/decoder; zhang22arxiv): https://github.com/ldzhangyx/vis2mus
@@ -242,6 +246,7 @@
 * [CollageNet](https://archives.ismir.net/ismir2021/paper/000098.pdf) (VAE; wuerkaixi21ismir): https://github.com/urkax/CollageNet
 
 ### compose multi-track music
+* [MorpheuS](https://arxiv.org/abs/1812.04832): https://dorienherremans.com/morpheus
 * [Anticipatory Music Transformer](https://arxiv.org/abs/2306.08620) (; thickstun23arxiv): https://crfm.stanford.edu/2023/06/16/anticipatory-music-transformer.html
 * [SCHmUBERT](https://arxiv.org/abs/2305.09489) (diffusion; plasser23ijcai): https://github.com/plassma/symbolic-music-discrete-diffusion
 * [DiffuseRoll](https://arxiv.org/abs/2303.07794) (diffusion; wang23arxiv): n/a
@@ -288,6 +293,7 @@
 
 
 ### compose drum MIDI
+* [Conditional drum generation by Markis](https://arxiv.org/abs/2202.04464) (BiLSTM/Transformer): https://github.com/melkor169/CP_Drums_Generation
 * [Nuttall's model](https://nime.pubpub.org/pub/8947fhly/release/1?readingCollection=71dd0131) (Transformer; nuttall21nime): https://nime.pubpub.org/pub/8947fhly/release/1?readingCollection=71dd0131
 * [Wei's model](https://drive.google.com/file/d/1149HnGliYtl45Cjp9XwJadL_YHRLvq5F/view) (VAE+GAN; wei19ismir): https://github.com/Sma1033/drum_generation_with_ssm
 * [DrumNet](https://arxiv.org/pdf/1908.00948.pdf) (GAE; lattner19waspaa): https://sites.google.com/view/drum-generation
@@ -295,6 +301,7 @@
 
 
 ### compose melody+chords (two tracks)
+* [Emotional Lead Sheet Generation](https://arxiv.org/abs/2104.13056) (sen2seq): https://github.com/melkor169/LeadSheetGen_Valence
 * [EmoMusicTV](https://ieeexplore.ieee.org/document/10124351) (Transformer; ji23tmm): https://github.com/Tayjsl97/EmoMusicTV
 * [Jazz Transformer](https://arxiv.org/abs/2008.01307) (Transformer; wu20ismir): https://drive.google.com/drive/folders/1-09SoxumYPdYetsUWHIHSugK99E2tNYD
 * [Transformer VAE](https://ieeexplore.ieee.org/document/9054554) (Transformer+VAE; jiang20icassp): https://drive.google.com/drive/folders/1Su-8qrK__28mAesSCJdjo6QZf9zEgIx6
