@@ -1,7 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
-* [Mustango](https://arxiv.org/abs/2311.08355) (diffusion): https://github.com/AMAAI-Lab/mustango
+* [Mustango](https://arxiv.org/abs/2311.08355) (diffusion; melechovsky23arxiv): https://github.com/AMAAI-Lab/mustango
 * [InstrumentGen](https://arxiv.org/abs/2311.04339) (transformer; nercessian23ml4audio): https://instrumentgen.netlify.app/
 * [UniAudio](https://arxiv.org/abs/2310.00704) (transformer; yang23arxiv): http://dongchaoyang.top/UniAudio_demo/
 * [MusicLDM](https://arxiv.org/abs/2308.01546) (diffusion; chen23arxiv): https://musicldm.github.io/
@@ -179,9 +179,6 @@
 * [SING](https://arxiv.org/abs/1810.09785) (defossez18nips): https://research.fb.com/wp-content/themes/fb-research/research/sing-paper/
 * [WaveGAN](https://arxiv.org/abs/1802.04208) (CNN+GAN; donahue19iclr): https://github.com/chrisdonahue/wavegan
 * [WaveNet autoencoder](https://arxiv.org/abs/1704.01279) (WaveNet; engel17arxiv): https://magenta.tensorflow.org/nsynth
-
-### video-to-music
-* [Video2Music](https://arxiv.org/abs/2311.00968) (transformer): https://github.com/AMAAI-Lab/Video2Music
 
 
 ### image-to-music
