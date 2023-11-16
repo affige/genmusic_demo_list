@@ -188,6 +188,8 @@
 * [Vis2Mus](https://arxiv.org/abs/2211.05543) (encoder/decoder; zhang22arxiv): https://github.com/ldzhangyx/vis2mus
 * [ConchShell](https://arxiv.org/abs/2210.05076) (encoder/decoder; fan22arxiv): n/a
 
+### video-to-music
+* [Video2Music](https://arxiv.org/abs/2311.00968) (transformer; kang23arxiv): https://github.com/AMAAI-Lab/Video2Music
 
 ### interactive multi-track music composition
 * [Jamming with Yating](http://mac.citi.sinica.edu.tw/~yang/pub/ailabs19ismirlbd_2.pdf) (RNN; hsiao19ismir-lbd): https://www.youtube.com/watch?v=9ZIJrr6lmHg
