@@ -373,7 +373,8 @@
 * [deep-music-analogy](https://arxiv.org/pdf/1906.03626.pdf) (yang19ismir): https://github.com/cdyrhjohn/Deep-Music-Analogy-Demos
 
 
-### given MIDI, generate human-like MIDI: Piano only
+### performance generation (given MIDI, generate human-like MIDI): Piano only
+* [ScorePerformer](https://ismir2023program.ismir.net/poster_183.html) (transformer; borovik23ismir): https://github.com/ilya16/scoreperformer
 * [CVRNN](http://archives.ismir.net/ismir2019/paper/000105.pdf) (CVRNN; maezawa19ismir): https://sites.google.com/view/cvrnn-performance-render
 * [GGNN](http://proceedings.mlr.press/v97/jeong19a/jeong19a.pdf) (graph NN + hierarchical attention RNN; jeong19icml)
 * [VirtuosoNet](https://nips2018creativity.github.io/doc/virtuosonet.pdf) (LSTM+hierarchical attention network; jeong18nipsw): https://www.youtube.com/playlist?list=PLkIVXCxCZ08rD1PXbrb0KNOSYVh5Pvg-c
