@@ -103,6 +103,8 @@
 
 
 ### audio-domain style transfer (general)
+* [DiffTransfer](https://ismir2023program.ismir.net/poster_197.html) (diffusion; comanducci23ismir): https://lucacoma.github.io/DiffTransfer/
+* [VAE-GAN](https://arxiv.org/abs/2109.02096) (VAE-GAN; bonnici22ijcnn): https://github.com/RussellSB/tt-vae-gan
 * [VQ-VAE](https://arxiv.org/pdf/2102.05749.pdf) (VQ-VAE; cifka21icassp): https://adasp.telecom-paris.fr/rc/demos_companion-pages/cifka-ss-vq-vae/
 * [MelGAN-VC](https://arxiv.org/pdf/1910.03713.pdf) (GAN; pasini19arxiv): https://www.youtube.com/watch?v=3BN577LK62Y&feature=youtu.be
 * [RaGAN](https://www.aaai.org/Papers/AAAI/2019/AAAI-LuC.2259.pdf) (GAN; lu19aaai): https://github.com/ChienYuLu/Play-As-You-Like-Timbre-Enhanced-Multi-modal-Music-Style-Transfer
@@ -343,6 +345,7 @@
 * [LOP](https://qsdfo.github.io/LOP/index.html) (RBM; crestel17smc): https://qsdfo.github.io/LOP/results.html
 
 ### piano infilling
+* [Polyffusion](https://arxiv.org/abs/2307.10304) (diffusion; min23ismir): https://polyffusion.github.io/
 * [structure-aware infilling](https://arxiv.org/pdf/2210.02829.pdf) : https://tanchihpin0517.github.io/structure-aware_infilling
 * [VLI](https://arxiv.org/pdf/2108.05064.pdf) (Transformer; chang21ismir): https://jackyhsiung.github.io/piano-infilling-demo/
 * [The Piano Inpainting Application](https://arxiv.org/pdf/2107.05944.pdf) (): https://ghadjeres.github.io/piano-inpainting-application/
