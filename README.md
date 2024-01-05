@@ -3,6 +3,7 @@
 ### text-to-music/audio
 * [Mustango](https://arxiv.org/abs/2311.08355) (diffusion; melechovsky23arxiv): https://github.com/AMAAI-Lab/mustango
 * [InstrumentGen](https://arxiv.org/abs/2311.04339) (transformer; nercessian23ml4audio): https://instrumentgen.netlify.app/
+* [JEN-1 Composer](https://arxiv.org/pdf/2310.19180.pdf) (diffusion; yao23arxiv): https://www.jenmusic.ai/audio-demos
 * [UniAudio](https://arxiv.org/abs/2310.00704) (transformer; yang23arxiv): http://dongchaoyang.top/UniAudio_demo/
 * [MusicLDM](https://arxiv.org/abs/2308.01546) (diffusion; chen23arxiv): https://musicldm.github.io/
 * [InstructME](https://arxiv.org/abs/2308.14360) (diffusion; han23arxiv): https://musicedit.github.io/
