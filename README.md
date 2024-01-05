@@ -2,6 +2,7 @@
 
 ### text-to-music/audio
 * [Mustango](https://arxiv.org/abs/2311.08355) (diffusion; melechovsky23arxiv): https://github.com/AMAAI-Lab/mustango
+* [Music ControlNet](https://arxiv.org/abs/2311.07069) (diffusion; wu23arxiv): https://musiccontrolnet.github.io/web/
 * [InstrumentGen](https://arxiv.org/abs/2311.04339) (transformer; nercessian23ml4audio): https://instrumentgen.netlify.app/
 * [Coco-Mulla](https://arxiv.org/pdf/2310.17162.pdf) (transformer; lin23arxiv): https://kikyo-16.github.io/coco-mulla/
 * [JEN-1 Composer](https://arxiv.org/pdf/2310.19180.pdf) (diffusion; yao23arxiv): https://www.jenmusic.ai/audio-demos
