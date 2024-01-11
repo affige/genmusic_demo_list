@@ -1,6 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
+* [MAGNeT](https://arxiv.org/abs/2401.04577) (transformer; ziv24arxiv): https://pages.cs.huji.ac.il/adiyoss-lab/MAGNeT/
 * [Mustango](https://arxiv.org/abs/2311.08355) (diffusion; melechovsky23arxiv): https://github.com/AMAAI-Lab/mustango
 * [Music ControlNet](https://arxiv.org/abs/2311.07069) (diffusion; wu23arxiv): https://musiccontrolnet.github.io/web/
 * [InstrumentGen](https://arxiv.org/abs/2311.04339) (transformer; nercessian23ml4audio): https://instrumentgen.netlify.app/
