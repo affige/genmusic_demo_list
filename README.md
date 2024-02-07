@@ -335,6 +335,7 @@
 
 
 ### given mix (audio), compose bass
+* [latent diffusion](https://arxiv.org/abs/2402.01412) (diffusion; pasini24arxiv): https://sonycslparis.github.io/bass_accompaniment_demo/
 * [BassNet](https://www.mdpi.com/2076-3417/10/18/6627) (GAE+CNN; ren20mm): https://sonycslparis.github.io/bassnet/
 
 
