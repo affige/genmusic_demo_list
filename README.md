@@ -120,6 +120,10 @@
 ### TTS
 * [VITS](https://arxiv.org/abs/2106.06103) (transformer+flow+GAN; kim21icml): https://github.com/jaywalnut310/vits
 
+### speech voice conversion / voice cloning
+* [Applio]() (): https://github.com/IAHispano/Applio
+
+
 ### vocoder (general)
 * [BigVGAN](https://arxiv.org/abs/2206.04658) (GAN; lee23iclr): https://bigvgan-demo.github.io/
 * [HifiGAN](https://arxiv.org/abs/2010.05646) (GAN; kong20neurips): https://jik876.github.io/hifi-gan-demo/
