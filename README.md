@@ -1,6 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
+* [MusicMagus](https://arxiv.org/abs/2402.06178) (diffusion; zhang24arxiv): https://wry-neighbor-173.notion.site/MusicMagus-Zero-Shot-Text-to-Music-Editing-via-Diffusion-Models-8f55a82f34944eb9a4028ca56c546d9d
 * [DITTO](https://arxiv.org/abs/2401.12179) (diffusion; novack24arxiv): https://ditto-music.github.io/web/
 * [MAGNeT](https://arxiv.org/abs/2401.04577) (transformer; ziv24arxiv): https://pages.cs.huji.ac.il/adiyoss-lab/MAGNeT/
 * [Mustango](https://arxiv.org/abs/2311.08355) (diffusion; melechovsky23arxiv): https://github.com/AMAAI-Lab/mustango
