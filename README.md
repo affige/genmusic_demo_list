@@ -23,6 +23,7 @@
 
 
 ### text-to-audio
+* [Baton](https://arxiv.org/abs/2402.00744) (diffusion; liao24arxiv): https://baton2024.github.io/
 * [VoiceLDM](https://arxiv.org/abs/2309.13664) (diffusion; lee23arxiv): https://voiceldm.github.io/
 * [AudioLDM 2](https://arxiv.org/abs/2308.05734) (diffusion; liu23arxiv): https://audioldm.github.io/audioldm2/
 * [WavJourney](https://arxiv.org/abs/2307.14335) (; liu23arxiv): https://audio-agi.github.io/WavJourney_demopage/
