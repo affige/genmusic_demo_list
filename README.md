@@ -111,6 +111,7 @@
 
 
 ### audio-domain style transfer (general)
+* [MusicTI](https://arxiv.org/abs/2402.13763) (diffusion; li24aaai): https://lsfhuihuiff.github.io/MusicTI/
 * [DiffTransfer](https://ismir2023program.ismir.net/poster_197.html) (diffusion; comanducci23ismir): https://lucacoma.github.io/DiffTransfer/
 * [VAE-GAN](https://arxiv.org/abs/2109.02096) (VAE-GAN; bonnici22ijcnn): https://github.com/RussellSB/tt-vae-gan
 * [VQ-VAE](https://arxiv.org/pdf/2102.05749.pdf) (VQ-VAE; cifka21icassp): https://adasp.telecom-paris.fr/rc/demos_companion-pages/cifka-ss-vq-vae/
