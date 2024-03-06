@@ -121,6 +121,7 @@
 * [string2woodwind](https://minjekim.com/papers/icassp2017_swager.pdf) (DSP; wagner17icassp): http://homes.sice.indiana.edu/scwager/css.html
 
 ### TTS
+* [NaturalSpeech 3](https://arxiv.org/abs/2403.03100) (diffusion; ju24arxiv): https://speechresearch.github.io/naturalspeech3/
 * [VITS](https://arxiv.org/abs/2106.06103) (transformer+flow+GAN; kim21icml): https://github.com/jaywalnut310/vits
 
 ### speech voice conversion / voice cloning
