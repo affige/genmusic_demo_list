@@ -129,6 +129,7 @@
 
 
 ### vocoder (general)
+* [MusicHiFi](https://arxiv.org/abs/2403.10493) (GAN+diffusion; zhu24arxiv): https://musichifi.github.io/web/
 * [BigVGAN](https://arxiv.org/abs/2206.04658) (GAN; lee23iclr): https://bigvgan-demo.github.io/
 * [HifiGAN](https://arxiv.org/abs/2010.05646) (GAN; kong20neurips): https://jik876.github.io/hifi-gan-demo/
 * [DiffWave](https://arxiv.org/abs/2009.09761) (diffusion; kong21iclr): https://diffwave-demo.github.io/
