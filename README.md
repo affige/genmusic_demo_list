@@ -57,6 +57,7 @@
 
 
 ### audio-domain singing synthesis
+* [Prompt-Singer](https://arxiv.org/pdf/2403.11780.pdf) (transformer; wang24naacl): https://prompt-singer.github.io/
 * [BiSinger](https://arxiv.org/abs/2309.14089) (transformer; zhou23asru): https://bisinger-svs.github.io/
 * [HiddenSinger](https://arxiv.org/abs/2306.06814) (diffusion; hwang23arxiv): https://jisang93.github.io/hiddensinger-demo/
 * [Make-A-Voice](https://arxiv.org/abs/2305.19269) (transformer; huang23arxiv): https://make-a-voice.github.io/
