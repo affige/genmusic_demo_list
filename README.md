@@ -1,6 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
+* [SMITIN](https://arxiv.org/abs/2404.02252) (transformer; koo24arxiv): https://wide-wood-512.notion.site/SMITIN-Self-Monitored-Inference-Time-INtervention-for-Generative-Music-Transformers-Demo-Page-983723e6e9ac4f008298f3c427a23241
 * [Stable audio](https://arxiv.org/abs/2402.04825) (diffusion; evans24arxiv): https://stability-ai.github.io/stable-audio-demo/
 * [MusicMagus](https://arxiv.org/abs/2402.06178) (diffusion; zhang24arxiv): https://wry-neighbor-173.notion.site/MusicMagus-Zero-Shot-Text-to-Music-Editing-via-Diffusion-Models-8f55a82f34944eb9a4028ca56c546d9d
 * [DITTO](https://arxiv.org/abs/2401.12179) (diffusion; novack24arxiv): https://ditto-music.github.io/web/
@@ -237,6 +238,7 @@
 
 ### compose single-track polyphonic music
 * [WholeSong](https://openreview.net/forum?id=sn7CYWyavh&noteId=3X6BSBDIPB) (diffusion; 24iclr): https://wholesonggen.github.io/
+* [MGM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10269036) (transformer; 24tmm): https://github.com/hu-music/MGM
 * [Polyffusion](https://arxiv.org/abs/2307.10304) (diffusion; min23ismir): https://polyffusion.github.io/
 * [EmoGen](https://arxiv.org/abs/2307.01229) (Transformer; kang23arxiv): https://ai-muzic.github.io/emogen/
 * [Compose & Embellish](https://arxiv.org/abs/2209.08212) (Transformer; wu22arxiv): https://drive.google.com/drive/folders/1Y7HfExAz3PpPbFl0OnccxYDNF1KZUP-3
