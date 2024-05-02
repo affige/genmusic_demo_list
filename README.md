@@ -406,3 +406,7 @@
 
 ### given MIDI, generate human-like MIDI: Drum only
 * [GrooVAE](https://magenta.tensorflow.org/groovae) (seq2seq+VAE; gillick19icml): https://magenta.tensorflow.org/groovae
+
+
+### compose ABC MIDI by LLM
+* [ComposerX](https://arxiv.org/abs/2404.18081) (LLM; deng24arxiv): https://lllindsey0615.github.io/ComposerX_demo/
