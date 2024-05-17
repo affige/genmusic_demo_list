@@ -52,6 +52,7 @@
 
 
 ### given singing, generate accompaniments
+* [FastSAG](https://arxiv.org/pdf/2405.07682) (diffusion; chen24arxiv): https://fastsag.github.io/
 * [SingSong](https://arxiv.org/abs/2301.12662) (VQVAE+Transofmrer; donahue23arxiv): https://storage.googleapis.com/sing-song/index.html
 
 
