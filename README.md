@@ -1,6 +1,9 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
+* [DITTO-2](https://arxiv.org/abs/2405.20289) (diffusion; novack24arxiv): https://ditto-music.github.io/ditto2/
+* [SoundCTM](https://arxiv.org/abs/2405.18503) (diffusion; saito24arxiv): N/A
+* [Instruct-MusicGen](https://arxiv.org/abs/2405.18386) (transformer; zhang24arxiv): https://foul-ice-5ea.notion.site/Instruct-MusicGen-Demo-Page-Under-construction-a1e7d8d474f74df18bda9539d96687ab
 * [Stable audio 2](https://arxiv.org/abs/2404.10301) (diffusion; evans24arxiv): https://stability-ai.github.io/stable-audio-2-demo/
 * [Melodist](https://arxiv.org/abs/2404.09313) (transformer; hong24arxiv): https://text2songmelodist.github.io/Sample/
 * [SMITIN](https://arxiv.org/abs/2404.02252) (transformer; koo24arxiv): https://wide-wood-512.notion.site/SMITIN-Self-Monitored-Inference-Time-INtervention-for-Generative-Music-Transformers-Demo-Page-983723e6e9ac4f008298f3c427a23241
