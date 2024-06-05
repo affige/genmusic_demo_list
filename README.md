@@ -207,11 +207,12 @@
 * [WaveNet autoencoder](https://arxiv.org/abs/1704.01279) (WaveNet; engel17arxiv): https://magenta.tensorflow.org/nsynth
 
 
-### image-to-music
+### image-to-music/audio
 * [Vis2Mus](https://arxiv.org/abs/2211.05543) (encoder/decoder; zhang22arxiv): https://github.com/ldzhangyx/vis2mus
 * [ConchShell](https://arxiv.org/abs/2210.05076) (encoder/decoder; fan22arxiv): n/a
 
-### video-to-music
+### video-to-music/audio
+* [Frieren](https://arxiv.org/abs/2406.00320) (diffusion; wang24arxiv): https://frieren-v2a.github.io/
 * [Video2Music](https://arxiv.org/abs/2311.00968) (transformer; kang23arxiv): https://github.com/AMAAI-Lab/Video2Music
 
 ### interactive multi-track music composition
