@@ -210,6 +210,7 @@
 
 
 ### image-to-music/audio
+* [MeLFusion](https://openaccess.thecvf.com/content/CVPR2024/papers/Chowdhury_MeLFusion_Synthesizing_Music_from_Image_and_Language_Cues_using_Diffusion_CVPR_2024_paper.pdf) (diffusion; chowdhury24cvpr): https://schowdhury671.github.io/melfusion_cvpr2024/
 * [Vis2Mus](https://arxiv.org/abs/2211.05543) (encoder/decoder; zhang22arxiv): https://github.com/ldzhangyx/vis2mus
 * [ConchShell](https://arxiv.org/abs/2210.05076) (encoder/decoder; fan22arxiv): n/a
 
