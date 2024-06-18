@@ -215,6 +215,7 @@
 * [ConchShell](https://arxiv.org/abs/2210.05076) (encoder/decoder; fan22arxiv): n/a
 
 ### video-to-music/audio
+* [Diff-BGM](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Diff-BGM_A_Diffusion_Model_for_Video_Background_Music_Generation_CVPR_2024_paper.pdf) (diffusion; li24cvpr): https://github.com/sizhelee/Diff-BGM
 * [Frieren](https://arxiv.org/abs/2406.00320) (diffusion; wang24arxiv): https://frieren-v2a.github.io/
 * [Video2Music](https://arxiv.org/abs/2311.00968) (transformer; kang23arxiv): https://github.com/AMAAI-Lab/Video2Music
 
