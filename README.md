@@ -1,6 +1,8 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
+* [MusicFlow](https://openreview.net/pdf?id=kOczKjmYum) (diffusion; prajwal24icml): N/A
+* [Diff-A-Riff](https://arxiv.org/abs/2406.08384) (diffusion; nistal24arxiv): https://sonycslparis.github.io/diffariff-companion/
 * [DITTO-2](https://arxiv.org/abs/2405.20289) (diffusion; novack24arxiv): https://ditto-music.github.io/ditto2/
 * [SoundCTM](https://arxiv.org/abs/2405.18503) (diffusion; saito24arxiv): N/A
 * [Instruct-MusicGen](https://arxiv.org/abs/2405.18386) (transformer; zhang24arxiv): https://foul-ice-5ea.notion.site/Instruct-MusicGen-Demo-Page-Under-construction-a1e7d8d474f74df18bda9539d96687ab
