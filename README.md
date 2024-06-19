@@ -1,6 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
+* [JASCO](https://arxiv.org/pdf/2406.10970) (flow; tal24arxiv): https://pages.cs.huji.ac.il/adiyoss-lab/JASCO/
 * [MusicFlow](https://openreview.net/pdf?id=kOczKjmYum) (diffusion; prajwal24icml): N/A
 * [Diff-A-Riff](https://arxiv.org/abs/2406.08384) (diffusion; nistal24arxiv): https://sonycslparis.github.io/diffariff-companion/
 * [DITTO-2](https://arxiv.org/abs/2405.20289) (diffusion; novack24arxiv): https://ditto-music.github.io/ditto2/
