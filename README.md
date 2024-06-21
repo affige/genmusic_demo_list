@@ -1,6 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
+* [UniAudio 1.5](https://arxiv.org/pdf/2406.10056) (transformer; yang24arxiv): https://github.com/yangdongchao/LLM-Codec
 * [JASCO](https://arxiv.org/pdf/2406.10970) (flow; tal24arxiv): https://pages.cs.huji.ac.il/adiyoss-lab/JASCO/
 * [MusicFlow](https://openreview.net/pdf?id=kOczKjmYum) (diffusion; prajwal24icml): N/A
 * [Diff-A-Riff](https://arxiv.org/abs/2406.08384) (diffusion; nistal24arxiv): https://sonycslparis.github.io/diffariff-companion/
