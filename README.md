@@ -1,8 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
-* [AudioLCM](https://arxiv.org/abs/2406.00356) (diffusion; liu24arxiv): https://audiolcm.github.io/
-* [UniAudio 1.5](https://arxiv.org/pdf/2406.10056) (transformer; yang24arxiv): https://github.com/yangdongchao/LLM-Codec
+* [MelodyLM](https://www.arxiv.org/abs/2407.02049) (transformer+diffusion; li24arxiv): https://melodylm666.github.io/
 * [JASCO](https://arxiv.org/pdf/2406.10970) (flow; tal24arxiv): https://pages.cs.huji.ac.il/adiyoss-lab/JASCO/
 * [MusicFlow](https://openreview.net/pdf?id=kOczKjmYum) (diffusion; prajwal24icml): N/A
 * [Diff-A-Riff](https://arxiv.org/abs/2406.08384) (diffusion; nistal24arxiv): https://sonycslparis.github.io/diffariff-companion/
@@ -35,6 +34,8 @@
 
 
 ### text-to-audio
+* [AudioLCM](https://arxiv.org/abs/2406.00356) (diffusion; liu24arxiv): https://audiolcm.github.io/
+* [UniAudio 1.5](https://arxiv.org/pdf/2406.10056) (transformer; yang24arxiv): https://github.com/yangdongchao/LLM-Codec
 * [Baton](https://arxiv.org/abs/2402.00744) (diffusion; liao24arxiv): https://baton2024.github.io/
 * [VoiceLDM](https://arxiv.org/abs/2309.13664) (diffusion; lee23arxiv): https://voiceldm.github.io/
 * [AudioLDM 2](https://arxiv.org/abs/2308.05734) (diffusion; liu23arxiv): https://audioldm.github.io/audioldm2/
