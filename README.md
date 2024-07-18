@@ -1,6 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
+* [MusicGenStyle](https://arxiv.org/pdf/2407.12563) (transformer; rouard24ismir): https://musicgenstyle.github.io/
 * [MelodyFlow](https://arxiv.org/abs/2407.03648) (transformer+diffusion; lelan24arxiv): https://melodyflow.github.io/
 * [MelodyLM](https://www.arxiv.org/abs/2407.02049) (transformer+diffusion; li24arxiv): https://melodylm666.github.io/
 * [JASCO](https://arxiv.org/pdf/2406.10970) (flow; tal24arxiv): https://pages.cs.huji.ac.il/adiyoss-lab/JASCO/
@@ -13,10 +14,10 @@
 * [Melodist](https://arxiv.org/abs/2404.09313) (transformer; hong24arxiv): https://text2songmelodist.github.io/Sample/
 * [SMITIN](https://arxiv.org/abs/2404.02252) (transformer; koo24arxiv): https://wide-wood-512.notion.site/SMITIN-Self-Monitored-Inference-Time-INtervention-for-Generative-Music-Transformers-Demo-Page-983723e6e9ac4f008298f3c427a23241
 * [Stable audio](https://arxiv.org/abs/2402.04825) (diffusion; evans24arxiv): https://stability-ai.github.io/stable-audio-demo/
-* [MusicMagus](https://arxiv.org/abs/2402.06178) (diffusion; zhang24arxiv): https://wry-neighbor-173.notion.site/MusicMagus-Zero-Shot-Text-to-Music-Editing-via-Diffusion-Models-8f55a82f34944eb9a4028ca56c546d9d
+* [MusicMagus](https://arxiv.org/abs/2402.06178) (diffusion; zhang24ijcai): https://wry-neighbor-173.notion.site/MusicMagus-Zero-Shot-Text-to-Music-Editing-via-Diffusion-Models-8f55a82f34944eb9a4028ca56c546d9d
 * [DITTO](https://arxiv.org/abs/2401.12179) (diffusion; novack24arxiv): https://ditto-music.github.io/web/
 * [MAGNeT](https://arxiv.org/abs/2401.04577) (transformer; ziv24arxiv): https://pages.cs.huji.ac.il/adiyoss-lab/MAGNeT/
-* [Mustango](https://arxiv.org/abs/2311.08355) (diffusion; melechovsky23arxiv): https://github.com/AMAAI-Lab/mustango
+* [Mustango](https://arxiv.org/abs/2311.08355) (diffusion; melechovsky24naacl): https://github.com/AMAAI-Lab/mustango
 * [Music ControlNet](https://arxiv.org/abs/2311.07069) (diffusion; wu23arxiv): https://musiccontrolnet.github.io/web/
 * [InstrumentGen](https://arxiv.org/abs/2311.04339) (transformer; nercessian23ml4audio): https://instrumentgen.netlify.app/
 * [Coco-Mulla](https://arxiv.org/pdf/2310.17162.pdf) (transformer; lin23arxiv): https://kikyo-16.github.io/coco-mulla/
