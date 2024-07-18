@@ -256,6 +256,7 @@
 
 
 ### compose single-track polyphonic music
+* [MuseBarControl](https://arxiv.org/pdf/2407.04331) (transformer; shu24arxiv): https://ganperf.github.io/musebarcontrol.github.io/musebarcontrol/
 * [WholeSong](https://openreview.net/forum?id=sn7CYWyavh&noteId=3X6BSBDIPB) (diffusion; 24iclr): https://wholesonggen.github.io/
 * [MGM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10269036) (transformer; 24tmm): https://github.com/hu-music/MGM
 * [Polyffusion](https://arxiv.org/abs/2307.10304) (diffusion; min23ismir): https://polyffusion.github.io/
