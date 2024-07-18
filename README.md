@@ -38,6 +38,7 @@
 ### text-to-audio
 * [AudioLCM](https://arxiv.org/abs/2406.00356) (diffusion; liu24arxiv): https://audiolcm.github.io/
 * [UniAudio 1.5](https://arxiv.org/pdf/2406.10056) (transformer; yang24arxiv): https://github.com/yangdongchao/LLM-Codec
+* [Tango 2](https://arxiv.org/pdf/2404.09956) (diffusion; majumder24mm): https://tango2-web.github.io/
 * [Baton](https://arxiv.org/abs/2402.00744) (diffusion; liao24arxiv): https://baton2024.github.io/
 * [VoiceLDM](https://arxiv.org/abs/2309.13664) (diffusion; lee23arxiv): https://voiceldm.github.io/
 * [AudioLDM 2](https://arxiv.org/abs/2308.05734) (diffusion; liu23arxiv): https://audioldm.github.io/audioldm2/
