@@ -36,6 +36,7 @@
 
 
 ### text-to-audio
+* [PicoAudio](https://arxiv.org/pdf/2407.02869) (diffusion; xie24arxiv): https://zeyuxie29.github.io/PicoAudio.github.io/
 * [AudioLCM](https://arxiv.org/abs/2406.00356) (diffusion; liu24arxiv): https://audiolcm.github.io/
 * [UniAudio 1.5](https://arxiv.org/pdf/2406.10056) (transformer; yang24arxiv): https://github.com/yangdongchao/LLM-Codec
 * [Tango 2](https://arxiv.org/pdf/2404.09956) (diffusion; majumder24mm): https://tango2-web.github.io/
