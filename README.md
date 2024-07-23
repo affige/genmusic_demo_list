@@ -1,6 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
+* [MEDIC](https://arxiv.org/abs/2407.13220) (diffusion; liu24arxiv): https://medic-zero.github.io/
 * [MusicGenStyle](https://arxiv.org/pdf/2407.12563) (transformer; rouard24ismir): https://musicgenstyle.github.io/
 * [MelodyFlow](https://arxiv.org/abs/2407.03648) (transformer+diffusion; lelan24arxiv): https://melodyflow.github.io/
 * [MelodyLM](https://www.arxiv.org/abs/2407.02049) (transformer+diffusion; li24arxiv): https://melodylm666.github.io/
