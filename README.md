@@ -198,6 +198,7 @@
 
 
 ### audio/timbre synthesis
+* [gen-inst]() (transformer; nercessian24ismir): https://gen-inst.netlify.app/
 * [RAVE-Latent Diffusion]() (diffusion;): https://github.com/moiseshorta/RAVE-Latent-Diffusion
 * [GANStrument](https://arxiv.org/abs/2211.05385) (narita22arxiv): https://ganstrument.github.io/ganstrument-demo/
 * [RAVE](https://arxiv.org/abs/2111.05011) (VAE;caillon21arxiv): https://anonymous84654.github.io/RAVE_anonymous/; https://github.com/acids-ircam/RAVE
