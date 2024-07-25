@@ -1,6 +1,8 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
+* [AP-adapter](https://arxiv.org/abs/2407.16564) (diffusion; tsai24arxiv): https://rebrand.ly/AP-adapter
+* [MusiConGen](https://arxiv.org/abs/2407.15060) (transformer; lan24arxiv): https://musicongen.github.io/musicongen_demo/
 * [Stable audio Open](https://arxiv.org/abs/2407.14358) (diffusion; evans24arxiv): https://stability-ai.github.io/stable-audio-open-demo/
 * [MEDIC](https://arxiv.org/abs/2407.13220) (diffusion; liu24arxiv): https://medic-zero.github.io/
 * [MusicGenStyle](https://arxiv.org/pdf/2407.12563) (transformer; rouard24ismir): https://musicgenstyle.github.io/
