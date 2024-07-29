@@ -323,7 +323,7 @@
 * [JazzGAN](http://musicalmetacreation.org/mume2018/proceedings/Trieu.pdf) (GAN; trieu18mume): https://www.cs.hmc.edu/~keller/jazz/improvisor/
 * [XiaoIce Band](http://staff.ustc.edu.cn/~qiliuql/files/Publications/Hongyuan-Zhu-KDD2018.pdf) (GRU; zhu18kdd): http://tv.cctv.com/2017/11/24/VIDEo7JWp0u0oWRmPbM4uCBt171124.shtml
 
-### given melody, compose chord (harmonization)
+### given melody, compose chord (melody harmonization)
 * [ReaLchords](https://icml.cc/virtual/2024/poster/33172) (RL; wu24icml): https://storage.googleapis.com/realchords/index.html
 * [EMO-Harmonizer]() (transformer): https://yuer867.github.io/emo_harmonizer/
 * [LHVAE](https://arxiv.org/pdf/2306.03718.pdf) (VAE+LSTM; ji23arxiv): n/a
