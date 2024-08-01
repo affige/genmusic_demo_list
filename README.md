@@ -262,6 +262,7 @@
 
 
 ### compose single-track polyphonic music
+* [EMO-Disentanger](https://arxiv.org/abs/2407.20955) (transformer; huang24ismir): https://emo-disentanger.github.io/
 * [MuseBarControl](https://arxiv.org/pdf/2407.04331) (transformer; shu24arxiv): https://ganperf.github.io/musebarcontrol.github.io/musebarcontrol/
 * [WholeSong](https://openreview.net/forum?id=sn7CYWyavh&noteId=3X6BSBDIPB) (diffusion; 24iclr): https://wholesonggen.github.io/
 * [MGM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10269036) (transformer; 24tmm): https://github.com/hu-music/MGM
