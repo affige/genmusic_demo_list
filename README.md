@@ -342,7 +342,7 @@
 
 ### given lyrics, compose melody
 * [SongComposer](https://arxiv.org/abs/2402.17645) (LLM; ding24arxiv): https://pjlab-songcomposer.github.io/
-* [ROC](https://arxiv.org/pdf/2208.05697.pdf) 
+* [ROC](https://arxiv.org/pdf/2208.05697.pdf) (transformer; lv22arxiv): https://ai-muzic.github.io/roc/
 * [Conditional LSTM-GAN](https://arxiv.org/pdf/1908.05551.pdf) (LSTM+GAN; yu19arxiv): https://github.com/yy1lab/Lyrics-Conditioned-Neural-Melody-Generation
 * [iComposer](https://www.aclweb.org/anthology/N19-4015) (LSTM; lee19acl): https://www.youtube.com/watch?v=Gstzqls2f4A
 * [SongWriter](https://arxiv.org/pdf/1809.04318.pdf) (GRU; bao18arxiv): N/A
