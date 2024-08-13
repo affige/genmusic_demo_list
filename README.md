@@ -47,6 +47,7 @@
 * [Tango 2](https://arxiv.org/pdf/2404.09956) (diffusion; majumder24mm): https://tango2-web.github.io/
 * [Baton](https://arxiv.org/abs/2402.00744) (diffusion; liao24arxiv): https://baton2024.github.io/
 * [T-FOLEY](https://arxiv.org/abs/2401.09294) (diffusion; chung24icassp): https://yoonjinxd.github.io/Event-guided_FSS_Demo.github.io/
+* [Audiobox](https://arxiv.org/abs/2312.15821) (diffusion; vyas23arxiv): https://audiobox.metademolab.com/
 * [VoiceLDM](https://arxiv.org/abs/2309.13664) (diffusion; lee23arxiv): https://voiceldm.github.io/
 * [AudioLDM 2](https://arxiv.org/abs/2308.05734) (diffusion; liu23arxiv): https://audioldm.github.io/audioldm2/
 * [WavJourney](https://arxiv.org/abs/2307.14335) (; liu23arxiv): https://audio-agi.github.io/WavJourney_demopage/
@@ -58,7 +59,8 @@
 * [multi-source-diffusion-models](https://arxiv.org/abs/2302.02257) (diffusion; 23arxiv): https://gladia-research-group.github.io/multi-source-diffusion-models/
 * [Make-An-Audio](https://text-to-audio.github.io/paper.pdf) (diffusion; huang23arxiv): https://text-to-audio.github.io/ (for general sounds)
 * [AudioLDM](https://arxiv.org/pdf/2301.12503.pdf) (diffusion; liu23arxiv): https://audioldm.github.io/ (for general sounds)
-* [AudioLM](https://arxiv.org/abs/2209.03143) (Transformer; borsos22arxiv): https://google-research.github.io/seanet/audiolm/examples/ (for general sounds)
+* [AudioGen](https://arxiv.org/abs/2209.15352) (Transformer; kreuk23iclr): https://felixkreuk.github.io/audiogen/ (for general sounds)
+* [AudioLM](https://arxiv.org/abs/2209.03143) (Transformer; borsos23taslp): https://google-research.github.io/seanet/audiolm/examples/ (for general sounds)
 
 
 ### audio-domain music generation 
