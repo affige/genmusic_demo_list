@@ -52,7 +52,8 @@
 * [WavJourney](https://arxiv.org/abs/2307.14335) (; liu23arxiv): https://audio-agi.github.io/WavJourney_demopage/
 * [CLIPSynth](https://sightsound.org/papers/2023/Dong_CLIPSynth_Learning_Text-to-audio_Synthesis_from_Videos.pdf) (diffusion; dong23cvprw): https://salu133445.github.io/clipsynth/
 * [CLIPSonic](https://arxiv.org/abs/2306.09635) (diffusion; dong23waspaa): https://salu133445.github.io/clipsonic/
-* [SoundStorm](https://arxiv.org/abs/2305.09636) (Transformer; borsos23arxiv): https://google-research.github.io/seanet/soundstorm/examples/ 
+* [SoundStorm](https://arxiv.org/abs/2305.09636) (Transformer; borsos23arxiv): https://google-research.github.io/seanet/soundstorm/examples/
+* [AUDIT](https://arxiv.org/abs/2304.00830) (diffusion; wang23arxiv): https://audit-demo.github.io/
 * [VALL-E](https://arxiv.org/abs/2301.02111) (Transformer; wang23arxiv): https://www.microsoft.com/en-us/research/project/vall-e/ (for speech)
 * [multi-source-diffusion-models](https://arxiv.org/abs/2302.02257) (diffusion; 23arxiv): https://gladia-research-group.github.io/multi-source-diffusion-models/
 * [Make-An-Audio](https://text-to-audio.github.io/paper.pdf) (diffusion; huang23arxiv): https://text-to-audio.github.io/ (for general sounds)
