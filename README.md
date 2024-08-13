@@ -48,6 +48,7 @@
 * [Baton](https://arxiv.org/abs/2402.00744) (diffusion; liao24arxiv): https://baton2024.github.io/
 * [T-FOLEY](https://arxiv.org/abs/2401.09294) (diffusion; chung24icassp): https://yoonjinxd.github.io/Event-guided_FSS_Demo.github.io/
 * [Audiobox](https://arxiv.org/abs/2312.15821) (diffusion; vyas23arxiv): https://audiobox.metademolab.com/
+* [Amphion](https://arxiv.org/abs/2312.09911) (zhang23arxiv): https://github.com/open-mmlab/Amphion
 * [VoiceLDM](https://arxiv.org/abs/2309.13664) (diffusion; lee23arxiv): https://voiceldm.github.io/
 * [AudioLDM 2](https://arxiv.org/abs/2308.05734) (diffusion; liu23arxiv): https://audioldm.github.io/audioldm2/
 * [WavJourney](https://arxiv.org/abs/2307.14335) (; liu23arxiv): https://audio-agi.github.io/WavJourney_demopage/
