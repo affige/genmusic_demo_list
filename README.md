@@ -84,6 +84,7 @@
 
 
 ### audio-domain singing synthesis
+* [Freestyler](https://www.arxiv.org/abs/2408.15474) (transformer; ning24arxiv): https://nzqian.github.io/Freestyler/
 * [Prompt-Singer](https://arxiv.org/pdf/2403.11780.pdf) (transformer; wang24naacl): https://prompt-singer.github.io/
 * [StyleSinger](https://arxiv.org/abs/2312.10741) (diffusion; zhang24aaai): https://stylesinger.github.io/
 * [BiSinger](https://arxiv.org/abs/2309.14089) (transformer; zhou23asru): https://bisinger-svs.github.io/
