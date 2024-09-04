@@ -1,6 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
+* [FluxMusic](https://arxiv.org/pdf/2409.00587) (diffusion; fei24arxiv): https://github.com/feizc/FluxMusic
 * [control-transfer-diffusion](https://arxiv.org/pdf/2408.00196) (diffusion; demerlé24ismir): https://nilsdem.github.io/control-transfer-diffusion/
 * [AP-adapter](https://arxiv.org/abs/2407.16564) (diffusion; tsai24arxiv): https://rebrand.ly/AP-adapter
 * [MusiConGen](https://arxiv.org/abs/2407.15060) (transformer; lan24arxiv): https://musicongen.github.io/musicongen_demo/
