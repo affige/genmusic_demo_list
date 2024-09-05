@@ -306,6 +306,7 @@
 * [CollageNet](https://archives.ismir.net/ismir2021/paper/000098.pdf) (VAE; wuerkaixi21ismir): https://github.com/urkax/CollageNet
 
 ### compose multi-track music
+* [MMT-BERT](https://arxiv.org/abs/2409.00919) (transformer; zhu24ismir): n/a
 * [Nested Music Transformer](https://arxiv.org/abs/2408.01180) (transformer; ryu24ismir): https://github.com/JudeJiwoo/nmt
 * [MMT-GI](https://arxiv.org/abs/2311.12257) (transformer; xu23arxiv): https://goatlazy.github.io/MUSICAI/
 * [MorpheuS](https://arxiv.org/abs/1812.04832): https://dorienherremans.com/morpheus
