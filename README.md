@@ -86,6 +86,7 @@
 
 
 ### audio-domain singing synthesis
+* [InstructSing](https://arxiv.org/abs/2409.06330) (ddsp; zeng24slt): https://wavelandspeech.github.io/instructsing/
 * [Freestyler](https://www.arxiv.org/abs/2408.15474) (transformer; ning24arxiv): https://nzqian.github.io/Freestyler/
 * [Prompt-Singer](https://arxiv.org/pdf/2403.11780.pdf) (transformer; wang24naacl): https://prompt-singer.github.io/
 * [StyleSinger](https://arxiv.org/abs/2312.10741) (diffusion; zhang24aaai): https://stylesinger.github.io/
