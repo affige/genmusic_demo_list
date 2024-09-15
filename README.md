@@ -1,6 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
+* [SongCreator](https://arxiv.org/pdf/2409.06029) (diffusion; lei24arxiv): https://songcreator.github.io/
 * [MSLDM](https://arxiv.org/abs/2409.06190) (diffusion; xu24arxiv): https://xzwy.github.io/MSLDMDemo/
 * [Multi-Track MusicLDM](https://arxiv.org/abs/2409.02845) (diffusion; karchkhadze24arxiv): https://mt-musicldm.github.io/
 * [FluxMusic](https://arxiv.org/pdf/2409.00587) (diffusion; fei24arxiv): https://github.com/feizc/FluxMusic
