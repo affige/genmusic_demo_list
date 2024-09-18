@@ -45,6 +45,7 @@
 
 
 ### text-to-audio
+* [MambaFoley](https://arxiv.org/pdf/2409.09162) (mamba; xie24arxiv): n/a
 * [PicoAudio](https://arxiv.org/pdf/2407.02869) (diffusion; xie24arxiv): https://zeyuxie29.github.io/PicoAudio.github.io/
 * [AudioLCM](https://arxiv.org/abs/2406.00356) (diffusion; liu24arxiv): https://audiolcm.github.io/
 * [UniAudio 1.5](https://arxiv.org/pdf/2406.10056) (transformer; yang24arxiv): https://github.com/yangdongchao/LLM-Codec
