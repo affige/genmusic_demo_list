@@ -1,6 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
+* [MMGen](https://arxiv.org/abs/2409.20196) (diffusion; wei24arxiv): https://awesome-mmgen.github.io/
 * [Seed-Music](https://arxiv.org/pdf/2409.09214) (diffusion+transformer; bai24arxiv): https://team.doubao.com/en/special/seed-music
 * [SongCreator](https://arxiv.org/pdf/2409.06029) (diffusion; lei24arxiv): https://songcreator.github.io/
 * [MSLDM](https://arxiv.org/abs/2409.06190) (diffusion; xu24arxiv): https://xzwy.github.io/MSLDMDemo/
