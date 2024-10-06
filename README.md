@@ -314,6 +314,7 @@
 * [CollageNet](https://archives.ismir.net/ismir2021/paper/000098.pdf) (VAE; wuerkaixi21ismir): https://github.com/urkax/CollageNet
 
 ### compose multi-track music
+* [Cadenza](https://arxiv.org/abs/2410.02060) (transformer; lenz24ismir): https://lemo123.notion.site/Cadenza-A-Generative-Framework-for-Expressive-Ideas-Variations-7028ad6ac0ed41ac814b44928261cb68
 * [SymPAC](https://arxiv.org/abs/2409.03055) (transformer; chen24ismir): n/a
 * [MMT-BERT](https://arxiv.org/abs/2409.00919) (transformer; zhu24ismir): n/a
 * [Nested Music Transformer](https://arxiv.org/abs/2408.01180) (transformer; ryu24ismir): https://github.com/JudeJiwoo/nmt
