@@ -363,7 +363,7 @@
 * [MuDiT/MuSiT](https://arxiv.org/pdf/2407.03188) (LLM; wang24arxiv): N/A
 * [SongComposer](https://arxiv.org/abs/2402.17645) (LLM; ding24arxiv): https://pjlab-songcomposer.github.io/
 * [ROC](https://arxiv.org/pdf/2208.05697.pdf) (transformer; lv22arxiv): https://ai-muzic.github.io/roc/
-* [pop-melody](https://arxiv.org/pdf/2109.09617) (transformer; zhang22ismir): N/A
+* [pop-melody](https://archives.ismir.net/ismir2022/paper/000016.pdf) (transformer; zhang22ismir): N/A
 * [ReLyMe](https://arxiv.org/abs/2207.05688) (transformer; chen22mm): https://ai-muzic.github.io/relyme/
 * [TeleMelody](https://arxiv.org/pdf/2109.09617) (transformer; ju21arxiv): https://github.com/microsoft/muzic
 * [Conditional LSTM-GAN](https://arxiv.org/pdf/1908.05551.pdf) (LSTM+GAN; yu19arxiv): https://github.com/yy1lab/Lyrics-Conditioned-Neural-Melody-Generation
