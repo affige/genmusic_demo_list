@@ -239,11 +239,13 @@
 
 
 ### image-to-music/audio
+* [Art2Mus](https://arxiv.org/abs/2410.04906) (diffusion; rinaldi24ai4va): https://drive.google.com/drive/u/1/folders/1dHBxLWnyBqhVMJgUkTk0hKnFbGDVhw__
 * [MeLFusion](https://openaccess.thecvf.com/content/CVPR2024/papers/Chowdhury_MeLFusion_Synthesizing_Music_from_Image_and_Language_Cues_using_Diffusion_CVPR_2024_paper.pdf) (diffusion; chowdhury24cvpr): https://schowdhury671.github.io/melfusion_cvpr2024/
 * [Vis2Mus](https://arxiv.org/abs/2211.05543) (encoder/decoder; zhang22arxiv): https://github.com/ldzhangyx/vis2mus
 * [ConchShell](https://arxiv.org/abs/2210.05076) (encoder/decoder; fan22arxiv): n/a
 
 ### video-to-music/audio
+* [SONIQUE](https://arxiv.org/pdf/2410.03879) (diffusion; zhang24arxiv): https://github.com/zxxwxyyy/sonique
 * [Herrmann-1](https://ieeexplore.ieee.org/document/10447950) (LLM+transformer; haseeb24icassp): https://audiomatic-research.github.io/herrmann-1/
 * [Diff-BGM](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Diff-BGM_A_Diffusion_Model_for_Video_Background_Music_Generation_CVPR_2024_paper.pdf) (diffusion; li24cvpr): https://github.com/sizhelee/Diff-BGM
 * [Frieren](https://arxiv.org/abs/2406.00320) (diffusion; wang24arxiv): https://frieren-v2a.github.io/
