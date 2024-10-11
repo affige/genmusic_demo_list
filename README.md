@@ -1,6 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### text-to-music/audio
+* [Multi-Aspect Conditioning](https://benadar293.github.io/multi-aspect-conditioning/static/pdfs/Multi_Aspect_Conditioning.pdf) (diffusion; maman24): https://benadar293.github.io/multi-aspect-conditioning/
 * [Presto](https://arxiv.org/abs/2410.05167) (diffusion; novack24arxiv): https://presto-music.github.io/web/
 * [MMGen](https://arxiv.org/abs/2409.20196) (diffusion; wei24arxiv): https://awesome-mmgen.github.io/
 * [Seed-Music](https://arxiv.org/pdf/2409.09214) (diffusion+transformer; bai24arxiv): https://team.doubao.com/en/special/seed-music
