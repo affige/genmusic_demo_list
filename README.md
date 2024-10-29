@@ -153,6 +153,8 @@
 ### audio-domain style transfer (general)
 * [MusicTI](https://arxiv.org/abs/2402.13763) (diffusion; li24aaai): https://lsfhuihuiff.github.io/MusicTI/
 * [DiffTransfer](https://ismir2023program.ismir.net/poster_197.html) (diffusion; comanducci23ismir): https://lucacoma.github.io/DiffTransfer/
+* [RAVE-Latent Diffusion]() (diffusion;): https://github.com/moiseshorta/RAVE-Latent-Diffusion
+* [RAVE](https://arxiv.org/abs/2111.05011) (VAE;caillon21arxiv): https://anonymous84654.github.io/RAVE_anonymous/; https://github.com/acids-ircam/RAVE
 * [VAE-GAN](https://arxiv.org/abs/2109.02096) (VAE-GAN; bonnici22ijcnn): https://github.com/RussellSB/tt-vae-gan
 * [VQ-VAE](https://arxiv.org/pdf/2102.05749.pdf) (VQ-VAE; cifka21icassp): https://adasp.telecom-paris.fr/rc/demos_companion-pages/cifka-ss-vq-vae/
 * [MelGAN-VC](https://arxiv.org/pdf/1910.03713.pdf) (GAN; pasini19arxiv): https://www.youtube.com/watch?v=3BN577LK62Y&feature=youtu.be
@@ -218,9 +220,7 @@
 
 ### audio/timbre synthesis
 * [gen-inst]() (transformer; nercessian24ismir): https://gen-inst.netlify.app/
-* [RAVE-Latent Diffusion]() (diffusion;): https://github.com/moiseshorta/RAVE-Latent-Diffusion
 * [GANStrument](https://arxiv.org/abs/2211.05385) (narita22arxiv): https://ganstrument.github.io/ganstrument-demo/
-* [RAVE](https://arxiv.org/abs/2111.05011) (VAE;caillon21arxiv): https://anonymous84654.github.io/RAVE_anonymous/; https://github.com/acids-ircam/RAVE
 * [NEWT](https://archives.ismir.net/ismir2021/paper/000031.pdf) (DDSP; hayes21ismir): https://benhayes.net/projects/nws/
 * [CRASH](https://archives.ismir.net/ismir2021/paper/000072.pdf) (diffusion; rouard21ismir): https://crash-diffusion.github.io/crash/
 * [DarkGAN](https://archives.ismir.net/ismir2021/paper/000060.pdf) (GAN; nistal21ismir): https://an-1673.github.io/DarkGAN.io/
