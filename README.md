@@ -310,7 +310,7 @@
 * [Music Transformer](https://arxiv.org/abs/1809.04281) (Transformer; huang19iclr): https://magenta.tensorflow.org/music-transformer
 
 ### Rearrangement (e.g., pop2piano)
-* [PiCoGen2](https://arxiv.org/abs/2211.00895) (transformer; tan24ismir): https://tanchihpin0517.github.io/PiCoGen/
+* [PiCoGen2](https://arxiv.org/abs/2408.01551) (transformer; tan24ismir): https://tanchihpin0517.github.io/PiCoGen/
 * [PiCoGen](https://arxiv.org/abs/2407.20883) (transformer; tan24icmr): https://tanchihpin0517.github.io/PiCoGen/
 * [Pop2Piano](https://arxiv.org/abs/2211.00895) (transformer; choi23icassp): https://sweetcocoa.github.io/pop2piano_samples/
 * [audio2midi](https://arxiv.org/abs/2112.15110) (GRU; wang21arxiv): https://github.com/ZZWaang/audio2midi
