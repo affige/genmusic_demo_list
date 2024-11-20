@@ -17,14 +17,14 @@
 * [MusicGenStyle](https://arxiv.org/pdf/2407.12563) (transformer; rouard24ismir): https://musicgenstyle.github.io/
 * [MelodyFlow](https://arxiv.org/abs/2407.03648) (transformer+diffusion; lelan24arxiv): https://melodyflow.github.io/
 * [MelodyLM](https://www.arxiv.org/abs/2407.02049) (transformer+diffusion; li24arxiv): https://melodylm666.github.io/
-* [JASCO](https://arxiv.org/pdf/2406.10970) (flow; tal24arxiv): https://pages.cs.huji.ac.il/adiyoss-lab/JASCO/
+* [JASCO](https://arxiv.org/pdf/2406.10970) (flow; tal24ismir): https://pages.cs.huji.ac.il/adiyoss-lab/JASCO/
 * [MusicFlow](https://openreview.net/pdf?id=kOczKjmYum) (diffusion; prajwal24icml): N/A
-* [Diff-A-Riff](https://arxiv.org/abs/2406.08384) (diffusion; nistal24arxiv): https://sonycslparis.github.io/diffariff-companion/
-* [DITTO-2](https://arxiv.org/abs/2405.20289) (diffusion; novack24arxiv): https://ditto-music.github.io/ditto2/
+* [Diff-A-Riff](https://arxiv.org/abs/2406.08384) (diffusion; nistal24ismir): https://sonycslparis.github.io/diffariff-companion/
+* [DITTO-2](https://arxiv.org/abs/2405.20289) (diffusion; novack24ismir): https://ditto-music.github.io/ditto2/
 * [SoundCTM](https://arxiv.org/abs/2405.18503) (diffusion; saito24arxiv): N/A
 * [Instruct-MusicGen](https://arxiv.org/abs/2405.18386) (transformer; zhang24arxiv): https://foul-ice-5ea.notion.site/Instruct-MusicGen-Demo-Page-Under-construction-a1e7d8d474f74df18bda9539d96687ab
 * [QA-MDT](https://arxiv.org/pdf/2405.15863) (diffusion; li24arxiv): https://qa-mdt.github.io/
-* [Stable audio 2](https://arxiv.org/abs/2404.10301) (diffusion; evans24arxiv): https://stability-ai.github.io/stable-audio-2-demo/
+* [Stable audio 2](https://arxiv.org/abs/2404.10301) (diffusion; evans24ismir): https://stability-ai.github.io/stable-audio-2-demo/
 * [Melodist](https://arxiv.org/abs/2404.09313) (transformer; hong24arxiv): https://text2songmelodist.github.io/Sample/
 * [SMITIN](https://arxiv.org/abs/2404.02252) (transformer; koo24arxiv): https://wide-wood-512.notion.site/SMITIN-Self-Monitored-Inference-Time-INtervention-for-Generative-Music-Transformers-Demo-Page-983723e6e9ac4f008298f3c427a23241
 * [Stable audio](https://arxiv.org/abs/2402.04825) (diffusion; evans24arxiv): https://stability-ai.github.io/stable-audio-demo/
@@ -153,6 +153,7 @@
 
 
 ### audio-domain style transfer (general)
+* [WaveTransfer](https://arxiv.org/abs/2409.15321) (diffusion; baoueb24mlsp): https://wavetransfer.github.io/
 * [MusicTI](https://arxiv.org/abs/2402.13763) (diffusion; li24aaai): https://lsfhuihuiff.github.io/MusicTI/
 * [DiffTransfer](https://ismir2023program.ismir.net/poster_197.html) (diffusion; comanducci23ismir): https://lucacoma.github.io/DiffTransfer/
 * [RAVE-Latent Diffusion]() (diffusion;): https://github.com/moiseshorta/RAVE-Latent-Diffusion
