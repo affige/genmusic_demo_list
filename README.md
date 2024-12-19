@@ -367,6 +367,7 @@
 
 
 ### given lyrics, compose melody
+* [CSL-L2M](https://arxiv.org/pdf/2412.09887) (LLM; wang25aaai): https://lichaiustc.github.io/CSL-L2M/
 * [MuDiT/MuSiT](https://arxiv.org/pdf/2407.03188) (LLM; wang24arxiv): N/A
 * [SongComposer](https://arxiv.org/abs/2402.17645) (LLM; ding24arxiv): https://pjlab-songcomposer.github.io/
 * [ROC](https://arxiv.org/pdf/2208.05697.pdf) (transformer; lv22arxiv): https://ai-muzic.github.io/roc/
