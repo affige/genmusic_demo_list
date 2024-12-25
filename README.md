@@ -41,7 +41,6 @@
 * [InstructME](https://arxiv.org/abs/2308.14360) (diffusion; han23arxiv): https://musicedit.github.io/
 * [JEN-1](https://arxiv.org/abs/2308.04729) (diffusion; li23arxiv): https://www.futureverse.com/research/jen/demos/jen1
 * [MusicGen](https://arxiv.org/abs/2306.05284) (Transformer; copet23arxiv): https://ai.honu.io/papers/musicgen/
-* [MuseCoco](https://arxiv.org/abs/2306.00110) (Transformer; lu23arxiv): https://ai-muzic.github.io/musecoco/ (for symbolic music)
 * [MeLoDy](https://arxiv.org/abs/2305.15719) (Transformer+diffusion; lam23arxiv): https://efficient-melody.github.io/
 * [MusicLM](https://arxiv.org/abs/2301.11325) (Transformer; agostinelli23arxiv): https://google-research.github.io/seanet/musiclm/examples/
 * [Noise2Music](https://arxiv.org/abs/2302.03917) (diffusion; huang23arxiv): https://noise2music.github.io/
@@ -72,6 +71,11 @@
 * [AudioLDM](https://arxiv.org/pdf/2301.12503.pdf) (diffusion; liu23arxiv): https://audioldm.github.io/ (for general sounds)
 * [AudioGen](https://arxiv.org/abs/2209.15352) (Transformer; kreuk23iclr): https://felixkreuk.github.io/audiogen/ (for general sounds)
 * [AudioLM](https://arxiv.org/abs/2209.03143) (Transformer; borsos23taslp): https://google-research.github.io/seanet/audiolm/examples/ (for general sounds)
+
+
+### text-to-midi
+* [text2midi](https://arxiv.org/pdf/2412.16526) (Transformer; bhandari25aaai): https://huggingface.co/spaces/amaai-lab/text2midi
+* [MuseCoco](https://arxiv.org/abs/2306.00110) (Transformer; lu23arxiv): https://ai-muzic.github.io/musecoco/ 
 
 
 ### audio-domain music generation 
