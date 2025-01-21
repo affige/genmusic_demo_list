@@ -133,6 +133,7 @@
 
 
 ### audio-domain singing style transfer / singing voice conversion
+* [seed-vc](https://arxiv.org/abs/2411.09943) (diffusion; SongtingLiu24arxiv): https://huggingface.co/spaces/Plachta/Seed-VC
 * [ROSVC](https://arxiv.org/abs/2210.11096) (; takahashi22arxiv): https://t-naoya.github.io/rosvc/
 * [DiffSVC](https://arxiv.org/abs/2105.13871) (diffusion; liu21asru): https://liusongxiang.github.io/diffsvc/
 * [FastSVC](https://arxiv.org/abs/2011.05731) (CNN; liu21icme): https://nobody996.github.io/FastSVC/
