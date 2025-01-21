@@ -2,6 +2,7 @@
 
 ### text-to-music/audio
 * [stable-audio-control](https://arxiv.org/pdf/2410.05151) (diffusion; hou25icassp): https://stable-audio-control.github.io/
+* [improved-diff-a-riff](https://arxiv.org/pdf/2410.23005) (diffusion; nistal24neuripsworkshop): https://sonycslparis.github.io/improved_dar/
 * [Multi-Aspect Conditioning](https://benadar293.github.io/multi-aspect-conditioning/static/pdfs/Multi_Aspect_Conditioning.pdf) (diffusion; maman24): https://benadar293.github.io/multi-aspect-conditioning/
 * [Presto](https://arxiv.org/abs/2410.05167) (diffusion; novack24arxiv): https://presto-music.github.io/web/
 * [MMGen](https://arxiv.org/abs/2409.20196) (diffusion; wei24arxiv): https://awesome-mmgen.github.io/
