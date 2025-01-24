@@ -257,6 +257,7 @@
 * [ConchShell](https://arxiv.org/abs/2210.05076) (encoder/decoder; fan22arxiv): n/a
 
 ### video-to-music/audio
+* [GVMGen](https://arxiv.org/pdf/2501.09972) (diffusion; zuo25aaai): https://chouliuzuo.github.io/GVMGen/
 * [SONIQUE](https://arxiv.org/pdf/2410.03879) (diffusion; zhang24arxiv): https://github.com/zxxwxyyy/sonique
 * [Herrmann-1](https://ieeexplore.ieee.org/document/10447950) (LLM+transformer; haseeb24icassp): https://audiomatic-research.github.io/herrmann-1/
 * [Diff-BGM](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Diff-BGM_A_Diffusion_Model_for_Video_Background_Music_Generation_CVPR_2024_paper.pdf) (diffusion; li24cvpr): https://github.com/sizhelee/Diff-BGM
