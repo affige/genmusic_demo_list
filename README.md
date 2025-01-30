@@ -277,6 +277,7 @@
 * [musicalspeech] (Transformer; d'Eon20nips-demo): https://jasondeon.github.io/musicalSpeech/
 
 ### compose melody
+* [Yin-Yang](https://arxiv.org/abs/2501.17759) (transformer; bhandari25evomusart): https://github.com/keshavbhandari/yinyang
 * [MelodyT5](https://arxiv.org/abs/2407.02277) (transformer; wu24ismir): https://github.com/sanderwood/melodyt5
 * [MelodyGLM](https://arxiv.org/pdf/2309.10738.pdf) (transformer; wu23arxiv): https://nextlab-zju.github.io/melodyglm/
 * [TunesFormer](https://arxiv.org/abs/2301.02884) (transformer; wu23arxiv): https://github.com/sander-wood/tunesformer
