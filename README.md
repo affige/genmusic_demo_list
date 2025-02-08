@@ -139,6 +139,7 @@
 
 
 ### audio-domain singing style transfer / singing voice conversion
+* [Everyone-Can-Sing](https://arxiv.org/abs/2501.13870) (diffusion; dai25arxiv): https://everyone-can-sing.github.io/
 * [ROSVC](https://arxiv.org/abs/2210.11096) (; takahashi22arxiv): https://t-naoya.github.io/rosvc/
 * [DiffSVC](https://arxiv.org/abs/2105.13871) (diffusion; liu21asru): https://liusongxiang.github.io/diffsvc/
 * [FastSVC](https://arxiv.org/abs/2011.05731) (CNN; liu21icme): https://nobody996.github.io/FastSVC/
@@ -335,6 +336,7 @@
 * [CollageNet](https://archives.ismir.net/ismir2021/paper/000098.pdf) (VAE; wuerkaixi21ismir): https://github.com/urkax/CollageNet
 
 ### compose multi-track music
+* [MIDI-GPT](https://arxiv.org/abs/2501.17011) (transformer; pasquier25aaai): https://www.metacreation.net/projects/midi-gpt
 * [Cadenza](https://arxiv.org/abs/2410.02060) (transformer; lenz24ismir): https://lemo123.notion.site/Cadenza-A-Generative-Framework-for-Expressive-Ideas-Variations-7028ad6ac0ed41ac814b44928261cb68
 * [SymPAC](https://arxiv.org/abs/2409.03055) (transformer; chen24ismir): n/a
 * [MMT-BERT](https://arxiv.org/abs/2409.00919) (transformer; zhu24ismir): n/a
