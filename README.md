@@ -105,6 +105,8 @@
 
 
 ### audio-domain singing synthesis
+* [Everyone-Can-Sing](https://arxiv.org/abs/2501.13870) (diffusion; dai25arxiv): https://everyone-can-sing.github.io/
+* [ExpressiveSinger](https://dl.acm.org/doi/pdf/10.1145/3664647.3681642) (diffusion; dai24mm): https://expressivesinger.github.io/ExpressiveSinger/
 * [InstructSing](https://arxiv.org/abs/2409.06330) (ddsp; zeng24slt): https://wavelandspeech.github.io/instructsing/
 * [Freestyler](https://www.arxiv.org/abs/2408.15474) (transformer; ning24arxiv): https://nzqian.github.io/Freestyler/
 * [Prompt-Singer](https://arxiv.org/pdf/2403.11780.pdf) (transformer; wang24naacl): https://prompt-singer.github.io/
