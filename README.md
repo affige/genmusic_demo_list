@@ -303,6 +303,7 @@
 
 
 ### compose single-track piano music
+* [RenderBox](https://arxiv.org/pdf/2502.07711) (transformer; zhang25arxiv): https://renderbox-page.vercel.app/
 * [ImprovNet](https://arxiv.org/pdf/2502.04522) (transformer; bhandari25arxiv): https://keshavbhandari.github.io/portfolio/improvnet.html
 * [MusicMamba](https://arxiv.org/abs/2409.02421) (mamba; chen24arxiv): n/a
 * [EMO-Disentanger](https://arxiv.org/abs/2407.20955) (transformer; huang24ismir): https://emo-disentanger.github.io/
