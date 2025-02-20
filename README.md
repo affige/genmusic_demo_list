@@ -1,6 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
-### lyrics-to-song
+### lyrics-to-song (vocal+backing)
+* [SongGen](https://arxiv.org/abs/2502.13128) (transformer; liu25arxiv): https://liuzh-19.github.io/SongGen/
 * [YuE]() (transformer; ): https://map-yue.github.io/
 
 ### text-to-music/audio
