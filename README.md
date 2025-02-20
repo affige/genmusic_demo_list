@@ -47,6 +47,7 @@
 * [JEN-1](https://arxiv.org/abs/2308.04729) (diffusion; li23arxiv): https://www.futureverse.com/research/jen/demos/jen1
 * [MusicGen](https://arxiv.org/abs/2306.05284) (Transformer; copet23arxiv): https://ai.honu.io/papers/musicgen/
 * [MeLoDy](https://arxiv.org/abs/2305.15719) (Transformer+diffusion; lam23arxiv): https://efficient-melody.github.io/
+* [MSDM](https://arxiv.org/pdf/2302.02257) (diffusion; mariani24iclr): https://gladia-research-group.github.io/multi-source-diffusion-models/
 * [MusicLM](https://arxiv.org/abs/2301.11325) (Transformer; agostinelli23arxiv): https://google-research.github.io/seanet/musiclm/examples/
 * [Noise2Music](https://arxiv.org/abs/2302.03917) (diffusion; huang23arxiv): https://noise2music.github.io/
 * [ERNIE-Music](https://arxiv.org/pdf/2302.04456.pdf) (diffusion; zhu23arxiv): N/A
