@@ -105,7 +105,8 @@
 * [JukeDrummer](https://arxiv.org/pdf/2210.06007.pdf) (VQVAE+Transofmrer; wu22ismir): https://legoodmanner.github.io/jukedrummer-demo/
 
 
-### audio-domain singing synthesis
+### audio-domain singing voice synthesis (SVS)
+* [TechSinger](https://arxiv.org/abs/2502.12572) (flow; dai25aaai): https://tech-singer.github.io/
 * [Everyone-Can-Sing](https://arxiv.org/abs/2501.13870) (diffusion; dai25arxiv): https://everyone-can-sing.github.io/
 * [ExpressiveSinger](https://dl.acm.org/doi/pdf/10.1145/3664647.3681642) (diffusion; dai24mm): https://expressivesinger.github.io/ExpressiveSinger/
 * [InstructSing](https://arxiv.org/abs/2409.06330) (ddsp; zeng24slt): https://wavelandspeech.github.io/instructsing/
@@ -139,7 +140,7 @@
 * http://home.ustc.edu.cn/~yiyh/interspeech2019/
 
 
-### audio-domain singing style transfer / singing voice conversion
+### audio-domain singing style transfer / singing voice conversion (SVC)
 * [Everyone-Can-Sing](https://arxiv.org/abs/2501.13870) (diffusion; dai25arxiv): https://everyone-can-sing.github.io/
 * [ROSVC](https://arxiv.org/abs/2210.11096) (; takahashi22arxiv): https://t-naoya.github.io/rosvc/
 * [DiffSVC](https://arxiv.org/abs/2105.13871) (diffusion; liu21asru): https://liusongxiang.github.io/diffsvc/
