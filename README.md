@@ -343,6 +343,7 @@
 * [CollageNet](https://archives.ismir.net/ismir2021/paper/000098.pdf) (VAE; wuerkaixi21ismir): https://github.com/urkax/CollageNet
 
 ### compose multi-track music
+* [NotaGen](https://arxiv.org/abs/2502.18008) (transformer; wang25arxiv): https://electricalexis.github.io/notagen-demo/
 * [MIDI-GPT](https://arxiv.org/abs/2501.17011) (transformer; pasquier25aaai): https://www.metacreation.net/projects/midi-gpt
 * [Cadenza](https://arxiv.org/abs/2410.02060) (transformer; lenz24ismir): https://lemo123.notion.site/Cadenza-A-Generative-Framework-for-Expressive-Ideas-Variations-7028ad6ac0ed41ac814b44928261cb68
 * [SymPAC](https://arxiv.org/abs/2409.03055) (transformer; chen24ismir): n/a
