@@ -349,6 +349,7 @@
 * [SymPAC](https://arxiv.org/abs/2409.03055) (transformer; chen24ismir): n/a
 * [MMT-BERT](https://arxiv.org/abs/2409.00919) (transformer; zhu24ismir): n/a
 * [Nested Music Transformer](https://arxiv.org/abs/2408.01180) (transformer; ryu24ismir): https://github.com/JudeJiwoo/nmt
+* [MET]() (transformer; ): https://github.com/SkyTNT/midi-model
 * [MuPT](https://arxiv.org/abs/2404.06393) (transformer; qu25iclr): https://map-mupt.github.io/
 * [MMT-GI](https://arxiv.org/abs/2311.12257) (transformer; xu23arxiv): https://goatlazy.github.io/MUSICAI/
 * [MorpheuS](https://arxiv.org/abs/1812.04832): https://dorienherremans.com/morpheus
