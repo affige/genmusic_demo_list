@@ -1,10 +1,12 @@
 ```A list of demo websites for automatic music generation research```
 
 ### lyrics-to-song (vocal+backing)
+* [DiffRhythm](https://arxiv.org/pdf/2503.01183) (diffusion; ning25arxiv): https://nzqian.github.io/DiffRhythm/
 * [SongGen](https://arxiv.org/abs/2502.13128) (transformer; liu25arxiv): https://liuzh-19.github.io/SongGen/
 * [YuE]() (transformer; ): https://map-yue.github.io/
 
 ### text-to-music/audio
+* [InspireMusic](https://arxiv.org/pdf/2503.00084) (diffusion; 25arxiv): https://huggingface.co/spaces/FunAudioLLM/InspireMusic
 * [stable-audio-control](https://arxiv.org/pdf/2410.05151) (diffusion; hou25icassp): https://stable-audio-control.github.io/
 * [improved-diff-a-riff](https://arxiv.org/pdf/2410.23005) (diffusion; nistal24neuripsworkshop): https://sonycslparis.github.io/improved_dar/
 * [Multi-Aspect Conditioning](https://benadar293.github.io/multi-aspect-conditioning/static/pdfs/Multi_Aspect_Conditioning.pdf) (diffusion; maman24): https://benadar293.github.io/multi-aspect-conditioning/
