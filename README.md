@@ -3,7 +3,7 @@
 ### lyrics-to-song (vocal+backing)
 * [DiffRhythm](https://arxiv.org/pdf/2503.01183) (diffusion; ning25arxiv): https://nzqian.github.io/DiffRhythm/
 * [SongGen](https://arxiv.org/abs/2502.13128) (transformer; liu25arxiv): https://liuzh-19.github.io/SongGen/
-* [YuE]() (transformer; ): https://map-yue.github.io/
+* [YuE](https://arxiv.org/pdf/2503.08638) (transformer; yuan25arxiv): https://map-yue.github.io/
 
 ### text-to-music/audio
 * [InspireMusic](https://arxiv.org/pdf/2503.00084) (diffusion; 25arxiv): https://huggingface.co/spaces/FunAudioLLM/InspireMusic
