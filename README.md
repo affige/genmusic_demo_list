@@ -59,6 +59,7 @@
 
 
 ### text-to-audio
+* [EzAudio](https://arxiv.org/pdf/2409.10819) (diT; hai24arxiv): https://haidog-yaqub.github.io/EzAudio-Page/
 * [MambaFoley](https://arxiv.org/pdf/2409.09162) (mamba; xie24arxiv): n/a
 * [PicoAudio](https://arxiv.org/pdf/2407.02869) (diffusion; xie24arxiv): https://zeyuxie29.github.io/PicoAudio.github.io/
 * [AudioLCM](https://arxiv.org/abs/2406.00356) (diffusion; liu24arxiv): https://audiolcm.github.io/
