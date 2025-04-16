@@ -7,6 +7,7 @@
 * [YuE](https://arxiv.org/pdf/2503.08638) (transformer; yuan25arxiv): https://map-yue.github.io/
 
 ### text-to-music/audio
+* [SteerMusic](https://arxiv.org/abs/2504.10826) (diffusion; niu25arxiv): https://steermusic.pages.dev/
 * [AudioX](https://arxiv.org/abs/2503.10522) (diffusion; tian25arxiv): https://zeyuet.github.io/AudioX/
 * [InspireMusic](https://arxiv.org/pdf/2503.00084) (diffusion; 25arxiv): https://huggingface.co/spaces/FunAudioLLM/InspireMusic
 * [stable-audio-control](https://arxiv.org/pdf/2410.05151) (diffusion; hou25icassp): https://stable-audio-control.github.io/
