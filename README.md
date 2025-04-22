@@ -29,10 +29,10 @@
 * [MelodyFlow](https://arxiv.org/abs/2407.03648) (transformer+diffusion; lelan24arxiv): https://melodyflow.github.io/
 * [MelodyLM](https://www.arxiv.org/abs/2407.02049) (transformer+diffusion; li24arxiv): https://melodylm666.github.io/
 * [JASCO](https://arxiv.org/pdf/2406.10970) (flow; tal24ismir): https://pages.cs.huji.ac.il/adiyoss-lab/JASCO/
-* [MusicFlow](https://openreview.net/pdf?id=kOczKjmYum) (diffusion; prajwal24icml): N/A
+* [MusicFlow](https://openreview.net/pdf?id=kOczKjmYum) (flow matching; prajwal24icml): https://musicflowicml.github.io/
 * [Diff-A-Riff](https://arxiv.org/abs/2406.08384) (diffusion; nistal24ismir): https://sonycslparis.github.io/diffariff-companion/
 * [DITTO-2](https://arxiv.org/abs/2405.20289) (diffusion; novack24ismir): https://ditto-music.github.io/ditto2/
-* [SoundCTM](https://arxiv.org/abs/2405.18503) (diffusion; saito24arxiv): N/A
+* [SoundCTM](https://arxiv.org/abs/2405.18503) (diffusion; saito24arxiv): https://anonymus-soundctm.github.io/soundctm_iclr/
 * [Instruct-MusicGen](https://arxiv.org/abs/2405.18386) (transformer; zhang24arxiv): https://foul-ice-5ea.notion.site/Instruct-MusicGen-Demo-Page-Under-construction-a1e7d8d474f74df18bda9539d96687ab
 * [QA-MDT](https://arxiv.org/pdf/2405.15863) (diffusion; li24arxiv): https://qa-mdt.github.io/
 * [Stable audio 2](https://arxiv.org/abs/2404.10301) (diffusion; evans24ismir): https://stability-ai.github.io/stable-audio-2-demo/
@@ -61,6 +61,7 @@
 
 
 ### text-to-audio
+* [TangoFlux](https://arxiv.org/pdf/2412.21037) (flow matching; hung25arxiv): https://tangoflux.github.io/
 * [EzAudio](https://arxiv.org/pdf/2409.10819) (diT; hai24arxiv): https://haidog-yaqub.github.io/EzAudio-Page/
 * [MambaFoley](https://arxiv.org/pdf/2409.09162) (mamba; xie24arxiv): n/a
 * [PicoAudio](https://arxiv.org/pdf/2407.02869) (diffusion; xie24arxiv): https://zeyuxie29.github.io/PicoAudio.github.io/
@@ -267,6 +268,7 @@
 
 
 ### image-to-music/audio
+* [MusFlow](https://arxiv.org/pdf/2504.13535) (flow mathcing; song25arxiv): https://anonymous22356.github.io/musflow.github.io/
 * [Art2Mus](https://arxiv.org/abs/2410.04906) (diffusion; rinaldi24ai4va): https://drive.google.com/drive/u/1/folders/1dHBxLWnyBqhVMJgUkTk0hKnFbGDVhw__
 * [MeLFusion](https://openaccess.thecvf.com/content/CVPR2024/papers/Chowdhury_MeLFusion_Synthesizing_Music_from_Image_and_Language_Cues_using_Diffusion_CVPR_2024_paper.pdf) (diffusion; chowdhury24cvpr): https://schowdhury671.github.io/melfusion_cvpr2024/
 * [Vis2Mus](https://arxiv.org/abs/2211.05543) (encoder/decoder; zhang22arxiv): https://github.com/ldzhangyx/vis2mus
