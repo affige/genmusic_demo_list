@@ -1,6 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### lyrics-to-song (vocal+backing)
+* [VersBand](https://arxiv.org/pdf/2504.19062) (flow matching; zhang25arxiv): https://versband.github.io/
 * [MusiCoT](https://arxiv.org/pdf/2503.19611) (diffusion; lam25arxiv): https://musicot.github.io/
 * [DiffRhythm](https://arxiv.org/pdf/2503.01183) (diffusion; ning25arxiv): https://nzqian.github.io/DiffRhythm/
 * [SongGen](https://arxiv.org/abs/2502.13128) (transformer; liu25arxiv): https://liuzh-19.github.io/SongGen/
