@@ -317,6 +317,7 @@
 
 
 ### compose single-track piano music
+* [Proffusion](https://arxiv.org/pdf/2505.03314) (mamba-diffusion; zhang25arxiv): https://proffusion.github.io/
 * [RenderBox](https://arxiv.org/pdf/2502.07711) (transformer; zhang25arxiv): https://renderbox-page.vercel.app/
 * [ImprovNet](https://arxiv.org/pdf/2502.04522) (transformer; bhandari25arxiv): https://keshavbhandari.github.io/portfolio/improvnet.html
 * [MusicMamba](https://arxiv.org/abs/2409.02421) (mamba; chen25icassp): https://moersxm.github.io/MusicMamba_Demo/
