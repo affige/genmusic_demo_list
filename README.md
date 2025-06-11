@@ -1,6 +1,8 @@
 ```A list of demo websites for automatic music generation research```
 
 ### lyrics-to-song (vocal+backing)
+* [LeVo](https://www.arxiv.org/pdf/2506.07520) (transformer; lei25arxiv): https://levo-demo.github.io/
+* [ACE-Step](https://arxiv.org/abs/2506.00045) (diffusion; gong25arxiv): https://ace-step.github.io/
 * [VersBand](https://arxiv.org/pdf/2504.19062) (flow matching; zhang25arxiv): https://versband.github.io/
 * [MusiCoT](https://arxiv.org/pdf/2503.19611) (diffusion; lam25arxiv): https://musicot.github.io/
 * [DiffRhythm](https://arxiv.org/pdf/2503.01183) (diffusion; ning25arxiv): https://nzqian.github.io/DiffRhythm/
