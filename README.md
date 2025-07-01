@@ -99,6 +99,7 @@
 
 
 ### audio-domain music generation 
+* [TOMI](https://arxiv.org/pdf/2506.23094) (; he25ismir): https://tomi-2025.github.io/
 * [VampNet](https://arxiv.org/abs/2307.04686) (transformer; garcia23ismir): https://hugo-does-things.notion.site/VampNet-Music-Generation-via-Masked-Acoustic-Token-Modeling-e37aabd0d5f1493aa42c5711d0764b33
 * [fast JukeBox](https://www.mdpi.com/2076-3417/13/9/5630) (jukebox+knowledge distilling; pezzat-morales23mdpi): https://soundcloud.com/michel-pezzat-615988723
 * [DAG](https://arxiv.org/abs/2210.14661) (diffusion; pascual23icassp): https://diffusionaudiosynthesis.github.io/
