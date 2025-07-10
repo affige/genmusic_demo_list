@@ -1,6 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### song generation; lyrics-to-song (vocal+backing)
+* [SongBloom](https://arxiv.org/pdf/2506.07634) (transformer+diffusion; yang25arxiv): https://cypress-yang.github.io/SongBloom_demo/
 * [LeVo](https://www.arxiv.org/pdf/2506.07520) (transformer; lei25arxiv): https://levo-demo.github.io/
 * [ACE-Step](https://arxiv.org/abs/2506.00045) (diffusion; gong25arxiv): https://ace-step.github.io/
 * [VersBand](https://arxiv.org/pdf/2504.19062) (flow matching; zhang25arxiv): https://versband.github.io/
