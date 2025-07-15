@@ -240,6 +240,7 @@
 
 
 ### given score, generate musical audio (performance): Piano only
+* [MIDI-VALLE](https://arxiv.org/pdf/2507.08530) (Transformer; tang25ismir): https://tangjjbetsy.github.io/MIDI-VALLE/
 * [TTS-based MIDI-to-audio](https://arxiv.org/abs/2211.13868) (Transformer-TTS; shi23icassp): https://nii-yamagishilab.github.io/sample-midi-to-audio/
 * [Wave2Midi2Wave](https://arxiv.org/abs/1810.12247) (transformer+wavenet; hawthorne19iclr): https://magenta.tensorflow.org/maestro-wave2midi2wave
 * [BasisMixer](https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/08/cancino-basis.pdf) (RNN+FFNN; chacon16ismir-lbd): https://www.youtube.com/watch?v=zdU8C6Su3TI
