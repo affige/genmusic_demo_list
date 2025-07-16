@@ -67,6 +67,7 @@
 
 
 ### text-to-audio
+* [FreeAudio](https://arxiv.org/pdf/2507.08557) (transformer; jiang25mm): https://freeaudio.github.io/FreeAudio/
 * [TangoFlux](https://arxiv.org/pdf/2412.21037) (flow matching; hung25arxiv): https://tangoflux.github.io/
 * [EzAudio](https://arxiv.org/pdf/2409.10819) (diT; hai24arxiv): https://haidog-yaqub.github.io/EzAudio-Page/
 * [MambaFoley](https://arxiv.org/pdf/2409.09162) (mamba; xie24arxiv): n/a
