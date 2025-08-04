@@ -285,6 +285,7 @@
 * [ConchShell](https://arxiv.org/abs/2210.05076) (encoder/decoder; fan22arxiv): n/a
 
 ### video-to-music/audio
+* [AudioGen-Omni](https://arxiv.org/pdf/2508.00733) (transformer; wang25iclr): https://ciyou2.github.io/AudioGen-Omni/
 * [ThinkSound](https://arxiv.org/pdf/2506.21448) (transformer; liu25arxiv): https://thinksound-project.github.io/
 * [FilmComposer](https://arxiv.org/pdf/2503.08147) (transformer; xie25cvpr): https://apple-jun.github.io/FilmComposer.github.io/
 * [GVMGen](https://arxiv.org/pdf/2501.09972) (diffusion; zuo25aaai): https://chouliuzuo.github.io/GVMGen/
