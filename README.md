@@ -10,6 +10,9 @@
 * [DiffRhythm](https://arxiv.org/pdf/2503.01183) (diffusion; ning25arxiv): https://nzqian.github.io/DiffRhythm/
 * [SongGen](https://arxiv.org/abs/2502.13128) (transformer; liu25arxiv): https://liuzh-19.github.io/SongGen/
 * [YuE](https://arxiv.org/pdf/2503.08638) (transformer; yuan25arxiv): https://map-yue.github.io/
+* [Melodist](https://arxiv.org/abs/2404.09313) (transformer; hong24arxiv): https://text2songmelodist.github.io/Sample/
+* [SongCreator](https://arxiv.org/pdf/2409.06029) (diffusion; lei24arxiv): https://songcreator.github.io/
+* [MelodyLM](https://www.arxiv.org/abs/2407.02049) (transformer+diffusion; li24arxiv): https://melodylm666.github.io/
 
 ### text-to-music/audio
 * [MuseControlLite](https://arxiv.org/abs/2506.18729) (diffusion; tsai25icml): https://musecontrollite.github.io/web/
@@ -23,7 +26,6 @@
 * [Presto](https://arxiv.org/abs/2410.05167) (diffusion; novack25iclr): https://presto-music.github.io/web/
 * [MMGen](https://arxiv.org/abs/2409.20196) (diffusion; wei24arxiv): https://awesome-mmgen.github.io/
 * [Seed-Music](https://arxiv.org/pdf/2409.09214) (diffusion+transformer; bai24arxiv): https://team.doubao.com/en/special/seed-music
-* [SongCreator](https://arxiv.org/pdf/2409.06029) (diffusion; lei24arxiv): https://songcreator.github.io/
 * [MSLDM](https://arxiv.org/abs/2409.06190) (diffusion; xu24arxiv): https://xzwy.github.io/MSLDMDemo/
 * [Multi-Track MusicLDM](https://arxiv.org/abs/2409.02845) (diffusion; karchkhadze24arxiv): https://mt-musicldm.github.io/
 * [FluxMusic](https://arxiv.org/pdf/2409.00587) (diffusion; fei24arxiv): https://github.com/feizc/FluxMusic
@@ -34,7 +36,6 @@
 * [MEDIC](https://arxiv.org/abs/2407.13220) (diffusion; liu24arxiv): https://medic-zero.github.io/
 * [MusicGenStyle](https://arxiv.org/pdf/2407.12563) (transformer; rouard24ismir): https://musicgenstyle.github.io/
 * [MelodyFlow](https://arxiv.org/abs/2407.03648) (transformer+diffusion; lelan24arxiv): https://melodyflow.github.io/
-* [MelodyLM](https://www.arxiv.org/abs/2407.02049) (transformer+diffusion; li24arxiv): https://melodylm666.github.io/
 * [JASCO](https://arxiv.org/pdf/2406.10970) (flow; tal24ismir): https://pages.cs.huji.ac.il/adiyoss-lab/JASCO/
 * [MusicFlow](https://openreview.net/pdf?id=kOczKjmYum) (flow matching; prajwal24icml): https://musicflowicml.github.io/
 * [Diff-A-Riff](https://arxiv.org/abs/2406.08384) (diffusion; nistal24ismir): https://sonycslparis.github.io/diffariff-companion/
@@ -43,7 +44,6 @@
 * [Instruct-MusicGen](https://arxiv.org/abs/2405.18386) (transformer; zhang24arxiv): https://foul-ice-5ea.notion.site/Instruct-MusicGen-Demo-Page-Under-construction-a1e7d8d474f74df18bda9539d96687ab
 * [QA-MDT](https://arxiv.org/pdf/2405.15863) (diffusion; li24arxiv): https://qa-mdt.github.io/
 * [Stable audio 2](https://arxiv.org/abs/2404.10301) (diffusion; evans24ismir): https://stability-ai.github.io/stable-audio-2-demo/
-* [Melodist](https://arxiv.org/abs/2404.09313) (transformer; hong24arxiv): https://text2songmelodist.github.io/Sample/
 * [SMITIN](https://arxiv.org/abs/2404.02252) (transformer; koo24arxiv): https://wide-wood-512.notion.site/SMITIN-Self-Monitored-Inference-Time-INtervention-for-Generative-Music-Transformers-Demo-Page-983723e6e9ac4f008298f3c427a23241
 * [Stable audio](https://arxiv.org/abs/2402.04825) (diffusion; evans24arxiv): https://stability-ai.github.io/stable-audio-demo/
 * [MusicMagus](https://arxiv.org/abs/2402.06178) (diffusion; zhang24ijcai): https://wry-neighbor-173.notion.site/MusicMagus-Zero-Shot-Text-to-Music-Editing-via-Diffusion-Models-8f55a82f34944eb9a4028ca56c546d9d
