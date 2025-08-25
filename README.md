@@ -15,6 +15,7 @@
 * [MelodyLM](https://www.arxiv.org/abs/2407.02049) (transformer+diffusion; li24arxiv): https://melodylm666.github.io/
 
 ### text-to-music/audio
+* [TVC-MusicGen](https://www.isca-archive.org/interspeech_2025/yang25f_interspeech.pdf) (transformer; yang25interspeech): https://cypress-yang.github.io/TVC-MusicGen_demo/
 * [MuseControlLite](https://arxiv.org/abs/2506.18729) (diffusion; tsai25icml): https://musecontrollite.github.io/web/
 * [Stable Audio Open Small](https://arxiv.org/abs/2505.08175) (diffusion; novack25arxiv): https://arc-text2audio.github.io/web/
 * [SteerMusic](https://arxiv.org/abs/2504.10826) (diffusion; niu25arxiv): https://steermusic.pages.dev/
