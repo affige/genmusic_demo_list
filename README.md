@@ -27,7 +27,7 @@
 * [Presto](https://arxiv.org/abs/2410.05167) (diffusion; novack25iclr): https://presto-music.github.io/web/
 * [MMGen](https://arxiv.org/abs/2409.20196) (diffusion; wei24arxiv): https://awesome-mmgen.github.io/
 * [Seed-Music](https://arxiv.org/pdf/2409.09214) (diffusion+transformer; bai24arxiv): https://team.doubao.com/en/special/seed-music
-* [MSLDM](https://arxiv.org/abs/2409.06190) (diffusion; xu24arxiv): https://xzwy.github.io/MSLDMDemo/
+* [MSLDM](https://arxiv.org/abs/2409.06190) (diffusion; xu24neuripsw): https://xzwy.github.io/MSLDMDemo/
 * [Multi-Track MusicLDM](https://arxiv.org/abs/2409.02845) (diffusion; karchkhadze24arxiv): https://mt-musicldm.github.io/
 * [FluxMusic](https://arxiv.org/pdf/2409.00587) (diffusion; fei24arxiv): https://github.com/feizc/FluxMusic
 * [control-transfer-diffusion](https://arxiv.org/pdf/2408.00196) (diffusion; demerlé24ismir): https://nilsdem.github.io/control-transfer-diffusion/
