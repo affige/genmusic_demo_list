@@ -97,8 +97,10 @@
 
 
 ### text-to-midi
+* [Amadeus](https://arxiv.org/pdf/2508.20665) (Transformer; su25arxiv): https://github.com/lingyu123-su/Amadeus
+* [Text2midi-InferAlign](https://arxiv.org/abs/2505.12669) (Transformer; roy25arxiv): https://github.com/AMAAI-Lab/t2m-inferalign
 * [XMusic](https://arxiv.org/abs/2501.08809) (Transformer; tian25tmm): https://xmusic-project.github.io/
-* [text2midi](https://arxiv.org/pdf/2412.16526) (Transformer; bhandari25aaai): https://huggingface.co/spaces/amaai-lab/text2midi
+* [Text2midi](https://arxiv.org/pdf/2412.16526) (Transformer; roy25aaai): https://huggingface.co/spaces/amaai-lab/text2midi
 * [MuseCoco](https://arxiv.org/abs/2306.00110) (Transformer; lu23arxiv): https://ai-muzic.github.io/musecoco/ 
 
 
