@@ -70,6 +70,7 @@
 
 
 ### text-to-audio
+* [MeanAudio](https://arxiv.org/abs/2508.06098) (flow; li25arxiv): https://meanaudio.github.io/
 * [FreeAudio](https://arxiv.org/pdf/2507.08557) (transformer; jiang25mm): https://freeaudio.github.io/FreeAudio/
 * [TangoFlux](https://arxiv.org/pdf/2412.21037) (flow matching; hung25arxiv): https://tangoflux.github.io/
 * [EzAudio](https://arxiv.org/pdf/2409.10819) (diT; hai24arxiv): https://haidog-yaqub.github.io/EzAudio-Page/
