@@ -295,9 +295,11 @@
 * [ThinkSound](https://arxiv.org/pdf/2506.21448) (transformer; liu25arxiv): https://thinksound-project.github.io/
 * [FilmComposer](https://arxiv.org/pdf/2503.08147) (transformer; xie25cvpr): https://apple-jun.github.io/FilmComposer.github.io/
 * [GVMGen](https://arxiv.org/pdf/2501.09972) (diffusion; zuo25aaai): https://chouliuzuo.github.io/GVMGen/
+* [VidMusician](https://arxiv.org/abs/2412.06296) (transformer; li25arxiv): https://www.youtube.com/watch?v=EPOSXwtl1jw
 * [SONIQUE](https://arxiv.org/pdf/2410.03879) (diffusion; zhang24arxiv): https://github.com/zxxwxyyy/sonique
 * [Herrmann-1](https://ieeexplore.ieee.org/document/10447950) (LLM+transformer; haseeb24icassp): https://audiomatic-research.github.io/herrmann-1/
 * [Diff-BGM](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Diff-BGM_A_Diffusion_Model_for_Video_Background_Music_Generation_CVPR_2024_paper.pdf) (diffusion; li24cvpr): https://github.com/sizhelee/Diff-BGM
+* [VidMuse](https://arxiv.org/abs/2406.04321) (transformer; tian24arxiv): https://vidmuse.github.io/
 * [Frieren](https://arxiv.org/abs/2406.00320) (diffusion; wang24arxiv): https://frieren-v2a.github.io/
 * [Video2Music](https://arxiv.org/abs/2311.00968) (transformer; kang23arxiv): https://github.com/AMAAI-Lab/Video2Music
 * [LORIS](https://arxiv.org/pdf/2305.01319) (diffusion; yu23icml): https://justinyuu.github.io/LORIS/
