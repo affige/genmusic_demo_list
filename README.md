@@ -71,6 +71,7 @@
 
 ### text-to-audio
 * [ControlAudio](https://arxiv.org/pdf/2510.08878) (diffusion; jiang25arxiv): https://control-audio.github.io/Control-Audio/
+* [PicoAudio2](https://arxiv.org/abs/2509.00683) (diffusion; zheng25arxiv): https://hirookie9.github.io/PicoAudio2-Page/
 * [MeanAudio](https://arxiv.org/abs/2508.06098) (flow; li25arxiv): https://meanaudio.github.io/
 * [FreeAudio](https://arxiv.org/pdf/2507.08557) (transformer; jiang25mm): https://freeaudio.github.io/FreeAudio/
 * [TangoFlux](https://arxiv.org/pdf/2412.21037) (flow matching; hung25arxiv): https://tangoflux.github.io/
