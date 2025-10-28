@@ -3,7 +3,7 @@
 ### song generation; lyrics-to-song (vocal+backing)
 * [DiffRhythm 2](https://openreview.net/pdf?id=EzHOmjg3R6) (diffusion; 26iclr-submission): https://anonymouspapercc.github.io/diffrhythm2/
 * [JAM](https://arxiv.org/pdf/2507.20880) (transformer+flow; liu25arxiv): https://github.com/declare-lab/jamify
-* [SongBloom](https://arxiv.org/pdf/2506.07634) (transformer+diffusion; yang25arxiv): https://cypress-yang.github.io/SongBloom_demo/
+* [SongBloom](https://arxiv.org/pdf/2506.07634) (transformer+diffusion; yang25neurips): https://cypress-yang.github.io/SongBloom_demo/
 * [LeVo](https://www.arxiv.org/pdf/2506.07520) (transformer; lei25arxiv): https://levo-demo.github.io/
 * [ACE-Step](https://arxiv.org/abs/2506.00045) (diffusion; gong25arxiv): https://ace-step.github.io/
 * [VersBand](https://arxiv.org/pdf/2504.19062) (flow matching; zhang25arxiv): https://versband.github.io/
