@@ -521,6 +521,7 @@
 
 
 ### performance generation (given MIDI, generate human-like MIDI): Piano only
+* [JointPianist](https://openreview.net/forum?id=173Pq3F31r) (transformer; 25arxiv): https://jointpianist.github.io/epr-apt/
 * [ScorePerformer](https://ismir2023program.ismir.net/poster_183.html) (transformer; borovik23ismir): https://github.com/ilya16/scoreperformer
 * [CVRNN](http://archives.ismir.net/ismir2019/paper/000105.pdf) (CVRNN; maezawa19ismir): https://sites.google.com/view/cvrnn-performance-render
 * [GGNN](http://proceedings.mlr.press/v97/jeong19a/jeong19a.pdf) (graph NN + hierarchical attention RNN; jeong19icml)
