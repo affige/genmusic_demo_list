@@ -377,6 +377,7 @@
 * [CollageNet](https://archives.ismir.net/ismir2021/paper/000098.pdf) (VAE; wuerkaixi21ismir): https://github.com/urkax/CollageNet
 
 ### compose multi-track symbolic music
+* [PhraseLDM](https://arxiv.org/pdf/2512.11348) (diffusion; ou25arxiv): https://www.oulongshen.xyz/midi_ldm
 * [Moonbeam](https://arxiv.org/pdf/2505.15559) (transformer; guo25arxiv): https://aim-qmul.github.io/moonbeam-midi-foundation-model/
 * [NotaGen](https://arxiv.org/abs/2502.18008) (transformer; wang25arxiv): https://electricalexis.github.io/notagen-demo/
 * [MIDI-GPT](https://arxiv.org/abs/2501.17011) (transformer; pasquier25aaai): https://www.metacreation.net/projects/midi-gpt
