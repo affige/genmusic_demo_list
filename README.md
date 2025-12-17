@@ -339,7 +339,8 @@
 * [folkRNN](https://github.com/IraKorshunova/folk-rnn) (LSTM): https://folkrnn.org/
 
 
-### compose single-track piano music
+### compose piano music
+* [PhraseLDM](https://arxiv.org/pdf/2512.11348) (diffusion; ou25arxiv): https://www.oulongshen.xyz/midi_ldm
 * [Proffusion](https://arxiv.org/pdf/2505.03314) (mamba-diffusion; zhang25arxiv): https://proffusion.github.io/
 * [RenderBox](https://arxiv.org/pdf/2502.07711) (transformer; zhang25arxiv): https://renderbox-page.vercel.app/
 * [ImprovNet](https://arxiv.org/pdf/2502.04522) (transformer; bhandari25arxiv): https://keshavbhandari.github.io/portfolio/improvnet.html
@@ -377,7 +378,6 @@
 * [CollageNet](https://archives.ismir.net/ismir2021/paper/000098.pdf) (VAE; wuerkaixi21ismir): https://github.com/urkax/CollageNet
 
 ### compose multi-track symbolic music
-* [PhraseLDM](https://arxiv.org/pdf/2512.11348) (diffusion; ou25arxiv): https://www.oulongshen.xyz/midi_ldm
 * [Moonbeam](https://arxiv.org/pdf/2505.15559) (transformer; guo25arxiv): https://aim-qmul.github.io/moonbeam-midi-foundation-model/
 * [NotaGen](https://arxiv.org/abs/2502.18008) (transformer; wang25arxiv): https://electricalexis.github.io/notagen-demo/
 * [MIDI-GPT](https://arxiv.org/abs/2501.17011) (transformer; pasquier25aaai): https://www.metacreation.net/projects/midi-gpt
