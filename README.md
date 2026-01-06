@@ -133,6 +133,7 @@
 
 
 ### audio-domain singing voice synthesis (SVS)
+* [FM-Singer](https://arxiv.org/pdf/2601.00217) (flow; yun26arxiv): https://alsgur9368.github.io/Singing-Voice-Synthesis-Demo/Web_dir/
 * [TechSinger](https://arxiv.org/abs/2502.12572) (flow; dai25aaai): https://tech-singer.github.io/
 * [Everyone-Can-Sing](https://arxiv.org/abs/2501.13870) (diffusion; dai25arxiv): https://everyone-can-sing.github.io/
 * [ExpressiveSinger](https://dl.acm.org/doi/pdf/10.1145/3664647.3681642) (diffusion; dai24mm): https://expressivesinger.github.io/ExpressiveSinger/
