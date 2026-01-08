@@ -1,7 +1,8 @@
 ```A list of demo websites for automatic music generation research```
 
 ### song generation; lyrics-to-song (vocal+backing)
-* [DiffRhythm 2](https://openreview.net/pdf?id=EzHOmjg3R6) (diffusion; 26iclr-submission): https://anonymouspapercc.github.io/diffrhythm2/
+* [Muse](https://arxiv.org/pdf/2601.03973) (transformer; jiang26arxiv): https://github.com/yuhui1038/Muse
+* [DiffRhythm 2](https://arxiv.org/abs/2510.22950) (diffusion; jiang25arxiv): https://github.com/xiaomi-research/diffrhythm2
 * [JAM](https://arxiv.org/pdf/2507.20880) (transformer+flow; liu25arxiv): https://github.com/declare-lab/jamify
 * [SongBloom](https://arxiv.org/pdf/2506.07634) (transformer+diffusion; yang25neurips): https://cypress-yang.github.io/SongBloom_demo/
 * [LeVo](https://www.arxiv.org/pdf/2506.07520) (transformer; lei25arxiv): https://levo-demo.github.io/
