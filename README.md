@@ -58,6 +58,7 @@
 * [Music ControlNet](https://arxiv.org/abs/2311.07069) (diffusion; wu24taslp): https://musiccontrolnet.github.io/web/
 * [InstrumentGen](https://arxiv.org/abs/2311.04339) (transformer; nercessian23ml4audio): https://instrumentgen.netlify.app/
 * [Coco-Mulla](https://arxiv.org/pdf/2310.17162.pdf) (transformer; lin23arxiv): https://kikyo-16.github.io/coco-mulla/
+* [AirGen](https://arxiv.org/pdf/2402.09508) (transformer; lin24arxiv): https://kikyo-16.github.io/AIR/
 * [JEN-1 Composer](https://arxiv.org/pdf/2310.19180.pdf) (diffusion; yao23arxiv): https://www.jenmusic.ai/audio-demos
 * [UniAudio](https://arxiv.org/abs/2310.00704) (transformer; yang23arxiv): http://dongchaoyang.top/UniAudio_demo/
 * [MusicLDM](https://arxiv.org/abs/2308.01546) (diffusion; chen23arxiv): https://musicldm.github.io/
