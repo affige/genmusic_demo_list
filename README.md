@@ -1,6 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### song generation; lyrics-to-song (vocal+backing)
+* [ACE-Step 1.5](https://arxiv.org/pdf/2602.00744) (diffusion; gong26arxiv): https://ace-step.github.io/ace-step-v1.5.github.io/
 * [Muse](https://arxiv.org/pdf/2601.03973) (transformer; jiang26arxiv): https://github.com/yuhui1038/Muse
 * [DiffRhythm 2](https://arxiv.org/abs/2510.22950) (diffusion; jiang25arxiv): https://github.com/xiaomi-research/diffrhythm2
 * [JAM](https://arxiv.org/pdf/2507.20880) (transformer+flow; liu25arxiv): https://github.com/declare-lab/jamify
