@@ -344,6 +344,7 @@
 
 
 ### compose piano music
+* [D3PIA](https://arxiv.org/pdf/2602.03523) (diffusion; choi26icassp): https://jech2.github.io/D3PIA/
 * [PhraseLDM](https://arxiv.org/pdf/2512.11348) (diffusion; ou25arxiv): https://www.oulongshen.xyz/midi_ldm
 * [Proffusion](https://arxiv.org/pdf/2505.03314) (mamba-diffusion; zhang25arxiv): https://proffusion.github.io/
 * [RenderBox](https://arxiv.org/pdf/2502.07711) (transformer; zhang25arxiv): https://renderbox-page.vercel.app/
