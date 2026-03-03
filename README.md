@@ -136,7 +136,7 @@
 
 
 ### audio-domain singing voice synthesis (SVS)
-* [SoulX-Singer](https://arxiv.org/pdf/2601.00217) (flow; yun26arxiv): https://github.com/Soul-AILab/SoulX-Singer
+* [SoulX-Singer](https://arxiv.org/pdf/2602.07803) (flow; qian26arxiv): https://github.com/Soul-AILab/SoulX-Singer
 * [FM-Singer](https://arxiv.org/pdf/2601.00217) (flow; yun26arxiv): https://alsgur9368.github.io/Singing-Voice-Synthesis-Demo/Web_dir/
 * [TechSinger](https://arxiv.org/abs/2502.12572) (flow; dai25aaai): https://tech-singer.github.io/
 * [Everyone-Can-Sing](https://arxiv.org/abs/2501.13870) (diffusion; dai25arxiv): https://everyone-can-sing.github.io/
