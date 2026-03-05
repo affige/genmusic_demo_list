@@ -300,6 +300,7 @@
 * [ConchShell](https://arxiv.org/abs/2210.05076) (encoder/decoder; fan22arxiv): n/a
 
 ### video-to-music/audio
+* [EchoesOverTime](https://arxiv.org/pdf/2602.20981) (SSM; simon25cvpr): https://echoesovertime.github.io/
 * [AudioGen-Omni](https://arxiv.org/pdf/2508.00733) (transformer; wang25iclr): https://ciyou2.github.io/AudioGen-Omni/
 * [ThinkSound](https://arxiv.org/pdf/2506.21448) (transformer; liu25arxiv): https://thinksound-project.github.io/
 * [FilmComposer](https://arxiv.org/pdf/2503.08147) (transformer; xie25cvpr): https://apple-jun.github.io/FilmComposer.github.io/
