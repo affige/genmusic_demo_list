@@ -51,6 +51,7 @@
 * [QA-MDT](https://arxiv.org/pdf/2405.15863) (diffusion; li24arxiv): https://qa-mdt.github.io/
 * [Stable audio 2](https://arxiv.org/abs/2404.10301) (diffusion; evans24ismir): https://stability-ai.github.io/stable-audio-2-demo/
 * [SMITIN](https://arxiv.org/abs/2404.02252) (transformer; koo24arxiv): https://wide-wood-512.notion.site/SMITIN-Self-Monitored-Inference-Time-INtervention-for-Generative-Music-Transformers-Demo-Page-983723e6e9ac4f008298f3c427a23241
+* [AIRGen](https://arxiv.org/abs/2402.09508) (transformer; lin24ijcai): https://kikyo-16.github.io/AIR/
 * [Stable audio](https://arxiv.org/abs/2402.04825) (diffusion; evans24arxiv): https://stability-ai.github.io/stable-audio-demo/
 * [MusicMagus](https://arxiv.org/abs/2402.06178) (diffusion; zhang24ijcai): https://wry-neighbor-173.notion.site/MusicMagus-Zero-Shot-Text-to-Music-Editing-via-Diffusion-Models-8f55a82f34944eb9a4028ca56c546d9d
 * [DITTO](https://arxiv.org/abs/2401.12179) (diffusion; novack24arxiv): https://ditto-music.github.io/web/
