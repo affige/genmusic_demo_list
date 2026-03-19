@@ -174,6 +174,7 @@
 
 ### audio-domain singing style transfer / singing voice conversion (SVC)
 * [Everyone-Can-Sing](https://arxiv.org/abs/2501.13870) (diffusion; dai25arxiv): https://everyone-can-sing.github.io/
+* [Seed-VC](https://arxiv.org/abs/2411.09943) (diffusion transformer; liu24arxiv): https://github.com/Plachtaa/seed-vc
 * [ROSVC](https://arxiv.org/abs/2210.11096) (; takahashi22arxiv): https://t-naoya.github.io/rosvc/
 * [DiffSVC](https://arxiv.org/abs/2105.13871) (diffusion; liu21asru): https://liusongxiang.github.io/diffsvc/
 * [FastSVC](https://arxiv.org/abs/2011.05731) (CNN; liu21icme): https://nobody996.github.io/FastSVC/
