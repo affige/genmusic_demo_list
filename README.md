@@ -18,6 +18,7 @@
 * [MelodyLM](https://www.arxiv.org/abs/2407.02049) (transformer+diffusion; li24arxiv): https://melodylm666.github.io/
 
 ### text-to-music/audio
+* [LatCH](https://arxiv.org/pdf/2603.04366) (diffusion; novack26icassp): https://zacharynovack.github.io/latch/latch.html
 * [stream-music-gen](https://arxiv.org/pdf/2510.22105) (transformer; wu25arxiv): https://lukewys.github.io/stream-music-gen/
 * [Stemphonic](https://drive.google.com/file/d/1gipln45hX-2AmMzT-E7HNK-VpFdohD8T/view) (diffusion; wu25arxiv): https://stemphonic-demo.vercel.app/
 * [TVC-MusicGen](https://www.isca-archive.org/interspeech_2025/yang25f_interspeech.pdf) (transformer; yang25interspeech): https://cypress-yang.github.io/TVC-MusicGen_demo/
