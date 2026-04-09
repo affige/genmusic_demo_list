@@ -1,6 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### song generation; lyrics-to-song (vocal+backing)
+* [ComposerFlow](https://arxiv.org/pdf/2602.22029) (diffusion; tsai26arxiv): https://composerflow.github.io/web/
 * [ACE-Step 1.5](https://arxiv.org/pdf/2602.00744) (diffusion; gong26arxiv): https://ace-step.github.io/ace-step-v1.5.github.io/
 * [Muse](https://arxiv.org/pdf/2601.03973) (transformer; jiang26arxiv): https://github.com/yuhui1038/Muse
 * [DiffRhythm 2](https://arxiv.org/abs/2510.22950) (diffusion; jiang25arxiv): https://github.com/xiaomi-research/diffrhythm2
@@ -129,6 +130,8 @@
 
 
 ### given singing, generate accompaniments
+* [SqueezeComposer](https://arxiv.org/pdf/2603.21073) (diffusion; chen26arxiv): https://squeezecomposer.github.io/
+* [MIDI-SAG](https://arxiv.org/pdf/2602.22029) (diffusion; tsai26arxiv): https://composerflow.github.io/web/
 * [Llambada](https://arxiv.org/pdf/2411.01661) (transformer; trinh24arxiv): https://songgen-ai.github.io/llambada-demo/
 * [FastSAG](https://arxiv.org/pdf/2405.07682) (diffusion; chen24arxiv): https://fastsag.github.io/
 * [SingSong](https://arxiv.org/abs/2301.12662) (VQVAE+Transofmrer; donahue23arxiv): https://storage.googleapis.com/sing-song/index.html
