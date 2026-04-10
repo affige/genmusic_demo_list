@@ -77,6 +77,7 @@
 
 
 ### text-to-audio
+* [Woosh](https://arxiv.org/pdf/2604.01929) (flow; hadjeres26arxiv): https://sonyresearch.github.io/Woosh/
 * [Audio ControlNet](https://www.arxiv.org/pdf/2602.04680) (flow; zhu26arxiv): https://audio-controlnet.github.io/
 * [ControlAudio](https://arxiv.org/pdf/2510.08878) (diffusion; jiang25arxiv): https://control-audio.github.io/Control-Audio/
 * [PicoAudio2](https://arxiv.org/abs/2509.00683) (diffusion; zheng25arxiv): https://hirookie9.github.io/PicoAudio2-Page/
