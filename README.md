@@ -132,6 +132,7 @@
 
 
 ### given singing, generate accompaniments
+* [LaDA-Band](https://arxiv.org/pdf/2604.11052) (diffusion; wang26arxiv): https://github.com/Duoluoluos/TME-LaDA-Band
 * [SqueezeComposer](https://arxiv.org/pdf/2603.21073) (diffusion; chen26arxiv): https://squeezecomposer.github.io/
 * [MIDI-SAG](https://arxiv.org/pdf/2602.22029) (diffusion; tsai26arxiv): https://composerflow.github.io/web/
 * [Llambada](https://arxiv.org/pdf/2411.01661) (transformer; trinh24arxiv): https://songgen-ai.github.io/llambada-demo/
