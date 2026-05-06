@@ -18,7 +18,7 @@
 * [SongCreator](https://arxiv.org/pdf/2409.06029) (diffusion; lei24arxiv): https://songcreator.github.io/
 * [MelodyLM](https://www.arxiv.org/abs/2407.02049) (transformer+diffusion; li24arxiv): https://melodylm666.github.io/
 
-### text-to-music/audio
+### text-to-music
 * [LatCH](https://arxiv.org/pdf/2603.04366) (diffusion; novack26icassp): https://zacharynovack.github.io/latch/latch.html
 * [stream-music-gen](https://arxiv.org/pdf/2510.22105) (transformer; wu25arxiv): https://lukewys.github.io/stream-music-gen/
 * [AudioMoG](https://arxiv.org/pdf/2509.23727) (diffusion; wang26icme): https://audiomog.github.io/
@@ -78,6 +78,7 @@
 
 
 ### text-to-audio
+* [AudioChat](https://arxiv.org/pdf/2602.17097) (diffusion; chen26icml): https://wanchichen.github.io/audiochat/
 * [Woosh](https://arxiv.org/pdf/2604.01929) (flow; hadjeres26arxiv): https://sonyresearch.github.io/Woosh/
 * [Audio ControlNet](https://www.arxiv.org/pdf/2602.04680) (flow; zhu26arxiv): https://audio-controlnet.github.io/
 * [ControlAudio](https://arxiv.org/pdf/2510.08878) (diffusion; jiang26acl): https://control-audio.github.io/Control-Audio/
