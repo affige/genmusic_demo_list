@@ -278,6 +278,7 @@
 
 
 ### given score, generate musical audio (performance): Not limited to Piano [a.k.a. MIDI-to-audio]
+* [Break-the-Beat](https://arxiv.org/abs/2605.14555) (DiT; cui26arxiv): https://ik4sumii.github.io/break-the-beat/
 * [TokenSynth](https://arxiv.org/pdf/2502.08939) (Transformer; kim25icassp): https://kyungsukim.notion.site/TokenSynth-A-Token-based-Neural-Synthesizer-for-Instrument-Cloning-and-Text-to-Instrument-2c4f5c0850dc4006971b33ad0e580842
 * [M2A](https://arxiv.org/pdf/2501.10222) (Transformer; tang25icassp): https://tangjjbetsy.github.io/S2A/
 * [Deep Performer](https://arxiv.org/pdf/2202.06034.pdf) (Transformer; dong22icassp): https://salu133445.github.io/deepperformer/
