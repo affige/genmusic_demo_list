@@ -114,6 +114,7 @@
 
 
 ### text-to-midi
+* [Agogic](https://arxiv.org/pdf/2608.03999) (Transformer; chen26arxiv): https://yisuanwang.github.io/Agogic/
 * [MIDI-LLM](https://drive.google.com/file/d/1U-d5RS3K18gy-_ieNFJyOWT46vvAFz7I/view) (Transformer; wu25arxiv): https://midi-llm-demo.vercel.app/
 * [Amadeus](https://arxiv.org/pdf/2508.20665) (Transformer; su25arxiv): https://github.com/lingyu123-su/Amadeus
 * [Text2midi-InferAlign](https://arxiv.org/abs/2505.12669) (Transformer; roy25arxiv): https://github.com/AMAAI-Lab/t2m-inferalign
