@@ -1,6 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### song generation; lyrics-to-song (vocal+backing)
+* [WanSong v1.0](https://arxiv.org/pdf/2607.14749) (diffusion; chen26arxiv): [n/a]
 * [LeVo 2](https://arxiv.org/pdf/2606.30642) (LLM/diffusion; lei26arxiv): https://levo-demo.github.io/levo_v2_demo/
 * [Khala](https://arxiv.org/pdf/2605.01790) (transformer; liu26arxiv): https://khala-music-ai.github.io/Khala-demo/
 * [ComposerFlow](https://arxiv.org/pdf/2602.22029) (diffusion; tsai26arxiv): https://composerflow.github.io/web/
