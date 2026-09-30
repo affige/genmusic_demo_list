@@ -1,7 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### song generation; lyrics-to-song (vocal+backing)
-* [YuE2]() (; ): https://huggingface.co/m-a-p/YuE2-3B
+* [YuE2](https://arxiv.org/abs/2609.33757) (; yuan26arxiv): https://huggingface.co/m-a-p/YuE2-3B
 * [FullDiT](https://arxiv.org/pdf/2608.08787) (DiT; li26arxiv): https://selinacloudl.github.io/fulldit-demo/
 * [WanSong v1.0](https://arxiv.org/pdf/2607.14749) (diffusion; chen26arxiv): [n/a]
 * [LeVo 2](https://arxiv.org/pdf/2606.30642) (LLM/diffusion; lei26arxiv): https://levo-demo.github.io/levo_v2_demo/
@@ -87,6 +87,7 @@
 
 
 ### text-to-audio
+* [TinyAudio](https://arxiv.org/abs/2609.31525) (DiT; liu26arxiv): https://tinyaudio-project.github.io/
 * [AudioChat](https://arxiv.org/pdf/2602.17097) (diffusion; chen26icml): https://wanchichen.github.io/audiochat/
 * [Woosh](https://arxiv.org/pdf/2604.01929) (flow; hadjeres26arxiv): https://sonyresearch.github.io/Woosh/
 * [Audio ControlNet](https://www.arxiv.org/pdf/2602.04680) (flow; zhu26arxiv): https://audio-controlnet.github.io/
@@ -95,7 +96,7 @@
 * [MeanAudio](https://arxiv.org/abs/2508.06098) (flow; li25arxiv): https://meanaudio.github.io/
 * [FreeAudio](https://arxiv.org/pdf/2507.08557) (transformer; jiang25mm): https://freeaudio.github.io/FreeAudio/
 * [TangoFlux](https://arxiv.org/pdf/2412.21037) (flow matching; hung25arxiv): https://tangoflux.github.io/
-* [EzAudio](https://arxiv.org/pdf/2409.10819) (diT; hai24arxiv): https://haidog-yaqub.github.io/EzAudio-Page/
+* [EzAudio](https://arxiv.org/pdf/2409.10819) (DiT; hai24arxiv): https://haidog-yaqub.github.io/EzAudio-Page/
 * [MambaFoley](https://arxiv.org/pdf/2409.09162) (mamba; xie24arxiv): n/a
 * [PicoAudio](https://arxiv.org/pdf/2407.02869) (diffusion; xie24arxiv): https://zeyuxie29.github.io/PicoAudio.github.io/
 * [AudioLCM](https://arxiv.org/abs/2406.00356) (diffusion; liu24arxiv): https://audiolcm.github.io/
