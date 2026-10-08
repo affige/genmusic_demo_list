@@ -2,6 +2,7 @@
 
 ### song generation; lyrics-to-song (vocal+backing)
 * [YuE2](https://arxiv.org/abs/2609.33757) (; yuan26arxiv): https://huggingface.co/m-a-p/YuE2-3B
+* [SongCraft](https://arxiv.org/abs/2609.16315) (flow; liu26arxiv): [n/a]
 * [FullDiT](https://arxiv.org/pdf/2608.08787) (DiT; li26arxiv): https://selinacloudl.github.io/fulldit-demo/
 * [WanSong v1.0](https://arxiv.org/pdf/2607.14749) (diffusion; chen26arxiv): [n/a]
 * [LeVo 2](https://arxiv.org/pdf/2606.30642) (LLM/diffusion; lei26arxiv): https://levo-demo.github.io/levo_v2_demo/
