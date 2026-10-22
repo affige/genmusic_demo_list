@@ -27,7 +27,7 @@
 ### cover song generation
 * [MuLaCover](https://arxiv.org/pdf/2610.26684) (; yi26arxiv): https://mulalabs.ai/mulacover/
 * [MPEcho](https://arxiv.org/abs/2607.26698) (; lee26ismir): https://lonian6.github.io/MPEcho.github.io/
-* [SongEcho](https://arxiv.org/abs/2602.19976) (; li26iclr): https://huggingface.co/m-a-p/YuE2-3B
+* [SongEcho](https://arxiv.org/abs/2602.19976) (; li26iclr): https://vvanonymousvv.github.io/SongEcho_updated/
 
 ### streaming/live generation/jamming
 * [SiMe](https://arxiv.org/pdf/2609.07688) (transformer; bretz26arxiv): https://kevin-bretz.github.io/projects/silentmetronome/
