@@ -1,6 +1,7 @@
 ```A list of demo websites for automatic music generation research```
 
 ### song generation; lyrics-to-song (vocal+backing)
+* [SegTune](https://aclanthology.org/2026.acl-long.586.pdf) (DiT; wang26acl): https://github.com/KlingAIResearch/SegTune
 * [YuE2](https://arxiv.org/abs/2609.33757) (; yuan26arxiv): https://huggingface.co/m-a-p/YuE2-3B
 * [SongCraft](https://arxiv.org/abs/2609.16315) (flow; liu26arxiv): [n/a]
 * [FullDiT](https://arxiv.org/pdf/2608.08787) (DiT; li26arxiv): https://selinacloudl.github.io/fulldit-demo/
