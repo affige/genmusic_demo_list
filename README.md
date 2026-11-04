@@ -36,6 +36,9 @@
 * [stream-music-gen](https://arxiv.org/pdf/2510.22105) (transformer; wu25arxiv): https://lukewys.github.io/stream-music-gen/
 
 ### text-to-music
+* [mu-scap](https://arxiv.org/pdf/2611.00685) (diffusion; wu26arxiv): https://mu-scap.github.io/
+* [Piano2Pop](https://arxiv.org/abs/2610.31510) (flow; cheng26arxiv): https://hhhhaura.github.io/piano2pop/
+* [MIDI-REPA](https://arxiv.org/abs/2610.20967) (DiT; yu26arxiv): https://midi-repa.vaclis.net/
 * [LatCH](https://arxiv.org/pdf/2603.04366) (diffusion; novack26icassp): https://zacharynovack.github.io/latch/latch.html
 * [AudioMoG](https://arxiv.org/pdf/2509.23727) (diffusion; wang26icme): https://audiomog.github.io/
 * [Stemphonic](https://drive.google.com/file/d/1gipln45hX-2AmMzT-E7HNK-VpFdohD8T/view) (diffusion; wu25arxiv): https://stemphonic-demo.vercel.app/
