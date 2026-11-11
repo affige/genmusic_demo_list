@@ -475,6 +475,7 @@
 
 
 ### given lyrics, compose melody
+* [HE-L2M](https://arxiv.org/pdf/2604.18489) (; chai26mm): https://lichaiustc.github.io/HE-L2M/
 * [AligningMelody](https://arxiv.org/pdf/2604.18489) (LLM; meng26icassp): https://arain233.github.io/AligningMelody-demo/
 * [CSL-L2M](https://arxiv.org/pdf/2412.09887) (LLM; wang25aaai): https://lichaiustc.github.io/CSL-L2M/
 * [MuDiT/MuSiT](https://arxiv.org/pdf/2407.03188) (LLM; wang24arxiv): N/A
